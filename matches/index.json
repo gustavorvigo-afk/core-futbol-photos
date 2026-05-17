@@ -10,7 +10,7 @@
         "home": 3,
         "away": 2
       },
-      "thumb": "https://www.fcbarcelona.com/photo-resources/2026/05/10/1aced646-754b-4925-bc68-8d1ec5c729c2/JC026511.jpg?width=640&height=427",
+      "thumb": null,
       "file": "matches/2025-04-26_fc_barcelona_vs_real_madrid.json"
     },
     {
@@ -51,7 +51,7 @@
         "htHome": 4,
         "htAway": 2
       },
-      "thumb": "https://www.fcbarcelona.com/photo-resources/2026/05/10/1aced646-754b-4925-bc68-8d1ec5c729c2/JC026511.jpg?width=640&height=427",
+      "thumb": null,
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
