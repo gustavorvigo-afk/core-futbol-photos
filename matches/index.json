@@ -20,8 +20,13 @@
       "date": "2025-04-30",
       "home": "FC Barcelona",
       "away": "Inter Milan",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Knockout Phase",
+      "score": {
+        "home": 3,
+        "away": 3,
+        "htHome": 2,
+        "htAway": 2
+      },
       "thumb": null,
       "file": "matches/2025-04-30_fc_barcelona_vs_inter_milan.json"
     },
