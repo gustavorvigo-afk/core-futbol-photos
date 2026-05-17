@@ -22,8 +22,8 @@
     "city": "",
     "country": "Italy"
   },
-  "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/0nkn571745052380.jpg",
-  "fanart": "https://r2.thesportsdb.com/images/media/event/fanart/bque0y1746625242.jpg",
+  "thumb": "https://www.fcbarcelona.com/photo-resources/2026/05/13/fee4a07b-bf98-4d2f-a443-f7bf0fd377a3/_MGA5050.jpg?width=640&height=427",
+  "fanart": "https://www.fcbarcelona.com/photo-resources/2026/05/13/fee4a07b-bf98-4d2f-a443-f7bf0fd377a3/_MGA5050.jpg?width=1920&height=1280",
   "description": "After a thrilling 3-3 draw in the first leg at the Estadi Olímpic Lluís Companys, Inter Milan and FC Barcelona meet again at the San Siro for the decisive second leg of the UEFA Champions League semifinals. Barcelona, under coach Hansi Flick, aims to capitalize on their attacking prowess, with young talents like Lamine Yamal leading the charge. Inter Milan, managed by Simone Inzaghi, will look to leverage their home advantage and tactical discipline to secure a spot in the final.",
   "tags": [],
   "teamStats": {
@@ -9482,5 +9482,103 @@
     "home": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
     "away": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
   },
-  "sofascoreId": 13513416
+  "sofascoreId": 13513416,
+  "photos": [
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/13/fee4a07b-bf98-4d2f-a443-f7bf0fd377a3/_MGA5050.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/13/fee4a07b-bf98-4d2f-a443-f7bf0fd377a3/_MGA5050.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/13/5ef830a6-1bf9-44bd-873a-a48c4608cc7c/_MGA4916.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/13/5ef830a6-1bf9-44bd-873a-a48c4608cc7c/_MGA4916.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/13/078fb2c2-d2b0-4e43-8d10-df009488ccde/_MGA4931.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/13/078fb2c2-d2b0-4e43-8d10-df009488ccde/_MGA4931.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/13/952d30f5-3b37-48c1-9e03-e73682170425/_MGA4944.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/13/952d30f5-3b37-48c1-9e03-e73682170425/_MGA4944.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/13/055005ed-864d-4f06-809f-047d237a7425/_MGA4938.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/13/055005ed-864d-4f06-809f-047d237a7425/_MGA4938.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/13/6c3ea2a7-e6ff-412b-b7c7-f3099846af64/_MGA4949.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/13/6c3ea2a7-e6ff-412b-b7c7-f3099846af64/_MGA4949.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/13/6b63533a-0e01-4ea0-b82a-77b6e79cf2a1/_MGA4964.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/13/6b63533a-0e01-4ea0-b82a-77b6e79cf2a1/_MGA4964.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/13/0820b258-9535-4281-82bf-261ade55a6cf/_MGA4976.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/13/0820b258-9535-4281-82bf-261ade55a6cf/_MGA4976.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/13/caebb268-71e0-4069-a166-38e926382810/_MGA4954.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/13/caebb268-71e0-4069-a166-38e926382810/_MGA4954.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/13/714ce7d5-7cb1-4ed4-af42-6c9a7cac18f9/_MGA4942.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/13/714ce7d5-7cb1-4ed4-af42-6c9a7cac18f9/_MGA4942.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/fanart/bque0y1746625242.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/0nkn571745052380.jpg",
+      "width": 1280,
+      "height": 720,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    },
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/thumb/0nkn571745052380.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/0nkn571745052380.jpg",
+      "width": 640,
+      "height": 360,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    }
+  ]
 }
