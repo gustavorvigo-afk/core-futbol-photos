@@ -9,20 +9,22 @@
   },
   "score": {
     "home": 4,
-    "away": 3,
-    "htHome": 2,
-    "htAway": 0
+    "away": 3
   },
   "competition": {
-    "name": "UEFA Champions League, Knockout Phase",
-    "logo": null,
-    "season": null,
-    "round": null
+    "name": "UEFA Champions League",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
+    "season": "2024-2025",
+    "round": "150"
   },
-  "venue": null,
-  "thumb": null,
-  "fanart": null,
-  "description": null,
+  "venue": {
+    "name": "Stadio Giuseppe Meazza",
+    "city": "",
+    "country": "Italy"
+  },
+  "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/0nkn571745052380.jpg",
+  "fanart": "https://r2.thesportsdb.com/images/media/event/fanart/bque0y1746625242.jpg",
+  "description": "After a thrilling 3-3 draw in the first leg at the Estadi Olímpic Lluís Companys, Inter Milan and FC Barcelona meet again at the San Siro for the decisive second leg of the UEFA Champions League semifinals. Barcelona, under coach Hansi Flick, aims to capitalize on their attacking prowess, with young talents like Lamine Yamal leading the charge. Inter Milan, managed by Simone Inzaghi, will look to leverage their home advantage and tactical discipline to secure a spot in the final.",
   "tags": [],
   "teamStats": {
     "home": {
@@ -9473,7 +9475,12 @@
     }
   },
   "sources": [
+    "thesportsdb",
     "sofascore"
   ],
+  "teamLogos": {
+    "home": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
+    "away": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+  },
   "sofascoreId": 13513416
 }
