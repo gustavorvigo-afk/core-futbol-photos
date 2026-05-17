@@ -9,20 +9,22 @@
   },
   "score": {
     "home": 3,
-    "away": 3,
-    "htHome": 2,
-    "htAway": 2
+    "away": 3
   },
   "competition": {
-    "name": "UEFA Champions League, Knockout Phase",
-    "logo": null,
-    "season": null,
-    "round": null
+    "name": "UEFA Champions League",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
+    "season": "2024-2025",
+    "round": "150"
   },
-  "venue": null,
-  "thumb": null,
-  "fanart": null,
-  "description": null,
+  "venue": {
+    "name": "Estadi Olímpic Lluís Companys",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/gfmucq1745052377.jpg",
+  "fanart": "https://r2.thesportsdb.com/images/media/event/fanart/6cfkyw1746625420.jpg",
+  "description": "FC Barcelona and Inter Milan face off in the first leg of the UEFA Champions League semifinals at the Estadi Olímpic Lluís Companys. Barcelona, under coach Hansi Flick, aims to capitalize on their home advantage to take the lead in the tie. Despite injury setbacks, including the absence of defender Jules Koundé, the Catalan side will rely on young talents like Lamine Yamal, who has been instrumental in their European campaign. Inter Milan, managed by Simone Inzaghi, arrives with a strong squad, though they face uncertainties regarding the fitness of key players such as Lautaro Martínez and Benjamin Pavard. The Italian side will look to leverage their experience and tactical discipline to secure a favorable result away from home.",
   "tags": [],
   "teamStats": {
     "home": {
@@ -7670,7 +7672,12 @@
     }
   },
   "sources": [
+    "thesportsdb",
     "sofascore"
   ],
+  "teamLogos": {
+    "home": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+    "away": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+  },
   "sofascoreId": 13513414
 }
