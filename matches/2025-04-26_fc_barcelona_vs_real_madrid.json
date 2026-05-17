@@ -9,20 +9,22 @@
   },
   "score": {
     "home": 3,
-    "away": 2,
-    "htHome": 1,
-    "htAway": 0
+    "away": 2
   },
   "competition": {
     "name": "Copa del Rey",
-    "logo": null,
-    "season": null,
-    "round": null
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png",
+    "season": "2024-2025",
+    "round": "200"
   },
-  "venue": null,
-  "thumb": null,
-  "fanart": null,
-  "description": null,
+  "venue": {
+    "name": "Estadio de La Cartuja",
+    "city": "Seville",
+    "country": "Spain"
+  },
+  "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/cs56p61677785855.jpg",
+  "fanart": "https://r2.thesportsdb.com/images/media/event/fanart/0xroa21745744084.jpg",
+  "description": "The 2025 Supercopa de España final was a football match that decided the winner of the 2025 Supercopa de España, the 41st edition of the annual Spanish football super cup competition. The match was played on 12 January 2025 at the King Abdullah Sports City in Jeddah, Saudi Arabia. It was the 'El Clásico' between the 2023–24 La Liga winners Real Madrid and the 2023–24 La Liga runners-up Barcelona, the clubs meeting in the competition's decisive tie for the tenth time overall (until 2020, its format was simply a two-legged match); they also faced each other in the two previous finals, winning one each.",
   "tags": [],
   "teamStats": {
     "home": {
@@ -9501,7 +9503,12 @@
     }
   },
   "sources": [
+    "thesportsdb",
     "sofascore"
   ],
+  "teamLogos": {
+    "home": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+    "away": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+  },
   "sofascoreId": 13708595
 }
