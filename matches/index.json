@@ -34,8 +34,23 @@
       "score": null,
       "thumb": null,
       "file": "matches/2025-05-06_inter_milan_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2025-05-11_fc_barcelona_vs_real_madrid",
+      "date": "2025-05-11",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "LaLiga",
+      "score": {
+        "home": 4,
+        "away": 3,
+        "htHome": 4,
+        "htAway": 2
+      },
+      "thumb": null,
+      "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 3,
+  "count": 4,
   "updated": "2026-05-17"
 }
