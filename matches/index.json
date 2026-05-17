@@ -1,0 +1,21 @@
+{
+  "matches": [
+    {
+      "id": "2025-04-26_fc_barcelona_vs_real_madrid",
+      "date": "2025-04-26",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 3,
+        "away": 2,
+        "htHome": 1,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2025-04-26_fc_barcelona_vs_real_madrid.json"
+    }
+  ],
+  "count": 1,
+  "updated": "2026-05-17"
+}
