@@ -1,6 +1,66 @@
 {
   "matches": [
     {
+      "id": "1974-02-17_fc_barcelona_vs_real_madrid",
+      "date": "1974-02-17",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "LaLiga",
+      "score": {
+        "home": 0,
+        "away": 5,
+        "htHome": 0,
+        "htAway": 2
+      },
+      "thumb": null,
+      "file": "matches/1974-02-17_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "1994-01-08_fc_barcelona_vs_real_madrid",
+      "date": "1994-01-08",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1994-01-08_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "1997-10-31_real_madrid_vs_fc_barcelona",
+      "date": "1997-10-31",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1997-10-31_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "1999-02-13_fc_barcelona_vs_real_madrid",
+      "date": "1999-02-13",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1999-02-13_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "2000-10-21_fc_barcelona_vs_real_madrid",
+      "date": "2000-10-21",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "LaLiga",
+      "score": {
+        "home": 2,
+        "away": 0,
+        "htHome": 1,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2000-10-21_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2025-04-26_fc_barcelona_vs_real_madrid",
       "date": "2025-04-26",
       "home": "FC Barcelona",
@@ -70,6 +130,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 5,
-  "updated": "2026-05-18"
+  "count": 10,
+  "updated": "2026-05-19"
 }
