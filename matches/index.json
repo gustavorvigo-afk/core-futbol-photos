@@ -363,6 +363,36 @@
       "file": "matches/2010-04-10_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2010-04-20_inter_de_mil_n_vs_fc_barcelona",
+      "date": "2010-04-20",
+      "home": "Inter de Milán",
+      "away": "FC Barcelona",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 3,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2010-04-20_inter_de_mil_n_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2010-05-22_bayern_m_nchen_vs_inter_de_mil_n",
+      "date": "2010-05-22",
+      "home": "Bayern München",
+      "away": "Inter de Milán",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 0,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2010-05-22_bayern_m_nchen_vs_inter_de_mil_n.json"
+    },
+    {
       "id": "2010-11-29_fc_barcelona_vs_real_madrid",
       "date": "2010-11-29",
       "home": "FC Barcelona",
@@ -376,6 +406,47 @@
       },
       "thumb": null,
       "file": "matches/2010-11-29_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "2011-03-08_fc_barcelona_vs_arsenal",
+      "date": "2011-03-08",
+      "home": "FC Barcelona",
+      "away": "Arsenal",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 3,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2011-03-08_fc_barcelona_vs_arsenal.json"
+    },
+    {
+      "id": "2011-04-27_real_madrid_vs_fc_barcelona",
+      "date": "2011-04-27",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2011-04-27_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2011-05-28_fc_barcelona_vs_manchester_united",
+      "date": "2011-05-28",
+      "home": "FC Barcelona",
+      "away": "Manchester United",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2011-05-28_fc_barcelona_vs_manchester_united.json"
     },
     {
       "id": "2011-10-12_real_madrid_vs_fc_barcelona",
@@ -421,6 +492,36 @@
       "file": "matches/2012-04-21_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "2012-04-24_fc_barcelona_vs_chelsea",
+      "date": "2012-04-24",
+      "home": "FC Barcelona",
+      "away": "Chelsea",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 2,
+        "away": 2,
+        "htHome": 2,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2012-04-24_fc_barcelona_vs_chelsea.json"
+    },
+    {
+      "id": "2012-05-19_bayern_m_nchen_vs_chelsea",
+      "date": "2012-05-19",
+      "home": "Bayern München",
+      "away": "Chelsea",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 4,
+        "away": 5,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2012-05-19_bayern_m_nchen_vs_chelsea.json"
+    },
+    {
       "id": "2012-10-07_fc_barcelona_vs_real_madrid",
       "date": "2012-10-07",
       "home": "FC Barcelona",
@@ -432,6 +533,111 @@
       },
       "thumb": null,
       "file": "matches/2012-10-07_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "2013-03-12_fc_barcelona_vs_ac_milan",
+      "date": "2013-03-12",
+      "home": "FC Barcelona",
+      "away": "AC Milan",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 4,
+        "away": 0,
+        "htHome": 2,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2013-03-12_fc_barcelona_vs_ac_milan.json"
+    },
+    {
+      "id": "2013-04-03_m_laga_vs_borussia_dortmund",
+      "date": "2013-04-03",
+      "home": "Málaga",
+      "away": "Borussia Dortmund",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 0,
+        "away": 0,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2013-04-03_m_laga_vs_borussia_dortmund.json"
+    },
+    {
+      "id": "2013-04-09_borussia_dortmund_vs_m_laga",
+      "date": "2013-04-09",
+      "home": "Borussia Dortmund",
+      "away": "Málaga",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 3,
+        "away": 2,
+        "htHome": 1,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2013-04-09_borussia_dortmund_vs_m_laga.json"
+    },
+    {
+      "id": "2013-04-23_bayern_m_nchen_vs_fc_barcelona",
+      "date": "2013-04-23",
+      "home": "Bayern München",
+      "away": "FC Barcelona",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 4,
+        "away": 0,
+        "htHome": 1,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2013-04-23_bayern_m_nchen_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2013-04-24_borussia_dortmund_vs_real_madrid",
+      "date": "2013-04-24",
+      "home": "Borussia Dortmund",
+      "away": "Real Madrid",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 4,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2013-04-24_borussia_dortmund_vs_real_madrid.json"
+    },
+    {
+      "id": "2013-05-01_fc_barcelona_vs_bayern_m_nchen",
+      "date": "2013-05-01",
+      "home": "FC Barcelona",
+      "away": "Bayern München",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 0,
+        "away": 3,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2013-05-01_fc_barcelona_vs_bayern_m_nchen.json"
+    },
+    {
+      "id": "2013-05-25_borussia_dortmund_vs_bayern_m_nchen",
+      "date": "2013-05-25",
+      "home": "Borussia Dortmund",
+      "away": "Bayern München",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 1,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2013-05-25_borussia_dortmund_vs_bayern_m_nchen.json"
     },
     {
       "id": "2013-10-26_fc_barcelona_vs_real_madrid",
@@ -462,6 +668,26 @@
       },
       "thumb": null,
       "file": "matches/2014-03-23_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2014-05-24_real_madrid_vs_atl_tico_de_madrid",
+      "date": "2014-05-24",
+      "home": "Real Madrid",
+      "away": "Atlético de Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-05-24_real_madrid_vs_atl_tico_de_madrid.json"
+    },
+    {
+      "id": "2014-09-17_bayern_m_nchen_vs_as_roma",
+      "date": "2014-09-17",
+      "home": "Bayern München",
+      "away": "AS Roma",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-09-17_bayern_m_nchen_vs_as_roma.json"
     },
     {
       "id": "2014-10-25_real_madrid_vs_fc_barcelona",
@@ -517,6 +743,36 @@
       "file": "matches/2015-03-08_fc_barcelona_vs_rayo_vallecano.json"
     },
     {
+      "id": "2015-03-11_bayern_m_nchen_vs_shakhtar_donetsk",
+      "date": "2015-03-11",
+      "home": "Bayern München",
+      "away": "Shakhtar Donetsk",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 7,
+        "away": 0,
+        "htHome": 2,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2015-03-11_bayern_m_nchen_vs_shakhtar_donetsk.json"
+    },
+    {
+      "id": "2015-03-18_borussia_dortmund_vs_juventus",
+      "date": "2015-03-18",
+      "home": "Borussia Dortmund",
+      "away": "Juventus",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 0,
+        "away": 3,
+        "htHome": 0,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-03-18_borussia_dortmund_vs_juventus.json"
+    },
+    {
       "id": "2015-03-22_fc_barcelona_vs_real_madrid",
       "date": "2015-03-22",
       "home": "FC Barcelona",
@@ -540,6 +796,21 @@
       "file": "matches/2015-04-05_fc_barcelona_vs_atl_tico_de_madrid.json"
     },
     {
+      "id": "2015-04-21_bayern_m_nchen_vs_porto",
+      "date": "2015-04-21",
+      "home": "Bayern München",
+      "away": "Porto",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 6,
+        "away": 1,
+        "htHome": 5,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2015-04-21_bayern_m_nchen_vs_porto.json"
+    },
+    {
       "id": "2015-05-02_c_rdoba_vs_fc_barcelona",
       "date": "2015-05-02",
       "home": "Córdoba",
@@ -553,6 +824,21 @@
       },
       "thumb": null,
       "file": "matches/2015-05-02_c_rdoba_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2015-05-12_bayern_m_nchen_vs_fc_barcelona",
+      "date": "2015-05-12",
+      "home": "Bayern München",
+      "away": "FC Barcelona",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 3,
+        "away": 2,
+        "htHome": 1,
+        "htAway": 2
+      },
+      "thumb": null,
+      "file": "matches/2015-05-12_bayern_m_nchen_vs_fc_barcelona.json"
     },
     {
       "id": "2015-05-17_atl_tico_de_madrid_vs_fc_barcelona",
@@ -899,6 +1185,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 70,
+  "count": 90,
   "updated": "2026-05-19"
 }
