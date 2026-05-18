@@ -270,6 +270,29 @@
       "file": "matches/2014-03-23_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2014-10-25_real_madrid_vs_fc_barcelona",
+      "date": "2014-10-25",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2014-10-25_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2014-11-01_fc_barcelona_vs_getafe",
+      "date": "2014-11-01",
+      "home": "FC Barcelona",
+      "away": "Getafe",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-11-01_fc_barcelona_vs_getafe.json"
+    },
+    {
       "id": "2015-02-08_athletic_club_vs_fc_barcelona",
       "date": "2015-02-08",
       "home": "Athletic Club",
@@ -283,6 +306,34 @@
       },
       "thumb": null,
       "file": "matches/2015-02-08_athletic_club_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2015-03-08_fc_barcelona_vs_rayo_vallecano",
+      "date": "2015-03-08",
+      "home": "FC Barcelona",
+      "away": "Rayo Vallecano",
+      "competition": "LaLiga",
+      "score": {
+        "home": 6,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2015-03-08_fc_barcelona_vs_rayo_vallecano.json"
+    },
+    {
+      "id": "2015-03-22_fc_barcelona_vs_real_madrid",
+      "date": "2015-03-22",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/twrwvv1430251003.jpg",
+      "file": "matches/2015-03-22_fc_barcelona_vs_real_madrid.json"
     },
     {
       "id": "2015-04-05_fc_barcelona_vs_atl_tico_de_madrid",
@@ -318,6 +369,207 @@
       "score": null,
       "thumb": null,
       "file": "matches/2015-05-17_atl_tico_de_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2015-09-12_atl_tico_de_madrid_vs_fc_barcelona",
+      "date": "2015-09-12",
+      "home": "Atlético de Madrid",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-09-12_atl_tico_de_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2015-11-21_real_madrid_vs_fc_barcelona",
+      "date": "2015-11-21",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "thumb": null,
+      "file": "matches/2015-11-21_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2015-12-05_valencia_vs_fc_barcelona",
+      "date": "2015-12-05",
+      "home": "Valencia",
+      "away": "FC Barcelona",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-12-05_valencia_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2015-12-20_real_madrid_vs_rayo_vallecano",
+      "date": "2015-12-20",
+      "home": "Real Madrid",
+      "away": "Rayo Vallecano",
+      "competition": "LaLiga",
+      "score": {
+        "home": 10,
+        "away": 2,
+        "htHome": 4,
+        "htAway": 2
+      },
+      "thumb": null,
+      "file": "matches/2015-12-20_real_madrid_vs_rayo_vallecano.json"
+    },
+    {
+      "id": "2015-12-30_fc_barcelona_vs_real_betis",
+      "date": "2015-12-30",
+      "home": "FC Barcelona",
+      "away": "Real Betis",
+      "competition": "LaLiga",
+      "score": {
+        "home": 4,
+        "away": 0,
+        "htHome": 2,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2015-12-30_fc_barcelona_vs_real_betis.json"
+    },
+    {
+      "id": "2016-01-17_fc_barcelona_vs_athletic_club",
+      "date": "2016-01-17",
+      "home": "FC Barcelona",
+      "away": "Athletic Club",
+      "competition": "LaLiga",
+      "score": {
+        "home": 6,
+        "away": 0,
+        "htHome": 2,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2016-01-17_fc_barcelona_vs_athletic_club.json"
+    },
+    {
+      "id": "2016-01-23_m_laga_vs_fc_barcelona",
+      "date": "2016-01-23",
+      "home": "Málaga",
+      "away": "FC Barcelona",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "thumb": null,
+      "file": "matches/2016-01-23_m_laga_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2016-01-30_fc_barcelona_vs_atl_tico_de_madrid",
+      "date": "2016-01-30",
+      "home": "FC Barcelona",
+      "away": "Atlético de Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-01-30_fc_barcelona_vs_atl_tico_de_madrid.json"
+    },
+    {
+      "id": "2016-02-14_fc_barcelona_vs_celta_de_vigo",
+      "date": "2016-02-14",
+      "home": "FC Barcelona",
+      "away": "Celta de Vigo",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-14_fc_barcelona_vs_celta_de_vigo.json"
+    },
+    {
+      "id": "2016-02-17_sporting_gijon_vs_fc_barcelona",
+      "date": "2016-02-17",
+      "home": "Sporting Gijon",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-17_sporting_gijon_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2016-02-27_real_madrid_vs_atl_tico_de_madrid",
+      "date": "2016-02-27",
+      "home": "Real Madrid",
+      "away": "Atlético de Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-27_real_madrid_vs_atl_tico_de_madrid.json"
+    },
+    {
+      "id": "2016-02-28_fc_barcelona_vs_sevilla",
+      "date": "2016-02-28",
+      "home": "FC Barcelona",
+      "away": "Sevilla",
+      "competition": "LaLiga",
+      "score": {
+        "home": 2,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2016-02-28_fc_barcelona_vs_sevilla.json"
+    },
+    {
+      "id": "2016-03-12_fc_barcelona_vs_getafe",
+      "date": "2016-03-12",
+      "home": "FC Barcelona",
+      "away": "Getafe",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "thumb": null,
+      "file": "matches/2016-03-12_fc_barcelona_vs_getafe.json"
+    },
+    {
+      "id": "2016-11-06_sevilla_vs_fc_barcelona",
+      "date": "2016-11-06",
+      "home": "Sevilla",
+      "away": "FC Barcelona",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "thumb": null,
+      "file": "matches/2016-11-06_sevilla_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2017-03-01_real_madrid_vs_las_palmas",
+      "date": "2017-03-01",
+      "home": "Real Madrid",
+      "away": "Las Palmas",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "thumb": null,
+      "file": "matches/2017-03-01_real_madrid_vs_las_palmas.json"
+    },
+    {
+      "id": "2017-04-23_real_madrid_vs_fc_barcelona",
+      "date": "2017-04-23",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "thumb": null,
+      "file": "matches/2017-04-23_real_madrid_vs_fc_barcelona.json"
     },
     {
       "id": "2025-04-26_fc_barcelona_vs_real_madrid",
@@ -389,6 +641,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 30,
+  "count": 50,
   "updated": "2026-05-19"
 }
