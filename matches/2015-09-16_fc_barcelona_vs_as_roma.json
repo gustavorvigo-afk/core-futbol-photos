@@ -1,0 +1,22 @@
+{
+  "id": "2015-09-16_fc_barcelona_vs_as_roma",
+  "date": "2015-09-16",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "AS Roma"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}

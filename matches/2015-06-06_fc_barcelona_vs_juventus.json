@@ -1,0 +1,40 @@
+{
+  "id": "2015-06-06_fc_barcelona_vs_juventus",
+  "date": "2015-06-06",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "Juventus"
+  },
+  "score": {
+    "home": 1,
+    "away": 3
+  },
+  "competition": {
+    "name": "UEFA Champions League",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/5y7gsj1678720262.png",
+    "season": "2014-2015",
+    "round": "200"
+  },
+  "venue": {
+    "name": "",
+    "city": "",
+    "country": ""
+  },
+  "thumb": null,
+  "fanart": null,
+  "description": "",
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": []
+}

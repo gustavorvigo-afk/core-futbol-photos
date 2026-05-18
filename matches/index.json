@@ -680,6 +680,16 @@
       "file": "matches/2014-05-24_real_madrid_vs_atl_tico_de_madrid.json"
     },
     {
+      "id": "2014-09-16_manchester_city_vs_bayern_m_nchen",
+      "date": "2014-09-16",
+      "home": "Manchester City",
+      "away": "Bayern München",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-09-16_manchester_city_vs_bayern_m_nchen.json"
+    },
+    {
       "id": "2014-09-17_bayern_m_nchen_vs_as_roma",
       "date": "2014-09-17",
       "home": "Bayern München",
@@ -688,6 +698,26 @@
       "score": null,
       "thumb": null,
       "file": "matches/2014-09-17_bayern_m_nchen_vs_as_roma.json"
+    },
+    {
+      "id": "2014-09-30_fc_barcelona_vs_paris_saint_germain",
+      "date": "2014-09-30",
+      "home": "FC Barcelona",
+      "away": "Paris Saint-Germain",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-09-30_fc_barcelona_vs_paris_saint_germain.json"
+    },
+    {
+      "id": "2014-09-30_paris_saint_germain_vs_fc_barcelona",
+      "date": "2014-09-30",
+      "home": "Paris Saint-Germain",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-09-30_paris_saint_germain_vs_fc_barcelona.json"
     },
     {
       "id": "2014-10-25_real_madrid_vs_fc_barcelona",
@@ -728,6 +758,16 @@
       "file": "matches/2015-02-08_athletic_club_vs_fc_barcelona.json"
     },
     {
+      "id": "2015-02-24_manchester_city_vs_fc_barcelona",
+      "date": "2015-02-24",
+      "home": "Manchester City",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-02-24_manchester_city_vs_fc_barcelona.json"
+    },
+    {
       "id": "2015-03-08_fc_barcelona_vs_rayo_vallecano",
       "date": "2015-03-08",
       "home": "FC Barcelona",
@@ -758,6 +798,21 @@
       "file": "matches/2015-03-11_bayern_m_nchen_vs_shakhtar_donetsk.json"
     },
     {
+      "id": "2015-03-11_chelsea_vs_paris_saint_germain",
+      "date": "2015-03-11",
+      "home": "Chelsea",
+      "away": "Paris Saint-Germain",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 2,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2015-03-11_chelsea_vs_paris_saint_germain.json"
+    },
+    {
       "id": "2015-03-18_borussia_dortmund_vs_juventus",
       "date": "2015-03-18",
       "home": "Borussia Dortmund",
@@ -771,6 +826,21 @@
       },
       "thumb": null,
       "file": "matches/2015-03-18_borussia_dortmund_vs_juventus.json"
+    },
+    {
+      "id": "2015-03-18_fc_barcelona_vs_manchester_city",
+      "date": "2015-03-18",
+      "home": "FC Barcelona",
+      "away": "Manchester City",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 1,
+        "away": 0,
+        "htHome": 1,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2015-03-18_fc_barcelona_vs_manchester_city.json"
     },
     {
       "id": "2015-03-22_fc_barcelona_vs_real_madrid",
@@ -826,6 +896,21 @@
       "file": "matches/2015-05-02_c_rdoba_vs_fc_barcelona.json"
     },
     {
+      "id": "2015-05-06_fc_barcelona_vs_bayern_m_nchen",
+      "date": "2015-05-06",
+      "home": "FC Barcelona",
+      "away": "Bayern München",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 3,
+        "away": 0,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2015-05-06_fc_barcelona_vs_bayern_m_nchen.json"
+    },
+    {
       "id": "2015-05-12_bayern_m_nchen_vs_fc_barcelona",
       "date": "2015-05-12",
       "home": "Bayern München",
@@ -851,6 +936,29 @@
       "file": "matches/2015-05-17_atl_tico_de_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2015-06-06_fc_barcelona_vs_juventus",
+      "date": "2015-06-06",
+      "home": "FC Barcelona",
+      "away": "Juventus",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "thumb": null,
+      "file": "matches/2015-06-06_fc_barcelona_vs_juventus.json"
+    },
+    {
+      "id": "2015-06-06_juventus_vs_real_madrid",
+      "date": "2015-06-06",
+      "home": "Juventus",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-06-06_juventus_vs_real_madrid.json"
+    },
+    {
       "id": "2015-09-12_atl_tico_de_madrid_vs_fc_barcelona",
       "date": "2015-09-12",
       "home": "Atlético de Madrid",
@@ -859,6 +967,36 @@
       "score": null,
       "thumb": null,
       "file": "matches/2015-09-12_atl_tico_de_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2015-09-15_juventus_vs_manchester_city",
+      "date": "2015-09-15",
+      "home": "Juventus",
+      "away": "Manchester City",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-09-15_juventus_vs_manchester_city.json"
+    },
+    {
+      "id": "2015-09-16_fc_barcelona_vs_as_roma",
+      "date": "2015-09-16",
+      "home": "FC Barcelona",
+      "away": "AS Roma",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-09-16_fc_barcelona_vs_as_roma.json"
+    },
+    {
+      "id": "2015-09-29_fc_barcelona_vs_bayer_leverkusen",
+      "date": "2015-09-29",
+      "home": "FC Barcelona",
+      "away": "Bayer Leverkusen",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-09-29_fc_barcelona_vs_bayer_leverkusen.json"
     },
     {
       "id": "2015-11-21_real_madrid_vs_fc_barcelona",
@@ -965,6 +1103,26 @@
       "file": "matches/2016-02-14_fc_barcelona_vs_celta_de_vigo.json"
     },
     {
+      "id": "2016-02-15_bayern_m_nchen_vs_arsenal",
+      "date": "2016-02-15",
+      "home": "Bayern München",
+      "away": "Arsenal",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-15_bayern_m_nchen_vs_arsenal.json"
+    },
+    {
+      "id": "2016-02-17_as_roma_vs_real_madrid",
+      "date": "2016-02-17",
+      "home": "AS Roma",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-17_as_roma_vs_real_madrid.json"
+    },
+    {
       "id": "2016-02-17_sporting_gijon_vs_fc_barcelona",
       "date": "2016-02-17",
       "home": "Sporting Gijon",
@@ -973,6 +1131,26 @@
       "score": null,
       "thumb": null,
       "file": "matches/2016-02-17_sporting_gijon_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2016-02-23_arsenal_vs_fc_barcelona",
+      "date": "2016-02-23",
+      "home": "Arsenal",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-23_arsenal_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2016-02-23_juventus_vs_bayern_m_nchen",
+      "date": "2016-02-23",
+      "home": "Juventus",
+      "away": "Bayern München",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-23_juventus_vs_bayern_m_nchen.json"
     },
     {
       "id": "2016-02-27_real_madrid_vs_atl_tico_de_madrid",
@@ -1011,6 +1189,46 @@
       },
       "thumb": null,
       "file": "matches/2016-03-12_fc_barcelona_vs_getafe.json"
+    },
+    {
+      "id": "2016-03-16_arsenal_vs_bayern_m_nchen",
+      "date": "2016-03-16",
+      "home": "Arsenal",
+      "away": "Bayern München",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-03-16_arsenal_vs_bayern_m_nchen.json"
+    },
+    {
+      "id": "2016-03-16_bayern_m_nchen_vs_juventus",
+      "date": "2016-03-16",
+      "home": "Bayern München",
+      "away": "Juventus",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-03-16_bayern_m_nchen_vs_juventus.json"
+    },
+    {
+      "id": "2016-03-16_fc_barcelona_vs_arsenal",
+      "date": "2016-03-16",
+      "home": "FC Barcelona",
+      "away": "Arsenal",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-03-16_fc_barcelona_vs_arsenal.json"
+    },
+    {
+      "id": "2016-05-03_bayern_m_nchen_vs_atl_tico_de_madrid",
+      "date": "2016-05-03",
+      "home": "Bayern München",
+      "away": "Atlético de Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-05-03_bayern_m_nchen_vs_atl_tico_de_madrid.json"
     },
     {
       "id": "2016-11-06_sevilla_vs_fc_barcelona",
@@ -1185,6 +1403,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 90,
+  "count": 110,
   "updated": "2026-05-19"
 }

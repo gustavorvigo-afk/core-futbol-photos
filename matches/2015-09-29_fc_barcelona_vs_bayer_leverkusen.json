@@ -1,0 +1,22 @@
+{
+  "id": "2015-09-29_fc_barcelona_vs_bayer_leverkusen",
+  "date": "2015-09-29",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "Bayer Leverkusen"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}

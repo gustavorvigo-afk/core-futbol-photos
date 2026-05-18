@@ -1,0 +1,22 @@
+{
+  "id": "2015-09-15_juventus_vs_manchester_city",
+  "date": "2015-09-15",
+  "home": {
+    "name": "Juventus"
+  },
+  "away": {
+    "name": "Manchester City"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
