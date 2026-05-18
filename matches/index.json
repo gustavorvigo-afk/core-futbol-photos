@@ -16,6 +16,52 @@
       "file": "matches/1974-02-17_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "1988-11-02_ac_milan_vs_real_madrid",
+      "date": "1988-11-02",
+      "home": "AC Milan",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1988-11-02_ac_milan_vs_real_madrid.json"
+    },
+    {
+      "id": "1989-05-24_ac_milan_vs_steaua_bucaresti",
+      "date": "1989-05-24",
+      "home": "AC Milan",
+      "away": "Steaua Bucaresti",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1989-05-24_ac_milan_vs_steaua_bucaresti.json"
+    },
+    {
+      "id": "1990-05-23_ac_milan_vs_benfica",
+      "date": "1990-05-23",
+      "home": "AC Milan",
+      "away": "Benfica",
+      "competition": "European Cup",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "thumb": null,
+      "file": "matches/1990-05-23_ac_milan_vs_benfica.json"
+    },
+    {
+      "id": "1992-05-20_fc_barcelona_vs_sampdoria",
+      "date": "1992-05-20",
+      "home": "FC Barcelona",
+      "away": "Sampdoria",
+      "competition": "European Cup",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/1992-05-20_fc_barcelona_vs_sampdoria.json"
+    },
+    {
       "id": "1994-01-08_fc_barcelona_vs_real_madrid",
       "date": "1994-01-08",
       "home": "FC Barcelona",
@@ -61,6 +107,19 @@
       "file": "matches/2000-10-21_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "2003-05-28_juventus_vs_ac_milan",
+      "date": "2003-05-28",
+      "home": "Juventus",
+      "away": "AC Milan",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "thumb": null,
+      "file": "matches/2003-05-28_juventus_vs_ac_milan.json"
+    },
+    {
       "id": "2005-04-10_real_madrid_vs_fc_barcelona",
       "date": "2005-04-10",
       "home": "Real Madrid",
@@ -76,6 +135,19 @@
       "file": "matches/2005-04-10_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2005-05-25_liverpool_vs_ac_milan",
+      "date": "2005-05-25",
+      "home": "Liverpool",
+      "away": "AC Milan",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/cfaa011665741490.jpg",
+      "file": "matches/2005-05-25_liverpool_vs_ac_milan.json"
+    },
+    {
       "id": "2005-11-19_real_madrid_vs_fc_barcelona",
       "date": "2005-11-19",
       "home": "Real Madrid",
@@ -89,6 +161,47 @@
       },
       "thumb": null,
       "file": "matches/2005-11-19_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2006-04-25_villarreal_vs_arsenal",
+      "date": "2006-04-25",
+      "home": "Villarreal",
+      "away": "Arsenal",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 0,
+        "away": 0,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2006-04-25_villarreal_vs_arsenal.json"
+    },
+    {
+      "id": "2006-05-17_fc_barcelona_vs_arsenal",
+      "date": "2006-05-17",
+      "home": "FC Barcelona",
+      "away": "Arsenal",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2006-05-17_fc_barcelona_vs_arsenal.json"
+    },
+    {
+      "id": "2007-05-23_ac_milan_vs_liverpool",
+      "date": "2007-05-23",
+      "home": "AC Milan",
+      "away": "Liverpool",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2007-05-23_ac_milan_vs_liverpool.json"
     },
     {
       "id": "2007-10-03_fc_barcelona_vs_real_madrid",
@@ -116,6 +229,44 @@
       "file": "matches/2008-05-07_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2008-05-21_manchester_united_vs_chelsea",
+      "date": "2008-05-21",
+      "home": "Manchester United",
+      "away": "Chelsea",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2008-05-21_manchester_united_vs_chelsea.json"
+    },
+    {
+      "id": "2009-04-08_fc_barcelona_vs_bayern_m_nchen",
+      "date": "2009-04-08",
+      "home": "FC Barcelona",
+      "away": "Bayern München",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 4,
+        "away": 0,
+        "htHome": 4,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2009-04-08_fc_barcelona_vs_bayern_m_nchen.json"
+    },
+    {
+      "id": "2009-04-30_chelsea_vs_liverpool",
+      "date": "2009-04-30",
+      "home": "Chelsea",
+      "away": "Liverpool",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2009-04-30_chelsea_vs_liverpool.json"
+    },
+    {
       "id": "2009-05-02_real_madrid_vs_fc_barcelona",
       "date": "2009-05-02",
       "home": "Real Madrid",
@@ -129,6 +280,34 @@
       },
       "thumb": null,
       "file": "matches/2009-05-02_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2009-05-06_chelsea_vs_fc_barcelona",
+      "date": "2009-05-06",
+      "home": "Chelsea",
+      "away": "FC Barcelona",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 1,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2009-05-06_chelsea_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2009-05-27_fc_barcelona_vs_manchester_united",
+      "date": "2009-05-27",
+      "home": "FC Barcelona",
+      "away": "Manchester United",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "thumb": null,
+      "file": "matches/2009-05-27_fc_barcelona_vs_manchester_united.json"
     },
     {
       "id": "2009-09-19_fc_barcelona_vs_atl_tico_de_madrid",
@@ -154,6 +333,21 @@
       },
       "thumb": null,
       "file": "matches/2009-11-29_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "2010-03-31_arsenal_vs_fc_barcelona",
+      "date": "2010-03-31",
+      "home": "Arsenal",
+      "away": "FC Barcelona",
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 2,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2010-03-31_arsenal_vs_fc_barcelona.json"
     },
     {
       "id": "2010-04-10_real_madrid_vs_fc_barcelona",
@@ -572,6 +766,70 @@
       "file": "matches/2017-04-23_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2017-12-23_real_madrid_vs_fc_barcelona",
+      "date": "2017-12-23",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/huot5e1513892898.jpg",
+      "file": "matches/2017-12-23_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2018-10-28_fc_barcelona_vs_real_madrid",
+      "date": "2018-10-28",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "LaLiga",
+      "score": {
+        "home": 5,
+        "away": 1,
+        "htHome": 2,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2018-10-28_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "2021-02-03_granada_vs_fc_barcelona",
+      "date": "2021-02-03",
+      "home": "Granada",
+      "away": "FC Barcelona",
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 3,
+        "away": 5
+      },
+      "thumb": null,
+      "file": "matches/2021-02-03_granada_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2023-03-19_fc_barcelona_vs_real_madrid",
+      "date": "2023-03-19",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/kfar2s1677785812.jpg",
+      "file": "matches/2023-03-19_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "2024-04-26_real_madrid_vs_fc_barcelona",
+      "date": "2024-04-26",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
+    },
+    {
       "id": "2025-04-26_fc_barcelona_vs_real_madrid",
       "date": "2025-04-26",
       "home": "FC Barcelona",
@@ -641,6 +899,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 50,
+  "count": 70,
   "updated": "2026-05-19"
 }

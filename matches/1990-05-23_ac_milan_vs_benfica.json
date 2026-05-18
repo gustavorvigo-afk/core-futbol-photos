@@ -1,0 +1,40 @@
+{
+  "id": "1990-05-23_ac_milan_vs_benfica",
+  "date": "1990-05-23",
+  "home": {
+    "name": "AC Milan"
+  },
+  "away": {
+    "name": "Benfica"
+  },
+  "score": {
+    "home": 1,
+    "away": 0
+  },
+  "competition": {
+    "name": "European Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/yo0w811613146700.png",
+    "season": "1989-1990",
+    "round": "200"
+  },
+  "venue": {
+    "name": "Praterstadion",
+    "city": null,
+    "country": null
+  },
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": []
+}
