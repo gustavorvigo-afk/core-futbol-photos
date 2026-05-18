@@ -72,6 +72,16 @@
       "file": "matches/1994-01-08_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "1997-01-15_fc_barcelona_vs_atl_tico_de_madrid",
+      "date": "1997-01-15",
+      "home": "FC Barcelona",
+      "away": "Atlético de Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1997-01-15_fc_barcelona_vs_atl_tico_de_madrid.json"
+    },
+    {
       "id": "1997-10-31_real_madrid_vs_fc_barcelona",
       "date": "1997-10-31",
       "home": "Real Madrid",
@@ -295,6 +305,16 @@
       },
       "thumb": null,
       "file": "matches/2009-05-06_chelsea_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2009-05-13_athletic_bilbao_vs_fc_barcelona",
+      "date": "2009-05-13",
+      "home": "Athletic Bilbao",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2009-05-13_athletic_bilbao_vs_fc_barcelona.json"
     },
     {
       "id": "2009-05-27_fc_barcelona_vs_manchester_united",
@@ -999,6 +1019,26 @@
       "file": "matches/2015-09-29_fc_barcelona_vs_bayer_leverkusen.json"
     },
     {
+      "id": "2015-11-03_manchester_city_vs_juventus",
+      "date": "2015-11-03",
+      "home": "Manchester City",
+      "away": "Juventus",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-11-03_manchester_city_vs_juventus.json"
+    },
+    {
+      "id": "2015-11-03_real_madrid_vs_paris_saint_germain",
+      "date": "2015-11-03",
+      "home": "Real Madrid",
+      "away": "Paris Saint-Germain",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-11-03_real_madrid_vs_paris_saint_germain.json"
+    },
+    {
       "id": "2015-11-21_real_madrid_vs_fc_barcelona",
       "date": "2015-11-21",
       "home": "Real Madrid",
@@ -1231,6 +1271,36 @@
       "file": "matches/2016-05-03_bayern_m_nchen_vs_atl_tico_de_madrid.json"
     },
     {
+      "id": "2016-09-13_fc_barcelona_vs_celtic",
+      "date": "2016-09-13",
+      "home": "FC Barcelona",
+      "away": "Celtic",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-09-13_fc_barcelona_vs_celtic.json"
+    },
+    {
+      "id": "2016-10-19_fc_barcelona_vs_manchester_city",
+      "date": "2016-10-19",
+      "home": "FC Barcelona",
+      "away": "Manchester City",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-10-19_fc_barcelona_vs_manchester_city.json"
+    },
+    {
+      "id": "2016-11-01_manchester_city_vs_fc_barcelona",
+      "date": "2016-11-01",
+      "home": "Manchester City",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-11-01_manchester_city_vs_fc_barcelona.json"
+    },
+    {
       "id": "2016-11-06_sevilla_vs_fc_barcelona",
       "date": "2016-11-06",
       "home": "Sevilla",
@@ -1257,6 +1327,16 @@
       "file": "matches/2017-03-01_real_madrid_vs_las_palmas.json"
     },
     {
+      "id": "2017-03-07_fc_barcelona_vs_paris_saint_germain",
+      "date": "2017-03-07",
+      "home": "FC Barcelona",
+      "away": "Paris Saint-Germain",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2017-03-07_fc_barcelona_vs_paris_saint_germain.json"
+    },
+    {
       "id": "2017-04-23_real_madrid_vs_fc_barcelona",
       "date": "2017-04-23",
       "home": "Real Madrid",
@@ -1270,6 +1350,19 @@
       "file": "matches/2017-04-23_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2017-06-03_juventus_vs_real_madrid",
+      "date": "2017-06-03",
+      "home": "Juventus",
+      "away": "Real Madrid",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "thumb": null,
+      "file": "matches/2017-06-03_juventus_vs_real_madrid.json"
+    },
+    {
       "id": "2017-12-23_real_madrid_vs_fc_barcelona",
       "date": "2017-12-23",
       "home": "Real Madrid",
@@ -1281,6 +1374,19 @@
       },
       "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/huot5e1513892898.jpg",
       "file": "matches/2017-12-23_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2018-05-26_real_madrid_vs_liverpool",
+      "date": "2018-05-26",
+      "home": "Real Madrid",
+      "away": "Liverpool",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/6lhkgj1634960085.jpg",
+      "file": "matches/2018-05-26_real_madrid_vs_liverpool.json"
     },
     {
       "id": "2018-10-28_fc_barcelona_vs_real_madrid",
@@ -1298,6 +1404,104 @@
       "file": "matches/2018-10-28_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "2019-03-05_real_madrid_vs_ajax",
+      "date": "2019-03-05",
+      "home": "Real Madrid",
+      "away": "Ajax",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/zim4ks1551725844.jpg",
+      "file": "matches/2019-03-05_real_madrid_vs_ajax.json"
+    },
+    {
+      "id": "2019-04-17_manchester_city_vs_tottenham_hotspur",
+      "date": "2019-04-17",
+      "home": "Manchester City",
+      "away": "Tottenham Hotspur",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/a1r93h1552670204.jpg",
+      "file": "matches/2019-04-17_manchester_city_vs_tottenham_hotspur.json"
+    },
+    {
+      "id": "2019-05-01_fc_barcelona_vs_liverpool",
+      "date": "2019-05-01",
+      "home": "FC Barcelona",
+      "away": "Liverpool",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/5q4n1o1555786343.jpg",
+      "file": "matches/2019-05-01_fc_barcelona_vs_liverpool.json"
+    },
+    {
+      "id": "2019-05-07_liverpool_vs_fc_barcelona",
+      "date": "2019-05-07",
+      "home": "Liverpool",
+      "away": "FC Barcelona",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/xaj2ox1555786375.jpg",
+      "file": "matches/2019-05-07_liverpool_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2019-06-01_tottenham_vs_liverpool",
+      "date": "2019-06-01",
+      "home": "Tottenham",
+      "away": "Liverpool",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/djtke91558471252.jpg",
+      "file": "matches/2019-06-01_tottenham_vs_liverpool.json"
+    },
+    {
+      "id": "2020-03-11_liverpool_vs_atl_tico_de_madrid",
+      "date": "2020-03-11",
+      "home": "Liverpool",
+      "away": "Atlético de Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2020-03-11_liverpool_vs_atl_tico_de_madrid.json"
+    },
+    {
+      "id": "2020-08-14_fc_barcelona_vs_bayern_m_nchen",
+      "date": "2020-08-14",
+      "home": "FC Barcelona",
+      "away": "Bayern München",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2020-08-14_fc_barcelona_vs_bayern_m_nchen.json"
+    },
+    {
+      "id": "2020-12-08_juventus_vs_fc_barcelona",
+      "date": "2020-12-08",
+      "home": "Juventus",
+      "away": "FC Barcelona",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/sa1deb1603140870.jpg",
+      "file": "matches/2020-12-08_juventus_vs_fc_barcelona.json"
+    },
+    {
       "id": "2021-02-03_granada_vs_fc_barcelona",
       "date": "2021-02-03",
       "home": "Granada",
@@ -1309,6 +1513,19 @@
       },
       "thumb": null,
       "file": "matches/2021-02-03_granada_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2021-03-03_fc_barcelona_vs_sevilla",
+      "date": "2021-03-03",
+      "home": "FC Barcelona",
+      "away": "Sevilla",
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "thumb": null,
+      "file": "matches/2021-03-03_fc_barcelona_vs_sevilla.json"
     },
     {
       "id": "2023-03-19_fc_barcelona_vs_real_madrid",
@@ -1332,6 +1549,16 @@
       "score": null,
       "thumb": null,
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2024-10-23_fc_barcelona_vs_bayern_m_nchen",
+      "date": "2024-10-23",
+      "home": "FC Barcelona",
+      "away": "Bayern München",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2024-10-23_fc_barcelona_vs_bayern_m_nchen.json"
     },
     {
       "id": "2025-04-26_fc_barcelona_vs_real_madrid",
@@ -1403,6 +1630,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 110,
+  "count": 130,
   "updated": "2026-05-19"
 }

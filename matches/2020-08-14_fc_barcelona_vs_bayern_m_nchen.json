@@ -1,0 +1,22 @@
+{
+  "id": "2020-08-14_fc_barcelona_vs_bayern_m_nchen",
+  "date": "2020-08-14",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "Bayern München"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
