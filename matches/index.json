@@ -13,8 +13,8 @@
     {
       "id": "1974-02-17_fc_barcelona_vs_real_madrid",
       "date": "1974-02-17",
-      "home": "FC Barcelona",
-      "away": "Real Madrid",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
       "competition": "LaLiga",
       "score": {
         "home": 0,
@@ -3503,5 +3503,5 @@
     }
   ],
   "count": 293,
-  "updated": "2026-05-19"
+  "updated": "2026-05-20"
 }
