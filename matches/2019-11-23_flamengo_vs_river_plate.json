@@ -1,0 +1,7074 @@
+{
+  "id": "2019-11-23_flamengo_vs_river_plate",
+  "date": "2019-11-23",
+  "home": {
+    "name": "Flamengo"
+  },
+  "away": {
+    "name": "River Plate"
+  },
+  "score": {
+    "home": 1,
+    "away": 2,
+    "htHome": 1,
+    "htAway": 0
+  },
+  "competition": {
+    "name": "CONMEBOL Libertadores, Knockout stage",
+    "logo": null,
+    "season": null,
+    "round": null
+  },
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": {
+    "home": {
+      "ballPossession": "38%",
+      "bigChances": "0",
+      "totalShots": "8",
+      "goalkeeperSaves": "2",
+      "cornerKicks": "2",
+      "fouls": "27",
+      "passes": "137",
+      "tackles": "8",
+      "freeKicks": "6",
+      "yellowCards": "1",
+      "redCards": "1",
+      "shotsOnTarget": "1",
+      "hitWoodwork": "0",
+      "shotsOffTarget": "6",
+      "blockedShots": "1",
+      "shotsInsideBox": "1",
+      "shotsOutsideBox": "7",
+      "bigChancesScored": "0",
+      "bigChancesMissed": "0",
+      "throughBalls": "1",
+      "fouledInFinalThird": "2",
+      "offsides": "2",
+      "accuratePasses": "83",
+      "throw-ins": "18",
+      "finalThirdEntries": "38",
+      "longBalls": "7/37 (19%)",
+      "crosses": "1/7 (14%)",
+      "duels": "38%",
+      "dispossessed": "3",
+      "groundDuels": "14/40 (35%)",
+      "aerialDuels": "9/21 (43%)",
+      "dribbles": "1/3 (33%)",
+      "tacklesWon": "88%",
+      "totalTackles": "8",
+      "interceptions": "5",
+      "clearances": "8",
+      "totalSaves": "2",
+      "goalKicks": "2"
+    },
+    "away": {
+      "ballPossession": "62%",
+      "bigChances": "4",
+      "totalShots": "9",
+      "goalkeeperSaves": "1",
+      "cornerKicks": "1",
+      "fouls": "12",
+      "passes": "230",
+      "tackles": "5",
+      "freeKicks": "9",
+      "yellowCards": "3",
+      "redCards": "1",
+      "shotsOnTarget": "5",
+      "hitWoodwork": "0",
+      "shotsOffTarget": "4",
+      "blockedShots": "0",
+      "shotsInsideBox": "6",
+      "shotsOutsideBox": "3",
+      "bigChancesScored": "2",
+      "bigChancesMissed": "2",
+      "throughBalls": "2",
+      "fouledInFinalThird": "3",
+      "offsides": "0",
+      "accuratePasses": "183",
+      "throw-ins": "7",
+      "finalThirdEntries": "20",
+      "longBalls": "7/20 (35%)",
+      "crosses": "2/7 (29%)",
+      "duels": "62%",
+      "dispossessed": "3",
+      "groundDuels": "26/40 (65%)",
+      "aerialDuels": "12/21 (57%)",
+      "dribbles": "14/19 (74%)",
+      "tacklesWon": "100%",
+      "totalTackles": "5",
+      "interceptions": "7",
+      "clearances": "13",
+      "totalSaves": "1",
+      "goalKicks": "8"
+    }
+  },
+  "timeline": [
+    {
+      "minute": 90,
+      "addedTime": 5,
+      "type": "card",
+      "team": "away",
+      "player": "Gabriel Barbosa",
+      "cardType": "red"
+    },
+    {
+      "minute": 90,
+      "addedTime": 5,
+      "type": "card",
+      "team": "home",
+      "player": "Exequiel Palacios",
+      "cardType": "red"
+    },
+    {
+      "minute": 90,
+      "addedTime": 4,
+      "type": "substitution",
+      "team": "away",
+      "playerOut": "Giorgian de Arrascaeta",
+      "playerIn": null,
+      "reason": "regular"
+    },
+    {
+      "minute": 90,
+      "addedTime": 3,
+      "type": "card",
+      "team": "away",
+      "player": "Gabriel Barbosa",
+      "cardType": "yellow"
+    },
+    {
+      "minute": 90,
+      "addedTime": 2,
+      "type": "goal",
+      "team": "away",
+      "player": "Gabriel Barbosa",
+      "assist": null,
+      "ownGoal": false,
+      "penalty": false
+    },
+    {
+      "minute": 89,
+      "addedTime": null,
+      "type": "goal",
+      "team": "away",
+      "player": "Gabriel Barbosa",
+      "assist": "Giorgian de Arrascaeta",
+      "ownGoal": false,
+      "penalty": false
+    },
+    {
+      "minute": 86,
+      "addedTime": null,
+      "type": "substitution",
+      "team": "away",
+      "playerOut": "Willian Arão",
+      "playerIn": null,
+      "reason": "regular"
+    },
+    {
+      "minute": 80,
+      "addedTime": null,
+      "type": "card",
+      "team": "away",
+      "player": "Rafinha",
+      "cardType": "yellow"
+    },
+    {
+      "minute": 77,
+      "addedTime": null,
+      "type": "substitution",
+      "team": "home",
+      "playerOut": "Milton Casco",
+      "playerIn": null,
+      "reason": "regular"
+    },
+    {
+      "minute": 75,
+      "addedTime": null,
+      "type": "substitution",
+      "team": "home",
+      "playerOut": "Rafael Borré",
+      "playerIn": null,
+      "reason": "regular"
+    },
+    {
+      "minute": 71,
+      "addedTime": null,
+      "type": "card",
+      "team": "home",
+      "player": "Enzo Pérez",
+      "cardType": "yellow"
+    },
+    {
+      "minute": 69,
+      "addedTime": null,
+      "type": "substitution",
+      "team": "home",
+      "playerOut": "Nacho Fernández",
+      "playerIn": null,
+      "reason": "regular"
+    },
+    {
+      "minute": 66,
+      "addedTime": null,
+      "type": "substitution",
+      "team": "away",
+      "playerOut": "Gerson",
+      "playerIn": null,
+      "reason": "injury"
+    },
+    {
+      "minute": 54,
+      "addedTime": null,
+      "type": "card",
+      "team": "away",
+      "player": "Pablo Marí",
+      "cardType": "yellow"
+    },
+    {
+      "minute": 45,
+      "addedTime": 2,
+      "type": "card",
+      "team": "home",
+      "player": "Matías Suárez",
+      "cardType": "yellow"
+    },
+    {
+      "minute": 30,
+      "addedTime": null,
+      "type": "card",
+      "team": "home",
+      "player": "Milton Casco",
+      "cardType": "yellow"
+    },
+    {
+      "minute": 14,
+      "addedTime": null,
+      "type": "goal",
+      "team": "home",
+      "player": "Rafael Borré",
+      "assist": "Nacho Fernández",
+      "ownGoal": false,
+      "penalty": false
+    }
+  ],
+  "lineups": {
+    "home": {
+      "formation": "4-1-3-2",
+      "players": [
+        {
+          "name": "Franco Armani",
+          "shortName": "F. Armani",
+          "id": 221140,
+          "number": "1",
+          "position": "G",
+          "substitute": false,
+          "height": 189,
+          "nationality": "ARG",
+          "marketValue": 240000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1986-10-16",
+          "rating": 6.4,
+          "stats": {
+            "totalPass": 18,
+            "accuratePass": 3,
+            "aerialWon": 2,
+            "duelWon": 3,
+            "totalClearance": 1,
+            "minutesPlayed": 90,
+            "touches": 28,
+            "rating": 6.4,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 9,
+              "y": 45
+            },
+            {
+              "x": 10,
+              "y": 50
+            },
+            {
+              "x": 15,
+              "y": 51
+            },
+            {
+              "x": 8,
+              "y": 25
+            },
+            {
+              "x": 13,
+              "y": 40
+            },
+            {
+              "x": 4,
+              "y": 51
+            },
+            {
+              "x": 5,
+              "y": 52
+            },
+            {
+              "x": 5,
+              "y": 52
+            },
+            {
+              "x": 5,
+              "y": 54
+            },
+            {
+              "x": 5,
+              "y": 54
+            },
+            {
+              "x": 10,
+              "y": 18
+            },
+            {
+              "x": 5,
+              "y": 49
+            },
+            {
+              "x": 12,
+              "y": 44
+            },
+            {
+              "x": 21,
+              "y": 75
+            },
+            {
+              "x": 3,
+              "y": 49
+            },
+            {
+              "x": 3,
+              "y": 49
+            },
+            {
+              "x": 15,
+              "y": 50
+            },
+            {
+              "x": 2,
+              "y": 43
+            },
+            {
+              "x": 8,
+              "y": 58
+            },
+            {
+              "x": 15,
+              "y": 50
+            },
+            {
+              "x": 1,
+              "y": 48
+            },
+            {
+              "x": 1,
+              "y": 48
+            },
+            {
+              "x": 11,
+              "y": 40
+            },
+            {
+              "x": 15,
+              "y": 37
+            },
+            {
+              "x": 7,
+              "y": 65
+            },
+            {
+              "x": 15,
+              "y": 61
+            },
+            {
+              "x": 13,
+              "y": 40
+            },
+            {
+              "x": 5,
+              "y": 40
+            },
+            {
+              "x": 5,
+              "y": 58
+            },
+            {
+              "x": 14,
+              "y": 51
+            },
+            {
+              "x": 13,
+              "y": 52
+            },
+            {
+              "x": 15,
+              "y": 56
+            },
+            {
+              "x": 8,
+              "y": 46
+            },
+            {
+              "x": 8,
+              "y": 47
+            },
+            {
+              "x": 10,
+              "y": 49
+            }
+          ]
+        },
+        {
+          "name": "Gonzalo Montiel",
+          "shortName": "G. Montiel",
+          "id": 822933,
+          "number": "29",
+          "position": "D",
+          "substitute": false,
+          "height": 175,
+          "nationality": "ARG",
+          "marketValue": 4800000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1997-01-01",
+          "rating": 6.5,
+          "stats": {
+            "totalPass": 21,
+            "accuratePass": 12,
+            "aerialLost": 4,
+            "aerialWon": 1,
+            "duelLost": 7,
+            "duelWon": 5,
+            "totalClearance": 1,
+            "interceptionWon": 5,
+            "totalTackle": 3,
+            "wonTackle": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 6.5,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 42,
+              "y": 40
+            },
+            {
+              "x": 27,
+              "y": 7
+            },
+            {
+              "x": 30,
+              "y": 0
+            },
+            {
+              "x": 37,
+              "y": 5
+            },
+            {
+              "x": 36,
+              "y": 3
+            },
+            {
+              "x": 34,
+              "y": 3
+            },
+            {
+              "x": 26,
+              "y": 30
+            },
+            {
+              "x": 35,
+              "y": 28
+            },
+            {
+              "x": 18,
+              "y": 11
+            },
+            {
+              "x": 19,
+              "y": 14
+            },
+            {
+              "x": 26,
+              "y": 3
+            },
+            {
+              "x": 31,
+              "y": 2
+            },
+            {
+              "x": 40,
+              "y": 41
+            },
+            {
+              "x": 60,
+              "y": 10
+            },
+            {
+              "x": 42,
+              "y": 9
+            },
+            {
+              "x": 44,
+              "y": 3
+            },
+            {
+              "x": 72,
+              "y": 9
+            },
+            {
+              "x": 44,
+              "y": 17
+            },
+            {
+              "x": 35,
+              "y": 10
+            },
+            {
+              "x": 46,
+              "y": 5
+            },
+            {
+              "x": 35,
+              "y": 8
+            },
+            {
+              "x": 35,
+              "y": 8
+            },
+            {
+              "x": 23,
+              "y": 2
+            },
+            {
+              "x": 15,
+              "y": 41
+            },
+            {
+              "x": 72,
+              "y": 21
+            },
+            {
+              "x": 42,
+              "y": 29
+            },
+            {
+              "x": 36,
+              "y": 31
+            },
+            {
+              "x": 56,
+              "y": 28
+            },
+            {
+              "x": 60,
+              "y": 3
+            },
+            {
+              "x": 42,
+              "y": 0
+            },
+            {
+              "x": 40,
+              "y": 2
+            },
+            {
+              "x": 45,
+              "y": 0
+            },
+            {
+              "x": 29,
+              "y": 11
+            },
+            {
+              "x": 88,
+              "y": 14
+            },
+            {
+              "x": 79,
+              "y": 0
+            },
+            {
+              "x": 41,
+              "y": 7
+            },
+            {
+              "x": 45,
+              "y": 9
+            },
+            {
+              "x": 46,
+              "y": 8
+            },
+            {
+              "x": 67,
+              "y": 9
+            },
+            {
+              "x": 87,
+              "y": 0
+            },
+            {
+              "x": 55,
+              "y": 4
+            },
+            {
+              "x": 64,
+              "y": 0
+            },
+            {
+              "x": 80,
+              "y": 0
+            },
+            {
+              "x": 11,
+              "y": 37
+            },
+            {
+              "x": 27,
+              "y": 25
+            },
+            {
+              "x": 17,
+              "y": 52
+            },
+            {
+              "x": 54,
+              "y": 13
+            },
+            {
+              "x": 62,
+              "y": 8
+            },
+            {
+              "x": 39,
+              "y": 25
+            },
+            {
+              "x": 15,
+              "y": 55
+            },
+            {
+              "x": 81,
+              "y": 11
+            },
+            {
+              "x": 23,
+              "y": 15
+            },
+            {
+              "x": 85,
+              "y": 0
+            },
+            {
+              "x": 80,
+              "y": 4
+            }
+          ]
+        },
+        {
+          "name": "Lucas Martínez Quarta",
+          "shortName": "L. Martinez Quarta",
+          "id": 795297,
+          "number": "28",
+          "position": "D",
+          "substitute": false,
+          "height": 183,
+          "nationality": "ARG",
+          "marketValue": 4099999,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1996-05-10",
+          "rating": 6.5,
+          "stats": {
+            "totalPass": 19,
+            "accuratePass": 8,
+            "aerialLost": 4,
+            "duelLost": 4,
+            "duelWon": 4,
+            "totalClearance": 3,
+            "interceptionWon": 3,
+            "totalTackle": 4,
+            "wonTackle": 4,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 35,
+            "rating": 6.5,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 18,
+              "y": 22
+            },
+            {
+              "x": 18,
+              "y": 22
+            },
+            {
+              "x": 30,
+              "y": 33
+            },
+            {
+              "x": 46,
+              "y": 36
+            },
+            {
+              "x": 51,
+              "y": 34
+            },
+            {
+              "x": 42,
+              "y": 25
+            },
+            {
+              "x": 23,
+              "y": 21
+            },
+            {
+              "x": 22,
+              "y": 21
+            },
+            {
+              "x": 24,
+              "y": 90
+            },
+            {
+              "x": 24,
+              "y": 89
+            },
+            {
+              "x": 32,
+              "y": 62
+            },
+            {
+              "x": 29,
+              "y": 22
+            },
+            {
+              "x": 33,
+              "y": 21
+            },
+            {
+              "x": 38,
+              "y": 28
+            },
+            {
+              "x": 33,
+              "y": 27
+            },
+            {
+              "x": 14,
+              "y": 15
+            },
+            {
+              "x": 13,
+              "y": 43
+            },
+            {
+              "x": 14,
+              "y": 47
+            },
+            {
+              "x": 18,
+              "y": 49
+            },
+            {
+              "x": 51,
+              "y": 0
+            },
+            {
+              "x": 43,
+              "y": 40
+            },
+            {
+              "x": 36,
+              "y": 25
+            },
+            {
+              "x": 21,
+              "y": 27
+            },
+            {
+              "x": 30,
+              "y": 24
+            },
+            {
+              "x": 31,
+              "y": 25
+            },
+            {
+              "x": 27,
+              "y": 13
+            },
+            {
+              "x": 19,
+              "y": 21
+            },
+            {
+              "x": 22,
+              "y": 13
+            },
+            {
+              "x": 29,
+              "y": 6
+            },
+            {
+              "x": 46,
+              "y": 20
+            },
+            {
+              "x": 48,
+              "y": 17
+            },
+            {
+              "x": 39,
+              "y": 12
+            },
+            {
+              "x": 95,
+              "y": 56
+            },
+            {
+              "x": 4,
+              "y": 50
+            },
+            {
+              "x": 24,
+              "y": 34
+            },
+            {
+              "x": 28,
+              "y": 28
+            },
+            {
+              "x": 28,
+              "y": 28
+            },
+            {
+              "x": 44,
+              "y": 16
+            },
+            {
+              "x": 20,
+              "y": 67
+            },
+            {
+              "x": 54,
+              "y": 7
+            },
+            {
+              "x": 54,
+              "y": 31
+            },
+            {
+              "x": 39,
+              "y": 3
+            },
+            {
+              "x": 6,
+              "y": 50
+            },
+            {
+              "x": 14,
+              "y": 46
+            },
+            {
+              "x": 21,
+              "y": 26
+            },
+            {
+              "x": 25,
+              "y": 29
+            },
+            {
+              "x": 47,
+              "y": 36
+            }
+          ]
+        },
+        {
+          "name": "Javier Pinola",
+          "shortName": "J. Pinola",
+          "id": 8891,
+          "number": "22",
+          "position": "D",
+          "substitute": false,
+          "height": 182,
+          "nationality": "ARG",
+          "marketValue": null,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1983-02-24",
+          "rating": 6.2,
+          "stats": {
+            "totalPass": 21,
+            "accuratePass": 14,
+            "aerialWon": 2,
+            "duelLost": 2,
+            "duelWon": 6,
+            "interceptionWon": 5,
+            "totalTackle": 4,
+            "wonTackle": 4,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 33,
+            "rating": 6.2,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 37,
+              "y": 63
+            },
+            {
+              "x": 40,
+              "y": 63
+            },
+            {
+              "x": 23,
+              "y": 43
+            },
+            {
+              "x": 45,
+              "y": 64
+            },
+            {
+              "x": 46,
+              "y": 65
+            },
+            {
+              "x": 25,
+              "y": 80
+            },
+            {
+              "x": 16,
+              "y": 71
+            },
+            {
+              "x": 26,
+              "y": 58
+            },
+            {
+              "x": 55,
+              "y": 78
+            },
+            {
+              "x": 40,
+              "y": 92
+            },
+            {
+              "x": 40,
+              "y": 93
+            },
+            {
+              "x": 17,
+              "y": 95
+            },
+            {
+              "x": 17,
+              "y": 95
+            },
+            {
+              "x": 54,
+              "y": 89
+            },
+            {
+              "x": 30,
+              "y": 30
+            },
+            {
+              "x": 42,
+              "y": 97
+            },
+            {
+              "x": 44,
+              "y": 81
+            },
+            {
+              "x": 46,
+              "y": 65
+            },
+            {
+              "x": 92,
+              "y": 94
+            },
+            {
+              "x": 11,
+              "y": 27
+            },
+            {
+              "x": 52,
+              "y": 89
+            },
+            {
+              "x": 56,
+              "y": 87
+            },
+            {
+              "x": 58,
+              "y": 94
+            },
+            {
+              "x": 23,
+              "y": 88
+            },
+            {
+              "x": 6,
+              "y": 95
+            },
+            {
+              "x": 2,
+              "y": 96
+            },
+            {
+              "x": 2,
+              "y": 96
+            },
+            {
+              "x": 47,
+              "y": 87
+            },
+            {
+              "x": 23,
+              "y": 98
+            },
+            {
+              "x": 1,
+              "y": 95
+            },
+            {
+              "x": 1,
+              "y": 94
+            },
+            {
+              "x": 16,
+              "y": 96
+            },
+            {
+              "x": 32,
+              "y": 94
+            },
+            {
+              "x": 26,
+              "y": 88
+            },
+            {
+              "x": 35,
+              "y": 86
+            },
+            {
+              "x": 27,
+              "y": 40
+            },
+            {
+              "x": 29,
+              "y": 37
+            },
+            {
+              "x": 37,
+              "y": 33
+            },
+            {
+              "x": 34,
+              "y": 53
+            },
+            {
+              "x": 43,
+              "y": 97
+            },
+            {
+              "x": 18,
+              "y": 62
+            },
+            {
+              "x": 19,
+              "y": 62
+            },
+            {
+              "x": 7,
+              "y": 34
+            },
+            {
+              "x": 8,
+              "y": 82
+            },
+            {
+              "x": 8,
+              "y": 82
+            },
+            {
+              "x": 9,
+              "y": 62
+            },
+            {
+              "x": 23,
+              "y": 79
+            },
+            {
+              "x": 14,
+              "y": 58
+            },
+            {
+              "x": 14,
+              "y": 58
+            }
+          ]
+        },
+        {
+          "name": "Milton Casco",
+          "shortName": "M. Casco",
+          "id": 122710,
+          "number": "20",
+          "position": "D",
+          "substitute": false,
+          "height": 169,
+          "nationality": "ARG",
+          "marketValue": 69000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1988-04-11",
+          "rating": 6.3,
+          "stats": {
+            "totalPass": 23,
+            "accuratePass": 8,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "totalTackle": 1,
+            "wonTackle": 1,
+            "fouls": 2,
+            "minutesPlayed": 77,
+            "touches": 41,
+            "rating": 6.3,
+            "keyPass": 1,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 24,
+              "y": 94
+            },
+            {
+              "x": 39,
+              "y": 77
+            },
+            {
+              "x": 59,
+              "y": 83
+            },
+            {
+              "x": 65,
+              "y": 90
+            },
+            {
+              "x": 59,
+              "y": 83
+            },
+            {
+              "x": 80,
+              "y": 88
+            },
+            {
+              "x": 69,
+              "y": 100
+            },
+            {
+              "x": 44,
+              "y": 75
+            },
+            {
+              "x": 41,
+              "y": 84
+            },
+            {
+              "x": 58,
+              "y": 100
+            },
+            {
+              "x": 31,
+              "y": 100
+            },
+            {
+              "x": 6,
+              "y": 86
+            },
+            {
+              "x": 2,
+              "y": 95
+            },
+            {
+              "x": 2,
+              "y": 96
+            },
+            {
+              "x": 37,
+              "y": 97
+            },
+            {
+              "x": 37,
+              "y": 97
+            },
+            {
+              "x": 72,
+              "y": 97
+            },
+            {
+              "x": 64,
+              "y": 93
+            },
+            {
+              "x": 69,
+              "y": 92
+            },
+            {
+              "x": 68,
+              "y": 83
+            },
+            {
+              "x": 58,
+              "y": 90
+            },
+            {
+              "x": 2,
+              "y": 84
+            },
+            {
+              "x": 80,
+              "y": 80
+            },
+            {
+              "x": 54,
+              "y": 100
+            },
+            {
+              "x": 38,
+              "y": 89
+            },
+            {
+              "x": 68,
+              "y": 100
+            },
+            {
+              "x": 62,
+              "y": 89
+            },
+            {
+              "x": 51,
+              "y": 72
+            },
+            {
+              "x": 48,
+              "y": 91
+            },
+            {
+              "x": 51,
+              "y": 100
+            },
+            {
+              "x": 83,
+              "y": 100
+            },
+            {
+              "x": 92,
+              "y": 100
+            },
+            {
+              "x": 46,
+              "y": 96
+            },
+            {
+              "x": 46,
+              "y": 96
+            },
+            {
+              "x": 65,
+              "y": 100
+            },
+            {
+              "x": 84,
+              "y": 100
+            },
+            {
+              "x": 68,
+              "y": 98
+            },
+            {
+              "x": 73,
+              "y": 100
+            },
+            {
+              "x": 73,
+              "y": 96
+            },
+            {
+              "x": 45,
+              "y": 68
+            },
+            {
+              "x": 10,
+              "y": 100
+            },
+            {
+              "x": 9,
+              "y": 98
+            },
+            {
+              "x": 32,
+              "y": 100
+            },
+            {
+              "x": 68,
+              "y": 47
+            },
+            {
+              "x": 52,
+              "y": 70
+            },
+            {
+              "x": 43,
+              "y": 100
+            },
+            {
+              "x": 8,
+              "y": 80
+            },
+            {
+              "x": 8,
+              "y": 80
+            }
+          ]
+        },
+        {
+          "name": "Enzo Pérez",
+          "shortName": "E. Pérez",
+          "id": 33958,
+          "number": "24",
+          "position": "M",
+          "substitute": false,
+          "height": 177,
+          "nationality": "ARG",
+          "marketValue": 145000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1986-02-22",
+          "rating": 6.5,
+          "stats": {
+            "totalPass": 43,
+            "accuratePass": 35,
+            "aerialLost": 2,
+            "aerialWon": 7,
+            "duelLost": 8,
+            "duelWon": 10,
+            "totalClearance": 3,
+            "interceptionWon": 2,
+            "totalTackle": 3,
+            "wonTackle": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 52,
+            "rating": 6.5,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 37,
+              "y": 78
+            },
+            {
+              "x": 28,
+              "y": 9
+            },
+            {
+              "x": 36,
+              "y": 18
+            },
+            {
+              "x": 18,
+              "y": 27
+            },
+            {
+              "x": 12,
+              "y": 28
+            },
+            {
+              "x": 11,
+              "y": 27
+            },
+            {
+              "x": 17,
+              "y": 18
+            },
+            {
+              "x": 42,
+              "y": 47
+            },
+            {
+              "x": 40,
+              "y": 50
+            },
+            {
+              "x": 56,
+              "y": 70
+            },
+            {
+              "x": 47,
+              "y": 58
+            },
+            {
+              "x": 39,
+              "y": 33
+            },
+            {
+              "x": 66,
+              "y": 36
+            },
+            {
+              "x": 75,
+              "y": 31
+            },
+            {
+              "x": 33,
+              "y": 93
+            },
+            {
+              "x": 33,
+              "y": 93
+            },
+            {
+              "x": 55,
+              "y": 69
+            },
+            {
+              "x": 29,
+              "y": 23
+            },
+            {
+              "x": 37,
+              "y": 71
+            },
+            {
+              "x": 35,
+              "y": 84
+            },
+            {
+              "x": 30,
+              "y": 96
+            },
+            {
+              "x": 32,
+              "y": 96
+            },
+            {
+              "x": 37,
+              "y": 77
+            },
+            {
+              "x": 37,
+              "y": 71
+            },
+            {
+              "x": 37,
+              "y": 72
+            },
+            {
+              "x": 40,
+              "y": 86
+            },
+            {
+              "x": 53,
+              "y": 47
+            },
+            {
+              "x": 54,
+              "y": 68
+            },
+            {
+              "x": 8,
+              "y": 50
+            },
+            {
+              "x": 8,
+              "y": 51
+            },
+            {
+              "x": 46,
+              "y": 69
+            },
+            {
+              "x": 46,
+              "y": 69
+            },
+            {
+              "x": 44,
+              "y": 71
+            },
+            {
+              "x": 12,
+              "y": 83
+            },
+            {
+              "x": 20,
+              "y": 37
+            },
+            {
+              "x": 18,
+              "y": 50
+            },
+            {
+              "x": 22,
+              "y": 73
+            },
+            {
+              "x": 22,
+              "y": 72
+            },
+            {
+              "x": 24,
+              "y": 70
+            },
+            {
+              "x": 62,
+              "y": 43
+            },
+            {
+              "x": 49,
+              "y": 20
+            },
+            {
+              "x": 57,
+              "y": 31
+            },
+            {
+              "x": 25,
+              "y": 29
+            },
+            {
+              "x": 30,
+              "y": 26
+            },
+            {
+              "x": 25,
+              "y": 84
+            },
+            {
+              "x": 35,
+              "y": 40
+            },
+            {
+              "x": 54,
+              "y": 20
+            },
+            {
+              "x": 34,
+              "y": 55
+            },
+            {
+              "x": 48,
+              "y": 56
+            },
+            {
+              "x": 47,
+              "y": 63
+            },
+            {
+              "x": 11,
+              "y": 85
+            },
+            {
+              "x": 43,
+              "y": 30
+            },
+            {
+              "x": 36,
+              "y": 25
+            },
+            {
+              "x": 50,
+              "y": 83
+            },
+            {
+              "x": 54,
+              "y": 84
+            },
+            {
+              "x": 53,
+              "y": 84
+            },
+            {
+              "x": 57,
+              "y": 26
+            },
+            {
+              "x": 12,
+              "y": 57
+            },
+            {
+              "x": 35,
+              "y": 32
+            },
+            {
+              "x": 53,
+              "y": 18
+            },
+            {
+              "x": 46,
+              "y": 28
+            },
+            {
+              "x": 47,
+              "y": 38
+            },
+            {
+              "x": 47,
+              "y": 33
+            },
+            {
+              "x": 47,
+              "y": 31
+            },
+            {
+              "x": 21,
+              "y": 12
+            },
+            {
+              "x": 51,
+              "y": 11
+            },
+            {
+              "x": 11,
+              "y": 61
+            },
+            {
+              "x": 30,
+              "y": 78
+            },
+            {
+              "x": 56,
+              "y": 63
+            },
+            {
+              "x": 11,
+              "y": 38
+            },
+            {
+              "x": 11,
+              "y": 38
+            },
+            {
+              "x": 31,
+              "y": 49
+            }
+          ]
+        },
+        {
+          "name": "Nacho Fernández",
+          "shortName": "I. Fernández",
+          "id": 340861,
+          "number": "26",
+          "position": "M",
+          "substitute": false,
+          "height": 182,
+          "nationality": "ARG",
+          "marketValue": 240000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1990-01-12",
+          "rating": 7.3,
+          "stats": {
+            "totalPass": 21,
+            "accuratePass": 15,
+            "goalAssist": 1,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 3,
+            "totalTackle": 3,
+            "wonTackle": 3,
+            "fouls": 2,
+            "minutesPlayed": 69,
+            "touches": 35,
+            "rating": 7.3,
+            "keyPass": 1,
+            "totalShots": 1
+          },
+          "heatmap": [
+            {
+              "x": 49,
+              "y": 2
+            },
+            {
+              "x": 29,
+              "y": 20
+            },
+            {
+              "x": 29,
+              "y": 20
+            },
+            {
+              "x": 46,
+              "y": 66
+            },
+            {
+              "x": 56,
+              "y": 41
+            },
+            {
+              "x": 74,
+              "y": 73
+            },
+            {
+              "x": 95,
+              "y": 22
+            },
+            {
+              "x": 65,
+              "y": 42
+            },
+            {
+              "x": 43,
+              "y": 7
+            },
+            {
+              "x": 28,
+              "y": 2
+            },
+            {
+              "x": 34,
+              "y": 36
+            },
+            {
+              "x": 36,
+              "y": 33
+            },
+            {
+              "x": 69,
+              "y": 66
+            },
+            {
+              "x": 76,
+              "y": 96
+            },
+            {
+              "x": 23,
+              "y": 62
+            },
+            {
+              "x": 23,
+              "y": 62
+            },
+            {
+              "x": 26,
+              "y": 63
+            },
+            {
+              "x": 56,
+              "y": 6
+            },
+            {
+              "x": 71,
+              "y": 45
+            },
+            {
+              "x": 61,
+              "y": 77
+            },
+            {
+              "x": 63,
+              "y": 82
+            },
+            {
+              "x": 68,
+              "y": 47
+            },
+            {
+              "x": 75,
+              "y": 2
+            },
+            {
+              "x": 72,
+              "y": 42
+            },
+            {
+              "x": 45,
+              "y": 30
+            },
+            {
+              "x": 84,
+              "y": 91
+            },
+            {
+              "x": 94,
+              "y": 95
+            },
+            {
+              "x": 95,
+              "y": 91
+            },
+            {
+              "x": 65,
+              "y": 46
+            },
+            {
+              "x": 62,
+              "y": 42
+            },
+            {
+              "x": 68,
+              "y": 47
+            },
+            {
+              "x": 78,
+              "y": 20
+            },
+            {
+              "x": 71,
+              "y": 25
+            },
+            {
+              "x": 39,
+              "y": 1
+            },
+            {
+              "x": 34,
+              "y": 2
+            },
+            {
+              "x": 56,
+              "y": 17
+            },
+            {
+              "x": 56,
+              "y": 17
+            },
+            {
+              "x": 58,
+              "y": 5
+            },
+            {
+              "x": 61,
+              "y": 4
+            },
+            {
+              "x": 62,
+              "y": 6
+            },
+            {
+              "x": 63,
+              "y": 7
+            },
+            {
+              "x": 69,
+              "y": 30
+            },
+            {
+              "x": 80,
+              "y": 26
+            },
+            {
+              "x": 81,
+              "y": 26
+            },
+            {
+              "x": 73,
+              "y": 17
+            },
+            {
+              "x": 75,
+              "y": 40
+            },
+            {
+              "x": 42,
+              "y": 25
+            },
+            {
+              "x": 42,
+              "y": 25
+            }
+          ]
+        },
+        {
+          "name": "Exequiel Palacios",
+          "shortName": "E. Palacios",
+          "id": 822600,
+          "number": "15",
+          "position": "M",
+          "substitute": false,
+          "height": 177,
+          "nationality": "ARG",
+          "marketValue": 31000000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1998-10-05",
+          "rating": 6.2,
+          "stats": {
+            "totalPass": 37,
+            "accuratePass": 20,
+            "duelLost": 12,
+            "duelWon": 11,
+            "totalClearance": 1,
+            "totalTackle": 3,
+            "wonTackle": 3,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 62,
+            "rating": 6.2,
+            "totalShots": 3
+          },
+          "heatmap": [
+            {
+              "x": 47,
+              "y": 84
+            },
+            {
+              "x": 47,
+              "y": 84
+            },
+            {
+              "x": 53,
+              "y": 58
+            },
+            {
+              "x": 15,
+              "y": 90
+            },
+            {
+              "x": 28,
+              "y": 88
+            },
+            {
+              "x": 27,
+              "y": 86
+            },
+            {
+              "x": 23,
+              "y": 26
+            },
+            {
+              "x": 10,
+              "y": 78
+            },
+            {
+              "x": 10,
+              "y": 81
+            },
+            {
+              "x": 69,
+              "y": 84
+            },
+            {
+              "x": 59,
+              "y": 82
+            },
+            {
+              "x": 55,
+              "y": 87
+            },
+            {
+              "x": 54,
+              "y": 82
+            },
+            {
+              "x": 56,
+              "y": 78
+            },
+            {
+              "x": 59,
+              "y": 81
+            },
+            {
+              "x": 64,
+              "y": 98
+            },
+            {
+              "x": 48,
+              "y": 68
+            },
+            {
+              "x": 48,
+              "y": 68
+            },
+            {
+              "x": 66,
+              "y": 77
+            },
+            {
+              "x": 47,
+              "y": 25
+            },
+            {
+              "x": 59,
+              "y": 76
+            },
+            {
+              "x": 45,
+              "y": 9
+            },
+            {
+              "x": 45,
+              "y": 9
+            },
+            {
+              "x": 43,
+              "y": 66
+            },
+            {
+              "x": 57,
+              "y": 46
+            },
+            {
+              "x": 54,
+              "y": 45
+            },
+            {
+              "x": 56,
+              "y": 76
+            },
+            {
+              "x": 58,
+              "y": 64
+            },
+            {
+              "x": 10,
+              "y": 85
+            },
+            {
+              "x": 12,
+              "y": 86
+            },
+            {
+              "x": 73,
+              "y": 80
+            },
+            {
+              "x": 71,
+              "y": 44
+            },
+            {
+              "x": 67,
+              "y": 49
+            },
+            {
+              "x": 60,
+              "y": 28
+            },
+            {
+              "x": 55,
+              "y": 94
+            },
+            {
+              "x": 62,
+              "y": 97
+            },
+            {
+              "x": 72,
+              "y": 100
+            },
+            {
+              "x": 54,
+              "y": 96
+            },
+            {
+              "x": 62,
+              "y": 37
+            },
+            {
+              "x": 59,
+              "y": 37
+            },
+            {
+              "x": 66,
+              "y": 3
+            },
+            {
+              "x": 88,
+              "y": 10
+            },
+            {
+              "x": 91,
+              "y": 2
+            },
+            {
+              "x": 42,
+              "y": 10
+            },
+            {
+              "x": 59,
+              "y": 31
+            },
+            {
+              "x": 38,
+              "y": 33
+            },
+            {
+              "x": 67,
+              "y": 39
+            },
+            {
+              "x": 72,
+              "y": 45
+            },
+            {
+              "x": 76,
+              "y": 67
+            },
+            {
+              "x": 52,
+              "y": 25
+            },
+            {
+              "x": 71,
+              "y": 30
+            },
+            {
+              "x": 63,
+              "y": 82
+            },
+            {
+              "x": 64,
+              "y": 88
+            },
+            {
+              "x": 69,
+              "y": 6
+            },
+            {
+              "x": 68,
+              "y": 19
+            },
+            {
+              "x": 59,
+              "y": 4
+            },
+            {
+              "x": 40,
+              "y": 77
+            },
+            {
+              "x": 50,
+              "y": 28
+            },
+            {
+              "x": 75,
+              "y": 6
+            },
+            {
+              "x": 44,
+              "y": 82
+            },
+            {
+              "x": 67,
+              "y": 13
+            },
+            {
+              "x": 55,
+              "y": 30
+            },
+            {
+              "x": 37,
+              "y": 16
+            },
+            {
+              "x": 39,
+              "y": 18
+            },
+            {
+              "x": 40,
+              "y": 17
+            },
+            {
+              "x": 20,
+              "y": 50
+            },
+            {
+              "x": 52,
+              "y": 24
+            },
+            {
+              "x": 86,
+              "y": 40
+            },
+            {
+              "x": 45,
+              "y": 28
+            },
+            {
+              "x": 45,
+              "y": 28
+            },
+            {
+              "x": 57,
+              "y": 80
+            },
+            {
+              "x": 34,
+              "y": 72
+            },
+            {
+              "x": 60,
+              "y": 56
+            },
+            {
+              "x": 59,
+              "y": 81
+            },
+            {
+              "x": 68,
+              "y": 95
+            },
+            {
+              "x": 66,
+              "y": 97
+            },
+            {
+              "x": 55,
+              "y": 32
+            },
+            {
+              "x": 70,
+              "y": 6
+            },
+            {
+              "x": 45,
+              "y": 19
+            },
+            {
+              "x": 6,
+              "y": 3
+            }
+          ]
+        },
+        {
+          "name": "Nicolás de la Cruz",
+          "shortName": "N. De la Cruz",
+          "id": 877513,
+          "number": "11",
+          "position": "M",
+          "substitute": false,
+          "height": 167,
+          "nationality": "URY",
+          "marketValue": 8400000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1997-06-01",
+          "rating": 7,
+          "stats": {
+            "totalPass": 26,
+            "accuratePass": 20,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 12,
+            "duelWon": 8,
+            "totalClearance": 1,
+            "totalTackle": 5,
+            "wonTackle": 2,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 54,
+            "rating": 7,
+            "keyPass": 2,
+            "totalShots": 2
+          },
+          "heatmap": [
+            {
+              "x": 47,
+              "y": 96
+            },
+            {
+              "x": 44,
+              "y": 35
+            },
+            {
+              "x": 75,
+              "y": 74
+            },
+            {
+              "x": 46,
+              "y": 45
+            },
+            {
+              "x": 46,
+              "y": 45
+            },
+            {
+              "x": 51,
+              "y": 42
+            },
+            {
+              "x": 65,
+              "y": 97
+            },
+            {
+              "x": 81,
+              "y": 68
+            },
+            {
+              "x": 80,
+              "y": 67
+            },
+            {
+              "x": 89,
+              "y": 99
+            },
+            {
+              "x": 59,
+              "y": 80
+            },
+            {
+              "x": 37,
+              "y": 88
+            },
+            {
+              "x": 38,
+              "y": 85
+            },
+            {
+              "x": 91,
+              "y": 60
+            },
+            {
+              "x": 74,
+              "y": 85
+            },
+            {
+              "x": 61,
+              "y": 58
+            },
+            {
+              "x": 61,
+              "y": 57
+            },
+            {
+              "x": 71,
+              "y": 69
+            },
+            {
+              "x": 71,
+              "y": 66
+            },
+            {
+              "x": 99,
+              "y": 0
+            },
+            {
+              "x": 15,
+              "y": 74
+            },
+            {
+              "x": 38,
+              "y": 73
+            },
+            {
+              "x": 58,
+              "y": 98
+            },
+            {
+              "x": 62,
+              "y": 79
+            },
+            {
+              "x": 62,
+              "y": 76
+            },
+            {
+              "x": 67,
+              "y": 69
+            },
+            {
+              "x": 73,
+              "y": 73
+            },
+            {
+              "x": 94,
+              "y": 70
+            },
+            {
+              "x": 84,
+              "y": 87
+            },
+            {
+              "x": 78,
+              "y": 63
+            },
+            {
+              "x": 60,
+              "y": 96
+            },
+            {
+              "x": 59,
+              "y": 95
+            },
+            {
+              "x": 59,
+              "y": 95
+            },
+            {
+              "x": 52,
+              "y": 78
+            },
+            {
+              "x": 7,
+              "y": 90
+            },
+            {
+              "x": 8,
+              "y": 90
+            },
+            {
+              "x": 56,
+              "y": 94
+            },
+            {
+              "x": 45,
+              "y": 21
+            },
+            {
+              "x": 53,
+              "y": 54
+            },
+            {
+              "x": 73,
+              "y": 30
+            },
+            {
+              "x": 80,
+              "y": 28
+            },
+            {
+              "x": 46,
+              "y": 16
+            },
+            {
+              "x": 46,
+              "y": 16
+            },
+            {
+              "x": 75,
+              "y": 7
+            },
+            {
+              "x": 99,
+              "y": 99
+            },
+            {
+              "x": 97,
+              "y": 62
+            },
+            {
+              "x": 99,
+              "y": 99
+            },
+            {
+              "x": 3,
+              "y": 52
+            },
+            {
+              "x": 17,
+              "y": 85
+            },
+            {
+              "x": 13,
+              "y": 91
+            },
+            {
+              "x": 74,
+              "y": 53
+            },
+            {
+              "x": 61,
+              "y": 38
+            },
+            {
+              "x": 59,
+              "y": 36
+            },
+            {
+              "x": 26,
+              "y": 80
+            },
+            {
+              "x": 35,
+              "y": 93
+            },
+            {
+              "x": 34,
+              "y": 84
+            },
+            {
+              "x": 78,
+              "y": 67
+            },
+            {
+              "x": 20,
+              "y": 42
+            },
+            {
+              "x": 24,
+              "y": 65
+            },
+            {
+              "x": 23,
+              "y": 92
+            },
+            {
+              "x": 30,
+              "y": 81
+            },
+            {
+              "x": 59,
+              "y": 72
+            },
+            {
+              "x": 36,
+              "y": 89
+            },
+            {
+              "x": 25,
+              "y": 40
+            },
+            {
+              "x": 26,
+              "y": 36
+            },
+            {
+              "x": 71,
+              "y": 52
+            },
+            {
+              "x": 36,
+              "y": 77
+            },
+            {
+              "x": 71,
+              "y": 94
+            },
+            {
+              "x": 80,
+              "y": 48
+            },
+            {
+              "x": 81,
+              "y": 48
+            },
+            {
+              "x": 49,
+              "y": 50
+            },
+            {
+              "x": 66,
+              "y": 55
+            },
+            {
+              "x": 2,
+              "y": 4
+            }
+          ]
+        },
+        {
+          "name": "Rafael Borré",
+          "shortName": "R. Borré",
+          "id": 560116,
+          "number": "19",
+          "position": "F",
+          "substitute": false,
+          "height": 174,
+          "nationality": "COL",
+          "marketValue": 3800000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1995-09-15",
+          "rating": 7.2,
+          "stats": {
+            "totalPass": 13,
+            "accuratePass": 10,
+            "aerialLost": 4,
+            "duelLost": 10,
+            "duelWon": 3,
+            "goals": 1,
+            "totalClearance": 1,
+            "fouls": 3,
+            "minutesPlayed": 75,
+            "touches": 22,
+            "rating": 7.2,
+            "keyPass": 1,
+            "totalShots": 1
+          },
+          "heatmap": [
+            {
+              "x": 54,
+              "y": 17
+            },
+            {
+              "x": 82,
+              "y": 87
+            },
+            {
+              "x": 65,
+              "y": 59
+            },
+            {
+              "x": 68,
+              "y": 96
+            },
+            {
+              "x": 64,
+              "y": 96
+            },
+            {
+              "x": 66,
+              "y": 78
+            },
+            {
+              "x": 65,
+              "y": 80
+            },
+            {
+              "x": 68,
+              "y": 21
+            },
+            {
+              "x": 86,
+              "y": 51
+            },
+            {
+              "x": 46,
+              "y": 27
+            },
+            {
+              "x": 42,
+              "y": 63
+            },
+            {
+              "x": 91,
+              "y": 93
+            },
+            {
+              "x": 57,
+              "y": 78
+            },
+            {
+              "x": 59,
+              "y": 77
+            },
+            {
+              "x": 60,
+              "y": 76
+            },
+            {
+              "x": 72,
+              "y": 18
+            },
+            {
+              "x": 32,
+              "y": 92
+            },
+            {
+              "x": 80,
+              "y": 39
+            },
+            {
+              "x": 48,
+              "y": 57
+            },
+            {
+              "x": 90,
+              "y": 95
+            },
+            {
+              "x": 49,
+              "y": 49
+            },
+            {
+              "x": 79,
+              "y": 76
+            },
+            {
+              "x": 55,
+              "y": 72
+            },
+            {
+              "x": 59,
+              "y": 8
+            },
+            {
+              "x": 13,
+              "y": 57
+            },
+            {
+              "x": 72,
+              "y": 76
+            },
+            {
+              "x": 76,
+              "y": 8
+            },
+            {
+              "x": 71,
+              "y": 13
+            },
+            {
+              "x": 58,
+              "y": 2
+            },
+            {
+              "x": 74,
+              "y": 4
+            },
+            {
+              "x": 68,
+              "y": 45
+            },
+            {
+              "x": 69,
+              "y": 48
+            },
+            {
+              "x": 56,
+              "y": 86
+            }
+          ]
+        },
+        {
+          "name": "Matías Suárez",
+          "shortName": "M. Suárez",
+          "id": 46007,
+          "number": "7",
+          "position": "F",
+          "substitute": false,
+          "height": 183,
+          "nationality": "ARG",
+          "marketValue": null,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1988-05-09",
+          "rating": 6.5,
+          "stats": {
+            "totalPass": 13,
+            "accuratePass": 7,
+            "aerialLost": 7,
+            "aerialWon": 1,
+            "duelLost": 11,
+            "duelWon": 2,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "fouls": 6,
+            "minutesPlayed": 90,
+            "touches": 21,
+            "rating": 6.5,
+            "keyPass": 1,
+            "totalShots": 2
+          },
+          "heatmap": [
+            {
+              "x": 67,
+              "y": 77
+            },
+            {
+              "x": 11,
+              "y": 65
+            },
+            {
+              "x": 48,
+              "y": 51
+            },
+            {
+              "x": 95,
+              "y": 19
+            },
+            {
+              "x": 91,
+              "y": 17
+            },
+            {
+              "x": 65,
+              "y": 71
+            },
+            {
+              "x": 56,
+              "y": 91
+            },
+            {
+              "x": 96,
+              "y": 80
+            },
+            {
+              "x": 86,
+              "y": 4
+            },
+            {
+              "x": 86,
+              "y": 3
+            },
+            {
+              "x": 78,
+              "y": 58
+            },
+            {
+              "x": 75,
+              "y": 46
+            },
+            {
+              "x": 76,
+              "y": 45
+            },
+            {
+              "x": 72,
+              "y": 49
+            },
+            {
+              "x": 72,
+              "y": 49
+            },
+            {
+              "x": 45,
+              "y": 33
+            },
+            {
+              "x": 63,
+              "y": 33
+            },
+            {
+              "x": 78,
+              "y": 72
+            },
+            {
+              "x": 68,
+              "y": 87
+            },
+            {
+              "x": 83,
+              "y": 64
+            },
+            {
+              "x": 76,
+              "y": 76
+            },
+            {
+              "x": 84,
+              "y": 7
+            },
+            {
+              "x": 74,
+              "y": 21
+            },
+            {
+              "x": 82,
+              "y": 3
+            },
+            {
+              "x": 78,
+              "y": 98
+            },
+            {
+              "x": 80,
+              "y": 70
+            },
+            {
+              "x": 80,
+              "y": 48
+            },
+            {
+              "x": 84,
+              "y": 30
+            },
+            {
+              "x": 80,
+              "y": 27
+            },
+            {
+              "x": 76,
+              "y": 21
+            },
+            {
+              "x": 97,
+              "y": 29
+            },
+            {
+              "x": 69,
+              "y": 42
+            },
+            {
+              "x": 67,
+              "y": 36
+            },
+            {
+              "x": 48,
+              "y": 69
+            },
+            {
+              "x": 91,
+              "y": 23
+            },
+            {
+              "x": 97,
+              "y": 29
+            },
+            {
+              "x": 96,
+              "y": 30
+            },
+            {
+              "x": 94,
+              "y": 31
+            }
+          ]
+        },
+        {
+          "name": "Julián Alvarez",
+          "shortName": "J. Álvarez",
+          "id": 944656,
+          "number": "9",
+          "position": "F",
+          "substitute": true,
+          "height": 170,
+          "nationality": "ARG",
+          "marketValue": 87000000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "2000-01-31",
+          "rating": 6.6,
+          "stats": {
+            "totalPass": 6,
+            "accuratePass": 3,
+            "duelLost": 3,
+            "duelWon": 1,
+            "totalTackle": 1,
+            "wonTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 21,
+            "touches": 10,
+            "rating": 6.6,
+            "keyPass": 1,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 69,
+              "y": 34
+            },
+            {
+              "x": 73,
+              "y": 17
+            },
+            {
+              "x": 83,
+              "y": 42
+            },
+            {
+              "x": 65,
+              "y": 6
+            },
+            {
+              "x": 44,
+              "y": 24
+            },
+            {
+              "x": 46,
+              "y": 25
+            },
+            {
+              "x": 47,
+              "y": 25
+            },
+            {
+              "x": 68,
+              "y": 6
+            },
+            {
+              "x": 71,
+              "y": 3
+            },
+            {
+              "x": 44,
+              "y": 56
+            },
+            {
+              "x": 37,
+              "y": 30
+            },
+            {
+              "x": 73,
+              "y": 40
+            },
+            {
+              "x": 31,
+              "y": 9
+            },
+            {
+              "x": 71,
+              "y": 23
+            }
+          ]
+        },
+        {
+          "name": "Lucas Pratto",
+          "shortName": "L. Pratto",
+          "id": 39244,
+          "number": "27",
+          "position": "F",
+          "substitute": true,
+          "height": 188,
+          "nationality": "ARG",
+          "marketValue": 105000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1988-06-04",
+          "rating": 6.7,
+          "stats": {
+            "totalPass": 8,
+            "accuratePass": 3,
+            "aerialLost": 2,
+            "aerialWon": 3,
+            "duelLost": 4,
+            "duelWon": 4,
+            "fouls": 1,
+            "minutesPlayed": 15,
+            "touches": 12,
+            "rating": 6.7,
+            "totalShots": 2
+          },
+          "heatmap": [
+            {
+              "x": 85,
+              "y": 64
+            },
+            {
+              "x": 61,
+              "y": 63
+            },
+            {
+              "x": 61,
+              "y": 69
+            },
+            {
+              "x": 36,
+              "y": 47
+            },
+            {
+              "x": 35,
+              "y": 47
+            },
+            {
+              "x": 65,
+              "y": 88
+            },
+            {
+              "x": 73,
+              "y": 45
+            },
+            {
+              "x": 60,
+              "y": 72
+            },
+            {
+              "x": 71,
+              "y": 35
+            },
+            {
+              "x": 58,
+              "y": 78
+            },
+            {
+              "x": 74,
+              "y": 43
+            },
+            {
+              "x": 40,
+              "y": 30
+            },
+            {
+              "x": 46,
+              "y": 30
+            },
+            {
+              "x": 64,
+              "y": 52
+            },
+            {
+              "x": 64,
+              "y": 24
+            },
+            {
+              "x": 49,
+              "y": 50
+            },
+            {
+              "x": 77,
+              "y": 58
+            },
+            {
+              "x": 85,
+              "y": 58
+            },
+            {
+              "x": 84,
+              "y": 57
+            }
+          ]
+        },
+        {
+          "name": "Paulo Díaz",
+          "shortName": "P. Díaz",
+          "id": 790004,
+          "number": "6",
+          "position": "D",
+          "substitute": true,
+          "height": 180,
+          "nationality": "CHL",
+          "marketValue": 2700000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1994-08-25",
+          "rating": 6,
+          "stats": {
+            "totalPass": 8,
+            "accuratePass": 7,
+            "duelLost": 1,
+            "duelWon": 1,
+            "totalTackle": 1,
+            "wonTackle": 1,
+            "minutesPlayed": 13,
+            "touches": 10,
+            "rating": 6,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 9,
+              "y": 84
+            },
+            {
+              "x": 9,
+              "y": 85
+            },
+            {
+              "x": 9,
+              "y": 85
+            },
+            {
+              "x": 26,
+              "y": 93
+            },
+            {
+              "x": 30,
+              "y": 83
+            },
+            {
+              "x": 30,
+              "y": 83
+            },
+            {
+              "x": 53,
+              "y": 70
+            },
+            {
+              "x": 28,
+              "y": 81
+            },
+            {
+              "x": 27,
+              "y": 77
+            },
+            {
+              "x": 28,
+              "y": 78
+            },
+            {
+              "x": 51,
+              "y": 100
+            },
+            {
+              "x": 53,
+              "y": 94
+            },
+            {
+              "x": 53,
+              "y": 94
+            },
+            {
+              "x": 53,
+              "y": 92
+            },
+            {
+              "x": 55,
+              "y": 94
+            }
+          ]
+        },
+        {
+          "name": "Enrique Bologna",
+          "shortName": "E. Bologna",
+          "id": 107418,
+          "number": "25",
+          "position": "G",
+          "substitute": true,
+          "height": 189,
+          "nationality": "ARG",
+          "marketValue": 24000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1982-02-13",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Germán Lux",
+          "shortName": "G. Lux",
+          "id": 28180,
+          "number": "14",
+          "position": "G",
+          "substitute": true,
+          "height": 186,
+          "nationality": "ARG",
+          "marketValue": null,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1982-07-06",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Robert Rojas",
+          "shortName": "R. Rojas",
+          "id": 874964,
+          "number": "2",
+          "position": "D",
+          "substitute": true,
+          "height": 176,
+          "nationality": "PRY",
+          "marketValue": 1200000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1996-04-30",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Fabrizio Angileri",
+          "shortName": "F. Angileri",
+          "id": 311462,
+          "number": "4",
+          "position": "M",
+          "substitute": true,
+          "height": 185,
+          "nationality": "ARG",
+          "marketValue": 540000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1994-03-15",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Juan Fernando Quintero",
+          "shortName": "J. Quintero",
+          "id": 221162,
+          "number": "10",
+          "position": "M",
+          "substitute": true,
+          "height": 168,
+          "nationality": "COL",
+          "marketValue": 2100000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1993-01-18",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Cristian Ferreira",
+          "shortName": "C. Ferreira",
+          "id": 909608,
+          "number": "21",
+          "position": "M",
+          "substitute": true,
+          "height": 175,
+          "nationality": "ARG",
+          "marketValue": 285000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1999-09-12",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Leonardo Ponzio",
+          "shortName": "L. Ponzio",
+          "id": 5105,
+          "number": "23",
+          "position": "M",
+          "substitute": true,
+          "height": 175,
+          "nationality": "ARG",
+          "marketValue": null,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1982-01-29",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Bruno Zuculini",
+          "shortName": "B. Zuculini",
+          "id": 249409,
+          "number": "5",
+          "position": "M",
+          "substitute": true,
+          "height": 182,
+          "nationality": "ARG",
+          "marketValue": 550000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1993-04-02",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Ignacio Scocco",
+          "shortName": "I. Scocco",
+          "id": 41015,
+          "number": "30",
+          "position": "F",
+          "substitute": true,
+          "height": 175,
+          "nationality": "ARG",
+          "marketValue": null,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1985-05-29",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        }
+      ]
+    },
+    "away": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "name": "Diego Alves",
+          "shortName": "D. Alves",
+          "id": 27828,
+          "number": "1",
+          "position": "G",
+          "substitute": false,
+          "height": 187,
+          "nationality": "BRA",
+          "marketValue": null,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1985-06-24",
+          "rating": 6.4,
+          "stats": {
+            "totalPass": 28,
+            "accuratePass": 21,
+            "minutesPlayed": 90,
+            "touches": 33,
+            "rating": 6.4,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 18,
+              "y": 43
+            },
+            {
+              "x": 3,
+              "y": 65
+            },
+            {
+              "x": 9,
+              "y": 64
+            },
+            {
+              "x": 4,
+              "y": 59
+            },
+            {
+              "x": 4,
+              "y": 40
+            },
+            {
+              "x": 13,
+              "y": 41
+            },
+            {
+              "x": 13,
+              "y": 41
+            },
+            {
+              "x": 20,
+              "y": 61
+            },
+            {
+              "x": 7,
+              "y": 62
+            },
+            {
+              "x": 7,
+              "y": 62
+            },
+            {
+              "x": 4,
+              "y": 41
+            },
+            {
+              "x": 4,
+              "y": 41
+            },
+            {
+              "x": 22,
+              "y": 40
+            },
+            {
+              "x": 9,
+              "y": 48
+            },
+            {
+              "x": 7,
+              "y": 57
+            },
+            {
+              "x": 13,
+              "y": 58
+            },
+            {
+              "x": 4,
+              "y": 54
+            },
+            {
+              "x": 4,
+              "y": 56
+            },
+            {
+              "x": 4,
+              "y": 56
+            },
+            {
+              "x": 4,
+              "y": 38
+            },
+            {
+              "x": 0,
+              "y": 64
+            },
+            {
+              "x": 8,
+              "y": 55
+            },
+            {
+              "x": 3,
+              "y": 47
+            },
+            {
+              "x": 8,
+              "y": 44
+            },
+            {
+              "x": 4,
+              "y": 42
+            },
+            {
+              "x": 2,
+              "y": 74
+            },
+            {
+              "x": 2,
+              "y": 28
+            },
+            {
+              "x": 3,
+              "y": 27
+            },
+            {
+              "x": 4,
+              "y": 44
+            },
+            {
+              "x": 5,
+              "y": 39
+            },
+            {
+              "x": 3,
+              "y": 57
+            },
+            {
+              "x": 6,
+              "y": 55
+            },
+            {
+              "x": 11,
+              "y": 22
+            },
+            {
+              "x": 12,
+              "y": 22
+            },
+            {
+              "x": 4,
+              "y": 52
+            },
+            {
+              "x": 4,
+              "y": 52
+            },
+            {
+              "x": 11,
+              "y": 56
+            },
+            {
+              "x": 9,
+              "y": 53
+            },
+            {
+              "x": 14,
+              "y": 49
+            },
+            {
+              "x": 5,
+              "y": 46
+            },
+            {
+              "x": 15,
+              "y": 69
+            }
+          ]
+        },
+        {
+          "name": "Rafinha",
+          "shortName": "Rafinha",
+          "id": 12634,
+          "number": "18",
+          "position": "D",
+          "substitute": false,
+          "height": 172,
+          "nationality": "BRA",
+          "marketValue": null,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1985-09-07",
+          "rating": 7.3,
+          "stats": {
+            "totalPass": 65,
+            "accuratePass": 53,
+            "aerialWon": 3,
+            "duelLost": 3,
+            "duelWon": 10,
+            "totalClearance": 1,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "wonTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 101,
+            "rating": 7.3,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 34,
+              "y": 5
+            },
+            {
+              "x": 43,
+              "y": 38
+            },
+            {
+              "x": 18,
+              "y": 11
+            },
+            {
+              "x": 17,
+              "y": 12
+            },
+            {
+              "x": 24,
+              "y": 25
+            },
+            {
+              "x": 23,
+              "y": 20
+            },
+            {
+              "x": 53,
+              "y": 39
+            },
+            {
+              "x": 47,
+              "y": 22
+            },
+            {
+              "x": 70,
+              "y": 4
+            },
+            {
+              "x": 31,
+              "y": 3
+            },
+            {
+              "x": 14,
+              "y": 20
+            },
+            {
+              "x": 37,
+              "y": 0
+            },
+            {
+              "x": 15,
+              "y": 0
+            },
+            {
+              "x": 42,
+              "y": 9
+            },
+            {
+              "x": 38,
+              "y": 22
+            },
+            {
+              "x": 21,
+              "y": 0
+            },
+            {
+              "x": 48,
+              "y": 0
+            },
+            {
+              "x": 68,
+              "y": 0
+            },
+            {
+              "x": 45,
+              "y": 5
+            },
+            {
+              "x": 52,
+              "y": 20
+            },
+            {
+              "x": 37,
+              "y": 2
+            },
+            {
+              "x": 41,
+              "y": 15
+            },
+            {
+              "x": 19,
+              "y": 2
+            },
+            {
+              "x": 32,
+              "y": 8
+            },
+            {
+              "x": 25,
+              "y": 14
+            },
+            {
+              "x": 40,
+              "y": 22
+            },
+            {
+              "x": 64,
+              "y": 6
+            },
+            {
+              "x": 56,
+              "y": 1
+            },
+            {
+              "x": 28,
+              "y": 20
+            },
+            {
+              "x": 62,
+              "y": 0
+            },
+            {
+              "x": 4,
+              "y": 18
+            },
+            {
+              "x": 5,
+              "y": 18
+            },
+            {
+              "x": 63,
+              "y": 4
+            },
+            {
+              "x": 93,
+              "y": 13
+            },
+            {
+              "x": 92,
+              "y": 12
+            },
+            {
+              "x": 45,
+              "y": 0
+            },
+            {
+              "x": 37,
+              "y": 2
+            },
+            {
+              "x": 48,
+              "y": 0
+            },
+            {
+              "x": 20,
+              "y": 29
+            },
+            {
+              "x": 25,
+              "y": 22
+            },
+            {
+              "x": 3,
+              "y": 30
+            },
+            {
+              "x": 42,
+              "y": 5
+            },
+            {
+              "x": 38,
+              "y": 4
+            },
+            {
+              "x": 65,
+              "y": 4
+            },
+            {
+              "x": 74,
+              "y": 0
+            },
+            {
+              "x": 46,
+              "y": 19
+            },
+            {
+              "x": 26,
+              "y": 0
+            },
+            {
+              "x": 38,
+              "y": 10
+            },
+            {
+              "x": 47,
+              "y": 16
+            },
+            {
+              "x": 47,
+              "y": 21
+            },
+            {
+              "x": 81,
+              "y": 0
+            },
+            {
+              "x": 79,
+              "y": 0
+            },
+            {
+              "x": 84,
+              "y": 0
+            },
+            {
+              "x": 31,
+              "y": 18
+            },
+            {
+              "x": 54,
+              "y": 8
+            },
+            {
+              "x": 45,
+              "y": 3
+            },
+            {
+              "x": 43,
+              "y": 6
+            },
+            {
+              "x": 46,
+              "y": 1
+            },
+            {
+              "x": 20,
+              "y": 11
+            },
+            {
+              "x": 23,
+              "y": 34
+            },
+            {
+              "x": 32,
+              "y": 5
+            },
+            {
+              "x": 45,
+              "y": 34
+            },
+            {
+              "x": 20,
+              "y": 1
+            },
+            {
+              "x": 27,
+              "y": 30
+            },
+            {
+              "x": 1,
+              "y": 24
+            },
+            {
+              "x": 33,
+              "y": 2
+            },
+            {
+              "x": 23,
+              "y": 13
+            },
+            {
+              "x": 4,
+              "y": 9
+            },
+            {
+              "x": 4,
+              "y": 8
+            },
+            {
+              "x": 24,
+              "y": 4
+            },
+            {
+              "x": 11,
+              "y": 13
+            },
+            {
+              "x": 26,
+              "y": 0
+            },
+            {
+              "x": 46,
+              "y": 5
+            },
+            {
+              "x": 54,
+              "y": 31
+            },
+            {
+              "x": 56,
+              "y": 8
+            },
+            {
+              "x": 25,
+              "y": 20
+            },
+            {
+              "x": 27,
+              "y": 27
+            },
+            {
+              "x": 58,
+              "y": 15
+            },
+            {
+              "x": 56,
+              "y": 23
+            },
+            {
+              "x": 96,
+              "y": 3
+            },
+            {
+              "x": 74,
+              "y": 2
+            },
+            {
+              "x": 76,
+              "y": 2
+            },
+            {
+              "x": 71,
+              "y": 3
+            },
+            {
+              "x": 27,
+              "y": 24
+            },
+            {
+              "x": 26,
+              "y": 22
+            },
+            {
+              "x": 43,
+              "y": 0
+            },
+            {
+              "x": 68,
+              "y": 9
+            },
+            {
+              "x": 75,
+              "y": 26
+            },
+            {
+              "x": 77,
+              "y": 25
+            },
+            {
+              "x": 65,
+              "y": 15
+            },
+            {
+              "x": 75,
+              "y": 26
+            },
+            {
+              "x": 80,
+              "y": 26
+            },
+            {
+              "x": 75,
+              "y": 35
+            },
+            {
+              "x": 74,
+              "y": 36
+            },
+            {
+              "x": 21,
+              "y": 29
+            },
+            {
+              "x": 51,
+              "y": 19
+            },
+            {
+              "x": 55,
+              "y": 17
+            },
+            {
+              "x": 39,
+              "y": 28
+            },
+            {
+              "x": 14,
+              "y": 17
+            },
+            {
+              "x": 42,
+              "y": 23
+            },
+            {
+              "x": 35,
+              "y": 20
+            },
+            {
+              "x": 28,
+              "y": 9
+            },
+            {
+              "x": 43,
+              "y": 26
+            },
+            {
+              "x": 59,
+              "y": 27
+            },
+            {
+              "x": 71,
+              "y": 26
+            },
+            {
+              "x": 39,
+              "y": 5
+            },
+            {
+              "x": 39,
+              "y": 2
+            },
+            {
+              "x": 16,
+              "y": 26
+            },
+            {
+              "x": 32,
+              "y": 9
+            },
+            {
+              "x": 48,
+              "y": 20
+            },
+            {
+              "x": 48,
+              "y": 20
+            },
+            {
+              "x": 20,
+              "y": 38
+            },
+            {
+              "x": 21,
+              "y": 37
+            },
+            {
+              "x": 22,
+              "y": 16
+            },
+            {
+              "x": 38,
+              "y": 9
+            }
+          ]
+        },
+        {
+          "name": "Rodrigo Caio",
+          "shortName": "R. Caio",
+          "id": 166273,
+          "number": "3",
+          "position": "D",
+          "substitute": false,
+          "height": 183,
+          "nationality": "BRA",
+          "marketValue": null,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1993-08-17",
+          "rating": 7.2,
+          "stats": {
+            "totalPass": 55,
+            "accuratePass": 44,
+            "aerialLost": 1,
+            "aerialWon": 8,
+            "duelLost": 2,
+            "duelWon": 11,
+            "totalClearance": 9,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 71,
+            "rating": 7.2,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 36,
+              "y": 43
+            },
+            {
+              "x": 54,
+              "y": 55
+            },
+            {
+              "x": 45,
+              "y": 58
+            },
+            {
+              "x": 32,
+              "y": 23
+            },
+            {
+              "x": 33,
+              "y": 20
+            },
+            {
+              "x": 34,
+              "y": 41
+            },
+            {
+              "x": 33,
+              "y": 38
+            },
+            {
+              "x": 37,
+              "y": 36
+            },
+            {
+              "x": 35,
+              "y": 3
+            },
+            {
+              "x": 33,
+              "y": 21
+            },
+            {
+              "x": 33,
+              "y": 24
+            },
+            {
+              "x": 18,
+              "y": 31
+            },
+            {
+              "x": 5,
+              "y": 75
+            },
+            {
+              "x": 36,
+              "y": 51
+            },
+            {
+              "x": 36,
+              "y": 12
+            },
+            {
+              "x": 29,
+              "y": 5
+            },
+            {
+              "x": 7,
+              "y": 16
+            },
+            {
+              "x": 16,
+              "y": 10
+            },
+            {
+              "x": 16,
+              "y": 10
+            },
+            {
+              "x": 26,
+              "y": 22
+            },
+            {
+              "x": 40,
+              "y": 7
+            },
+            {
+              "x": 24,
+              "y": 48
+            },
+            {
+              "x": 22,
+              "y": 55
+            },
+            {
+              "x": 23,
+              "y": 54
+            },
+            {
+              "x": 36,
+              "y": 19
+            },
+            {
+              "x": 37,
+              "y": 18
+            },
+            {
+              "x": 4,
+              "y": 34
+            },
+            {
+              "x": 28,
+              "y": 19
+            },
+            {
+              "x": 32,
+              "y": 12
+            },
+            {
+              "x": 34,
+              "y": 15
+            },
+            {
+              "x": 49,
+              "y": 25
+            },
+            {
+              "x": 48,
+              "y": 21
+            },
+            {
+              "x": 26,
+              "y": 14
+            },
+            {
+              "x": 27,
+              "y": 20
+            },
+            {
+              "x": 40,
+              "y": 35
+            },
+            {
+              "x": 33,
+              "y": 38
+            },
+            {
+              "x": 47,
+              "y": 18
+            },
+            {
+              "x": 22,
+              "y": 41
+            },
+            {
+              "x": 38,
+              "y": 24
+            },
+            {
+              "x": 15,
+              "y": 11
+            },
+            {
+              "x": 31,
+              "y": 5
+            },
+            {
+              "x": 34,
+              "y": 4
+            },
+            {
+              "x": 22,
+              "y": 6
+            },
+            {
+              "x": 22,
+              "y": 30
+            },
+            {
+              "x": 15,
+              "y": 6
+            },
+            {
+              "x": 40,
+              "y": 92
+            },
+            {
+              "x": 41,
+              "y": 91
+            },
+            {
+              "x": 29,
+              "y": 56
+            },
+            {
+              "x": 12,
+              "y": 35
+            },
+            {
+              "x": 20,
+              "y": 36
+            },
+            {
+              "x": 4,
+              "y": 44
+            },
+            {
+              "x": 3,
+              "y": 45
+            },
+            {
+              "x": 2,
+              "y": 37
+            },
+            {
+              "x": 4,
+              "y": 45
+            },
+            {
+              "x": 15,
+              "y": 60
+            },
+            {
+              "x": 14,
+              "y": 17
+            },
+            {
+              "x": 15,
+              "y": 69
+            },
+            {
+              "x": 14,
+              "y": 68
+            },
+            {
+              "x": 39,
+              "y": 13
+            },
+            {
+              "x": 32,
+              "y": 13
+            },
+            {
+              "x": 12,
+              "y": 10
+            },
+            {
+              "x": 52,
+              "y": 31
+            },
+            {
+              "x": 3,
+              "y": 57
+            },
+            {
+              "x": 12,
+              "y": 63
+            },
+            {
+              "x": 14,
+              "y": 35
+            },
+            {
+              "x": 14,
+              "y": 38
+            },
+            {
+              "x": 38,
+              "y": 36
+            },
+            {
+              "x": 35,
+              "y": 13
+            },
+            {
+              "x": 34,
+              "y": 11
+            },
+            {
+              "x": 36,
+              "y": 13
+            },
+            {
+              "x": 19,
+              "y": 37
+            },
+            {
+              "x": 15,
+              "y": 41
+            },
+            {
+              "x": 33,
+              "y": 38
+            },
+            {
+              "x": 61,
+              "y": 8
+            },
+            {
+              "x": 40,
+              "y": 13
+            },
+            {
+              "x": 29,
+              "y": 14
+            },
+            {
+              "x": 34,
+              "y": 16
+            },
+            {
+              "x": 29,
+              "y": 32
+            },
+            {
+              "x": 36,
+              "y": 23
+            },
+            {
+              "x": 24,
+              "y": 27
+            },
+            {
+              "x": 52,
+              "y": 42
+            },
+            {
+              "x": 51,
+              "y": 43
+            },
+            {
+              "x": 12,
+              "y": 42
+            },
+            {
+              "x": 17,
+              "y": 51
+            },
+            {
+              "x": 24,
+              "y": 27
+            },
+            {
+              "x": 22,
+              "y": 41
+            },
+            {
+              "x": 23,
+              "y": 41
+            }
+          ]
+        },
+        {
+          "name": "Pablo Marí",
+          "shortName": "P. Marí",
+          "id": 208988,
+          "number": "24",
+          "position": "D",
+          "substitute": false,
+          "height": 191,
+          "nationality": "ESP",
+          "marketValue": 2700000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1993-08-31",
+          "rating": 6.8,
+          "stats": {
+            "totalPass": 40,
+            "accuratePass": 31,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 2,
+            "duelWon": 4,
+            "totalClearance": 3,
+            "interceptionWon": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 51,
+            "rating": 6.8,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 53,
+              "y": 84
+            },
+            {
+              "x": 57,
+              "y": 81
+            },
+            {
+              "x": 40,
+              "y": 37
+            },
+            {
+              "x": 40,
+              "y": 96
+            },
+            {
+              "x": 51,
+              "y": 48
+            },
+            {
+              "x": 50,
+              "y": 51
+            },
+            {
+              "x": 19,
+              "y": 43
+            },
+            {
+              "x": 30,
+              "y": 42
+            },
+            {
+              "x": 45,
+              "y": 64
+            },
+            {
+              "x": 44,
+              "y": 64
+            },
+            {
+              "x": 17,
+              "y": 76
+            },
+            {
+              "x": 41,
+              "y": 69
+            },
+            {
+              "x": 53,
+              "y": 72
+            },
+            {
+              "x": 16,
+              "y": 28
+            },
+            {
+              "x": 13,
+              "y": 94
+            },
+            {
+              "x": 17,
+              "y": 80
+            },
+            {
+              "x": 32,
+              "y": 61
+            },
+            {
+              "x": 39,
+              "y": 31
+            },
+            {
+              "x": 38,
+              "y": 32
+            },
+            {
+              "x": 24,
+              "y": 76
+            },
+            {
+              "x": 46,
+              "y": 90
+            },
+            {
+              "x": 25,
+              "y": 61
+            },
+            {
+              "x": 41,
+              "y": 67
+            },
+            {
+              "x": 12,
+              "y": 86
+            },
+            {
+              "x": 38,
+              "y": 68
+            },
+            {
+              "x": 21,
+              "y": 18
+            },
+            {
+              "x": 18,
+              "y": 66
+            },
+            {
+              "x": 23,
+              "y": 23
+            },
+            {
+              "x": 22,
+              "y": 21
+            },
+            {
+              "x": 16,
+              "y": 82
+            },
+            {
+              "x": 15,
+              "y": 92
+            },
+            {
+              "x": 23,
+              "y": 41
+            },
+            {
+              "x": 33,
+              "y": 72
+            },
+            {
+              "x": 33,
+              "y": 48
+            },
+            {
+              "x": 56,
+              "y": 77
+            },
+            {
+              "x": 53,
+              "y": 8
+            },
+            {
+              "x": 31,
+              "y": 79
+            },
+            {
+              "x": 23,
+              "y": 91
+            },
+            {
+              "x": 16,
+              "y": 83
+            },
+            {
+              "x": 25,
+              "y": 40
+            },
+            {
+              "x": 24,
+              "y": 69
+            },
+            {
+              "x": 25,
+              "y": 84
+            },
+            {
+              "x": 29,
+              "y": 67
+            },
+            {
+              "x": 9,
+              "y": 90
+            },
+            {
+              "x": 8,
+              "y": 90
+            },
+            {
+              "x": 29,
+              "y": 76
+            },
+            {
+              "x": 16,
+              "y": 62
+            },
+            {
+              "x": 8,
+              "y": 83
+            },
+            {
+              "x": 10,
+              "y": 83
+            },
+            {
+              "x": 18,
+              "y": 50
+            },
+            {
+              "x": 30,
+              "y": 57
+            },
+            {
+              "x": 30,
+              "y": 56
+            },
+            {
+              "x": 34,
+              "y": 71
+            },
+            {
+              "x": 59,
+              "y": 77
+            },
+            {
+              "x": 40,
+              "y": 73
+            },
+            {
+              "x": 37,
+              "y": 70
+            },
+            {
+              "x": 33,
+              "y": 69
+            },
+            {
+              "x": 52,
+              "y": 73
+            },
+            {
+              "x": 18,
+              "y": 90
+            },
+            {
+              "x": 19,
+              "y": 87
+            },
+            {
+              "x": 53,
+              "y": 68
+            }
+          ]
+        },
+        {
+          "name": "Filipe Luís",
+          "shortName": "F. Luís",
+          "id": 26029,
+          "number": "21",
+          "position": "D",
+          "substitute": false,
+          "height": 181,
+          "nationality": "BRA",
+          "marketValue": null,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1985-08-09",
+          "rating": 6.2,
+          "stats": {
+            "totalPass": 50,
+            "accuratePass": 38,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 4,
+            "interceptionWon": 1,
+            "minutesPlayed": 90,
+            "touches": 77,
+            "rating": 6.2,
+            "keyPass": 1,
+            "totalShots": 1
+          },
+          "heatmap": [
+            {
+              "x": 58,
+              "y": 89
+            },
+            {
+              "x": 51,
+              "y": 97
+            },
+            {
+              "x": 49,
+              "y": 100
+            },
+            {
+              "x": 56,
+              "y": 90
+            },
+            {
+              "x": 55,
+              "y": 93
+            },
+            {
+              "x": 82,
+              "y": 100
+            },
+            {
+              "x": 81,
+              "y": 88
+            },
+            {
+              "x": 81,
+              "y": 87
+            },
+            {
+              "x": 35,
+              "y": 31
+            },
+            {
+              "x": 35,
+              "y": 31
+            },
+            {
+              "x": 23,
+              "y": 63
+            },
+            {
+              "x": 45,
+              "y": 83
+            },
+            {
+              "x": 28,
+              "y": 90
+            },
+            {
+              "x": 30,
+              "y": 89
+            },
+            {
+              "x": 38,
+              "y": 88
+            },
+            {
+              "x": 47,
+              "y": 94
+            },
+            {
+              "x": 32,
+              "y": 55
+            },
+            {
+              "x": 56,
+              "y": 69
+            },
+            {
+              "x": 37,
+              "y": 86
+            },
+            {
+              "x": 37,
+              "y": 87
+            },
+            {
+              "x": 48,
+              "y": 89
+            },
+            {
+              "x": 71,
+              "y": 97
+            },
+            {
+              "x": 76,
+              "y": 97
+            },
+            {
+              "x": 76,
+              "y": 100
+            },
+            {
+              "x": 39,
+              "y": 64
+            },
+            {
+              "x": 39,
+              "y": 71
+            },
+            {
+              "x": 57,
+              "y": 94
+            },
+            {
+              "x": 14,
+              "y": 63
+            },
+            {
+              "x": 23,
+              "y": 66
+            },
+            {
+              "x": 60,
+              "y": 90
+            },
+            {
+              "x": 71,
+              "y": 81
+            },
+            {
+              "x": 72,
+              "y": 77
+            },
+            {
+              "x": 19,
+              "y": 91
+            },
+            {
+              "x": 72,
+              "y": 100
+            },
+            {
+              "x": 54,
+              "y": 89
+            },
+            {
+              "x": 31,
+              "y": 75
+            },
+            {
+              "x": 26,
+              "y": 67
+            },
+            {
+              "x": 7,
+              "y": 83
+            },
+            {
+              "x": 40,
+              "y": 96
+            },
+            {
+              "x": 38,
+              "y": 96
+            },
+            {
+              "x": 12,
+              "y": 91
+            },
+            {
+              "x": 9,
+              "y": 97
+            },
+            {
+              "x": 8,
+              "y": 97
+            },
+            {
+              "x": 15,
+              "y": 100
+            },
+            {
+              "x": 34,
+              "y": 71
+            },
+            {
+              "x": 46,
+              "y": 67
+            },
+            {
+              "x": 47,
+              "y": 68
+            },
+            {
+              "x": 63,
+              "y": 100
+            },
+            {
+              "x": 75,
+              "y": 85
+            },
+            {
+              "x": 74,
+              "y": 79
+            },
+            {
+              "x": 11,
+              "y": 76
+            },
+            {
+              "x": 59,
+              "y": 81
+            },
+            {
+              "x": 61,
+              "y": 96
+            },
+            {
+              "x": 59,
+              "y": 100
+            },
+            {
+              "x": 69,
+              "y": 74
+            },
+            {
+              "x": 39,
+              "y": 95
+            },
+            {
+              "x": 38,
+              "y": 95
+            },
+            {
+              "x": 39,
+              "y": 93
+            },
+            {
+              "x": 37,
+              "y": 94
+            },
+            {
+              "x": 37,
+              "y": 97
+            },
+            {
+              "x": 46,
+              "y": 88
+            },
+            {
+              "x": 88,
+              "y": 76
+            },
+            {
+              "x": 11,
+              "y": 80
+            },
+            {
+              "x": 8,
+              "y": 88
+            },
+            {
+              "x": 8,
+              "y": 88
+            },
+            {
+              "x": 26,
+              "y": 78
+            },
+            {
+              "x": 26,
+              "y": 77
+            },
+            {
+              "x": 32,
+              "y": 100
+            },
+            {
+              "x": 74,
+              "y": 64
+            },
+            {
+              "x": 14,
+              "y": 72
+            },
+            {
+              "x": 15,
+              "y": 73
+            },
+            {
+              "x": 43,
+              "y": 93
+            },
+            {
+              "x": 37,
+              "y": 57
+            },
+            {
+              "x": 37,
+              "y": 54
+            },
+            {
+              "x": 37,
+              "y": 80
+            },
+            {
+              "x": 72,
+              "y": 90
+            },
+            {
+              "x": 46,
+              "y": 89
+            },
+            {
+              "x": 14,
+              "y": 88
+            },
+            {
+              "x": 2,
+              "y": 70
+            },
+            {
+              "x": 2,
+              "y": 70
+            },
+            {
+              "x": 1,
+              "y": 67
+            },
+            {
+              "x": 37,
+              "y": 70
+            },
+            {
+              "x": 70,
+              "y": 75
+            },
+            {
+              "x": 93,
+              "y": 78
+            },
+            {
+              "x": 21,
+              "y": 72
+            },
+            {
+              "x": 23,
+              "y": 72
+            },
+            {
+              "x": 68,
+              "y": 91
+            },
+            {
+              "x": 76,
+              "y": 92
+            },
+            {
+              "x": 56,
+              "y": 79
+            },
+            {
+              "x": 14,
+              "y": 52
+            }
+          ]
+        },
+        {
+          "name": "Willian Arão",
+          "shortName": "Willian Arão",
+          "id": 242213,
+          "number": "5",
+          "position": "M",
+          "substitute": false,
+          "height": 181,
+          "nationality": "BRA",
+          "marketValue": 905000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1992-03-12",
+          "rating": 7.1,
+          "stats": {
+            "totalPass": 48,
+            "accuratePass": 43,
+            "aerialLost": 1,
+            "aerialWon": 3,
+            "duelLost": 3,
+            "duelWon": 7,
+            "interceptionWon": 3,
+            "totalTackle": 1,
+            "wonTackle": 1,
+            "minutesPlayed": 86,
+            "touches": 59,
+            "rating": 7.1,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 50,
+              "y": 49
+            },
+            {
+              "x": 52,
+              "y": 78
+            },
+            {
+              "x": 52,
+              "y": 78
+            },
+            {
+              "x": 26,
+              "y": 33
+            },
+            {
+              "x": 39,
+              "y": 18
+            },
+            {
+              "x": 39,
+              "y": 17
+            },
+            {
+              "x": 28,
+              "y": 24
+            },
+            {
+              "x": 38,
+              "y": 37
+            },
+            {
+              "x": 38,
+              "y": 37
+            },
+            {
+              "x": 34,
+              "y": 29
+            },
+            {
+              "x": 36,
+              "y": 27
+            },
+            {
+              "x": 36,
+              "y": 49
+            },
+            {
+              "x": 36,
+              "y": 60
+            },
+            {
+              "x": 27,
+              "y": 55
+            },
+            {
+              "x": 41,
+              "y": 56
+            },
+            {
+              "x": 58,
+              "y": 19
+            },
+            {
+              "x": 59,
+              "y": 12
+            },
+            {
+              "x": 34,
+              "y": 60
+            },
+            {
+              "x": 34,
+              "y": 60
+            },
+            {
+              "x": 15,
+              "y": 34
+            },
+            {
+              "x": 36,
+              "y": 66
+            },
+            {
+              "x": 91,
+              "y": 49
+            },
+            {
+              "x": 43,
+              "y": 12
+            },
+            {
+              "x": 41,
+              "y": 15
+            },
+            {
+              "x": 41,
+              "y": 15
+            },
+            {
+              "x": 44,
+              "y": 23
+            },
+            {
+              "x": 38,
+              "y": 23
+            },
+            {
+              "x": 23,
+              "y": 50
+            },
+            {
+              "x": 34,
+              "y": 49
+            },
+            {
+              "x": 37,
+              "y": 66
+            },
+            {
+              "x": 67,
+              "y": 7
+            },
+            {
+              "x": 67,
+              "y": 7
+            },
+            {
+              "x": 31,
+              "y": 52
+            },
+            {
+              "x": 32,
+              "y": 50
+            },
+            {
+              "x": 23,
+              "y": 32
+            },
+            {
+              "x": 53,
+              "y": 66
+            },
+            {
+              "x": 52,
+              "y": 42
+            },
+            {
+              "x": 77,
+              "y": 9
+            },
+            {
+              "x": 70,
+              "y": 51
+            },
+            {
+              "x": 24,
+              "y": 37
+            },
+            {
+              "x": 19,
+              "y": 31
+            },
+            {
+              "x": 19,
+              "y": 32
+            },
+            {
+              "x": 20,
+              "y": 40
+            },
+            {
+              "x": 17,
+              "y": 96
+            },
+            {
+              "x": 22,
+              "y": 95
+            },
+            {
+              "x": 45,
+              "y": 27
+            },
+            {
+              "x": 52,
+              "y": 32
+            },
+            {
+              "x": 39,
+              "y": 65
+            },
+            {
+              "x": 38,
+              "y": 66
+            },
+            {
+              "x": 40,
+              "y": 67
+            },
+            {
+              "x": 41,
+              "y": 68
+            },
+            {
+              "x": 36,
+              "y": 68
+            },
+            {
+              "x": 39,
+              "y": 63
+            },
+            {
+              "x": 40,
+              "y": 63
+            },
+            {
+              "x": 23,
+              "y": 58
+            },
+            {
+              "x": 20,
+              "y": 62
+            },
+            {
+              "x": 21,
+              "y": 24
+            },
+            {
+              "x": 54,
+              "y": 74
+            },
+            {
+              "x": 34,
+              "y": 93
+            },
+            {
+              "x": 45,
+              "y": 62
+            },
+            {
+              "x": 70,
+              "y": 19
+            },
+            {
+              "x": 45,
+              "y": 54
+            },
+            {
+              "x": 44,
+              "y": 0
+            },
+            {
+              "x": 62,
+              "y": 7
+            },
+            {
+              "x": 40,
+              "y": 32
+            },
+            {
+              "x": 37,
+              "y": 32
+            },
+            {
+              "x": 16,
+              "y": 73
+            },
+            {
+              "x": 16,
+              "y": 73
+            },
+            {
+              "x": 60,
+              "y": 61
+            },
+            {
+              "x": 35,
+              "y": 39
+            },
+            {
+              "x": 48,
+              "y": 32
+            },
+            {
+              "x": 57,
+              "y": 14
+            }
+          ]
+        },
+        {
+          "name": "Gerson",
+          "shortName": "Gerson",
+          "id": 611876,
+          "number": "15",
+          "position": "M",
+          "substitute": false,
+          "height": 185,
+          "nationality": "BRA",
+          "marketValue": 21000000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1997-05-20",
+          "rating": 7.4,
+          "stats": {
+            "totalPass": 31,
+            "accuratePass": 21,
+            "duelLost": 3,
+            "duelWon": 10,
+            "totalTackle": 1,
+            "wonTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 66,
+            "touches": 47,
+            "rating": 7.4,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 52,
+              "y": 49
+            },
+            {
+              "x": 55,
+              "y": 39
+            },
+            {
+              "x": 55,
+              "y": 64
+            },
+            {
+              "x": 41,
+              "y": 54
+            },
+            {
+              "x": 55,
+              "y": 64
+            },
+            {
+              "x": 56,
+              "y": 66
+            },
+            {
+              "x": 69,
+              "y": 52
+            },
+            {
+              "x": 61,
+              "y": 96
+            },
+            {
+              "x": 61,
+              "y": 96
+            },
+            {
+              "x": 40,
+              "y": 33
+            },
+            {
+              "x": 40,
+              "y": 33
+            },
+            {
+              "x": 52,
+              "y": 75
+            },
+            {
+              "x": 53,
+              "y": 74
+            },
+            {
+              "x": 57,
+              "y": 32
+            },
+            {
+              "x": 59,
+              "y": 18
+            },
+            {
+              "x": 44,
+              "y": 76
+            },
+            {
+              "x": 42,
+              "y": 53
+            },
+            {
+              "x": 47,
+              "y": 41
+            },
+            {
+              "x": 45,
+              "y": 54
+            },
+            {
+              "x": 55,
+              "y": 66
+            },
+            {
+              "x": 54,
+              "y": 66
+            },
+            {
+              "x": 54,
+              "y": 66
+            },
+            {
+              "x": 61,
+              "y": 27
+            },
+            {
+              "x": 63,
+              "y": 31
+            },
+            {
+              "x": 26,
+              "y": 26
+            },
+            {
+              "x": 29,
+              "y": 33
+            },
+            {
+              "x": 41,
+              "y": 35
+            },
+            {
+              "x": 55,
+              "y": 28
+            },
+            {
+              "x": 87,
+              "y": 16
+            },
+            {
+              "x": 46,
+              "y": 69
+            },
+            {
+              "x": 53,
+              "y": 35
+            },
+            {
+              "x": 70,
+              "y": 23
+            },
+            {
+              "x": 70,
+              "y": 23
+            },
+            {
+              "x": 71,
+              "y": 28
+            },
+            {
+              "x": 45,
+              "y": 36
+            },
+            {
+              "x": 46,
+              "y": 80
+            },
+            {
+              "x": 59,
+              "y": 75
+            },
+            {
+              "x": 71,
+              "y": 73
+            },
+            {
+              "x": 44,
+              "y": 92
+            },
+            {
+              "x": 48,
+              "y": 74
+            },
+            {
+              "x": 61,
+              "y": 67
+            },
+            {
+              "x": 63,
+              "y": 63
+            },
+            {
+              "x": 48,
+              "y": 87
+            },
+            {
+              "x": 48,
+              "y": 87
+            },
+            {
+              "x": 75,
+              "y": 80
+            },
+            {
+              "x": 46,
+              "y": 45
+            },
+            {
+              "x": 52,
+              "y": 48
+            },
+            {
+              "x": 15,
+              "y": 12
+            },
+            {
+              "x": 42,
+              "y": 70
+            },
+            {
+              "x": 34,
+              "y": 32
+            },
+            {
+              "x": 28,
+              "y": 75
+            },
+            {
+              "x": 32,
+              "y": 43
+            },
+            {
+              "x": 40,
+              "y": 85
+            },
+            {
+              "x": 18,
+              "y": 70
+            },
+            {
+              "x": 2,
+              "y": 81
+            },
+            {
+              "x": 4,
+              "y": 86
+            }
+          ]
+        },
+        {
+          "name": "Giorgian de Arrascaeta",
+          "shortName": "G. de Arrascaeta",
+          "id": 333587,
+          "number": "14",
+          "position": "M",
+          "substitute": false,
+          "height": 173,
+          "nationality": "URY",
+          "marketValue": 14500000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1994-05-31",
+          "rating": 6.7,
+          "stats": {
+            "totalPass": 33,
+            "accuratePass": 26,
+            "goalAssist": 1,
+            "aerialLost": 1,
+            "duelLost": 8,
+            "duelWon": 5,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wonTackle": 2,
+            "minutesPlayed": 89,
+            "touches": 55,
+            "rating": 6.7,
+            "keyPass": 2,
+            "totalShots": 1
+          },
+          "heatmap": [
+            {
+              "x": 52,
+              "y": 3
+            },
+            {
+              "x": 44,
+              "y": 5
+            },
+            {
+              "x": 61,
+              "y": 8
+            },
+            {
+              "x": 76,
+              "y": 74
+            },
+            {
+              "x": 84,
+              "y": 5
+            },
+            {
+              "x": 84,
+              "y": 8
+            },
+            {
+              "x": 67,
+              "y": 8
+            },
+            {
+              "x": 68,
+              "y": 10
+            },
+            {
+              "x": 72,
+              "y": 24
+            },
+            {
+              "x": 81,
+              "y": 39
+            },
+            {
+              "x": 40,
+              "y": 17
+            },
+            {
+              "x": 41,
+              "y": 10
+            },
+            {
+              "x": 45,
+              "y": 18
+            },
+            {
+              "x": 28,
+              "y": 9
+            },
+            {
+              "x": 32,
+              "y": 2
+            },
+            {
+              "x": 54,
+              "y": 87
+            },
+            {
+              "x": 29,
+              "y": 84
+            },
+            {
+              "x": 60,
+              "y": 90
+            },
+            {
+              "x": 53,
+              "y": 79
+            },
+            {
+              "x": 59,
+              "y": 39
+            },
+            {
+              "x": 35,
+              "y": 57
+            },
+            {
+              "x": 59,
+              "y": 79
+            },
+            {
+              "x": 94,
+              "y": 13
+            },
+            {
+              "x": 97,
+              "y": 4
+            },
+            {
+              "x": 97,
+              "y": 3
+            },
+            {
+              "x": 79,
+              "y": 62
+            },
+            {
+              "x": 85,
+              "y": 58
+            },
+            {
+              "x": 85,
+              "y": 57
+            },
+            {
+              "x": 77,
+              "y": 26
+            },
+            {
+              "x": 52,
+              "y": 14
+            },
+            {
+              "x": 22,
+              "y": 51
+            },
+            {
+              "x": 56,
+              "y": 81
+            },
+            {
+              "x": 74,
+              "y": 70
+            },
+            {
+              "x": 78,
+              "y": 72
+            },
+            {
+              "x": 69,
+              "y": 73
+            },
+            {
+              "x": 27,
+              "y": 48
+            },
+            {
+              "x": 75,
+              "y": 57
+            },
+            {
+              "x": 75,
+              "y": 83
+            },
+            {
+              "x": 70,
+              "y": 89
+            },
+            {
+              "x": 59,
+              "y": 66
+            },
+            {
+              "x": 62,
+              "y": 82
+            },
+            {
+              "x": 71,
+              "y": 26
+            },
+            {
+              "x": 63,
+              "y": 83
+            },
+            {
+              "x": 10,
+              "y": 96
+            },
+            {
+              "x": 14,
+              "y": 92
+            },
+            {
+              "x": 76,
+              "y": 47
+            },
+            {
+              "x": 64,
+              "y": 37
+            },
+            {
+              "x": 64,
+              "y": 37
+            },
+            {
+              "x": 56,
+              "y": 87
+            },
+            {
+              "x": 63,
+              "y": 83
+            },
+            {
+              "x": 65,
+              "y": 85
+            },
+            {
+              "x": 64,
+              "y": 85
+            },
+            {
+              "x": 91,
+              "y": 58
+            },
+            {
+              "x": 64,
+              "y": 77
+            },
+            {
+              "x": 66,
+              "y": 45
+            },
+            {
+              "x": 99,
+              "y": 0
+            },
+            {
+              "x": 75,
+              "y": 35
+            },
+            {
+              "x": 54,
+              "y": 41
+            },
+            {
+              "x": 72,
+              "y": 48
+            },
+            {
+              "x": 56,
+              "y": 38
+            },
+            {
+              "x": 35,
+              "y": 75
+            },
+            {
+              "x": 41,
+              "y": 70
+            },
+            {
+              "x": 57,
+              "y": 75
+            },
+            {
+              "x": 93,
+              "y": 60
+            }
+          ]
+        },
+        {
+          "name": "Everton Ribeiro",
+          "shortName": "E. Ribeiro",
+          "id": 145063,
+          "number": "7",
+          "position": "M",
+          "substitute": false,
+          "height": 174,
+          "nationality": "BRA",
+          "marketValue": 1200000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1989-04-10",
+          "rating": 6.7,
+          "stats": {
+            "totalPass": 40,
+            "accuratePass": 31,
+            "aerialLost": 3,
+            "aerialWon": 3,
+            "duelLost": 8,
+            "duelWon": 9,
+            "totalClearance": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 60,
+            "rating": 6.7,
+            "keyPass": 1,
+            "totalShots": 2
+          },
+          "heatmap": [
+            {
+              "x": 65,
+              "y": 76
+            },
+            {
+              "x": 53,
+              "y": 54
+            },
+            {
+              "x": 62,
+              "y": 64
+            },
+            {
+              "x": 54,
+              "y": 35
+            },
+            {
+              "x": 74,
+              "y": 19
+            },
+            {
+              "x": 43,
+              "y": 22
+            },
+            {
+              "x": 60,
+              "y": 7
+            },
+            {
+              "x": 31,
+              "y": 4
+            },
+            {
+              "x": 58,
+              "y": 7
+            },
+            {
+              "x": 43,
+              "y": 8
+            },
+            {
+              "x": 55,
+              "y": 4
+            },
+            {
+              "x": 58,
+              "y": 15
+            },
+            {
+              "x": 66,
+              "y": 5
+            },
+            {
+              "x": 71,
+              "y": 3
+            },
+            {
+              "x": 18,
+              "y": 4
+            },
+            {
+              "x": 18,
+              "y": 5
+            },
+            {
+              "x": 20,
+              "y": 23
+            },
+            {
+              "x": 28,
+              "y": 33
+            },
+            {
+              "x": 14,
+              "y": 50
+            },
+            {
+              "x": 68,
+              "y": 14
+            },
+            {
+              "x": 99,
+              "y": 0
+            },
+            {
+              "x": 84,
+              "y": 19
+            },
+            {
+              "x": 53,
+              "y": 30
+            },
+            {
+              "x": 42,
+              "y": 22
+            },
+            {
+              "x": 88,
+              "y": 6
+            },
+            {
+              "x": 71,
+              "y": 83
+            },
+            {
+              "x": 2,
+              "y": 16
+            },
+            {
+              "x": 10,
+              "y": 4
+            },
+            {
+              "x": 27,
+              "y": 5
+            },
+            {
+              "x": 64,
+              "y": 64
+            },
+            {
+              "x": 89,
+              "y": 15
+            },
+            {
+              "x": 36,
+              "y": 26
+            },
+            {
+              "x": 44,
+              "y": 30
+            },
+            {
+              "x": 34,
+              "y": 53
+            },
+            {
+              "x": 34,
+              "y": 50
+            },
+            {
+              "x": 69,
+              "y": 84
+            },
+            {
+              "x": 92,
+              "y": 53
+            },
+            {
+              "x": 30,
+              "y": 20
+            },
+            {
+              "x": 36,
+              "y": 17
+            },
+            {
+              "x": 25,
+              "y": 3
+            },
+            {
+              "x": 27,
+              "y": 7
+            },
+            {
+              "x": 53,
+              "y": 17
+            },
+            {
+              "x": 35,
+              "y": 27
+            },
+            {
+              "x": 66,
+              "y": 10
+            },
+            {
+              "x": 82,
+              "y": 14
+            },
+            {
+              "x": 90,
+              "y": 13
+            },
+            {
+              "x": 87,
+              "y": 42
+            },
+            {
+              "x": 87,
+              "y": 43
+            },
+            {
+              "x": 77,
+              "y": 3
+            },
+            {
+              "x": 55,
+              "y": 50
+            },
+            {
+              "x": 45,
+              "y": 11
+            },
+            {
+              "x": 57,
+              "y": 21
+            },
+            {
+              "x": 35,
+              "y": 83
+            },
+            {
+              "x": 39,
+              "y": 97
+            },
+            {
+              "x": 39,
+              "y": 76
+            },
+            {
+              "x": 90,
+              "y": 16
+            },
+            {
+              "x": 68,
+              "y": 2
+            },
+            {
+              "x": 65,
+              "y": 27
+            },
+            {
+              "x": 90,
+              "y": 34
+            },
+            {
+              "x": 43,
+              "y": 63
+            },
+            {
+              "x": 75,
+              "y": 35
+            },
+            {
+              "x": 78,
+              "y": 50
+            },
+            {
+              "x": 76,
+              "y": 7
+            },
+            {
+              "x": 90,
+              "y": 15
+            },
+            {
+              "x": 48,
+              "y": 11
+            },
+            {
+              "x": 44,
+              "y": 12
+            },
+            {
+              "x": 74,
+              "y": 5
+            },
+            {
+              "x": 47,
+              "y": 29
+            },
+            {
+              "x": 75,
+              "y": 26
+            },
+            {
+              "x": 59,
+              "y": 32
+            },
+            {
+              "x": 75,
+              "y": 49
+            },
+            {
+              "x": 62,
+              "y": 70
+            },
+            {
+              "x": 72,
+              "y": 69
+            },
+            {
+              "x": 93,
+              "y": 96
+            }
+          ]
+        },
+        {
+          "name": "Bruno Henrique",
+          "shortName": "B. Henrique",
+          "id": 795291,
+          "number": "27",
+          "position": "M",
+          "substitute": false,
+          "height": 184,
+          "nationality": "BRA",
+          "marketValue": 825000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1990-12-27",
+          "rating": 6.9,
+          "stats": {
+            "totalPass": 18,
+            "accuratePass": 9,
+            "aerialLost": 7,
+            "aerialWon": 6,
+            "duelLost": 15,
+            "duelWon": 14,
+            "interceptionWon": 2,
+            "fouls": 4,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 6.9,
+            "keyPass": 1,
+            "totalShots": 1
+          },
+          "heatmap": [
+            {
+              "x": 69,
+              "y": 92
+            },
+            {
+              "x": 62,
+              "y": 94
+            },
+            {
+              "x": 73,
+              "y": 69
+            },
+            {
+              "x": 72,
+              "y": 68
+            },
+            {
+              "x": 87,
+              "y": 80
+            },
+            {
+              "x": 89,
+              "y": 49
+            },
+            {
+              "x": 74,
+              "y": 19
+            },
+            {
+              "x": 69,
+              "y": 67
+            },
+            {
+              "x": 66,
+              "y": 64
+            },
+            {
+              "x": 68,
+              "y": 59
+            },
+            {
+              "x": 70,
+              "y": 62
+            },
+            {
+              "x": 31,
+              "y": 93
+            },
+            {
+              "x": 44,
+              "y": 95
+            },
+            {
+              "x": 77,
+              "y": 88
+            },
+            {
+              "x": 66,
+              "y": 6
+            },
+            {
+              "x": 63,
+              "y": 29
+            },
+            {
+              "x": 71,
+              "y": 76
+            },
+            {
+              "x": 85,
+              "y": 84
+            },
+            {
+              "x": 85,
+              "y": 86
+            },
+            {
+              "x": 68,
+              "y": 9
+            },
+            {
+              "x": 54,
+              "y": 58
+            },
+            {
+              "x": 54,
+              "y": 58
+            },
+            {
+              "x": 81,
+              "y": 49
+            },
+            {
+              "x": 81,
+              "y": 50
+            },
+            {
+              "x": 39,
+              "y": 71
+            },
+            {
+              "x": 44,
+              "y": 26
+            },
+            {
+              "x": 74,
+              "y": 84
+            },
+            {
+              "x": 76,
+              "y": 2
+            },
+            {
+              "x": 69,
+              "y": 73
+            },
+            {
+              "x": 54,
+              "y": 78
+            },
+            {
+              "x": 60,
+              "y": 87
+            },
+            {
+              "x": 98,
+              "y": 61
+            },
+            {
+              "x": 42,
+              "y": 92
+            },
+            {
+              "x": 53,
+              "y": 94
+            },
+            {
+              "x": 36,
+              "y": 94
+            },
+            {
+              "x": 41,
+              "y": 97
+            },
+            {
+              "x": 46,
+              "y": 67
+            },
+            {
+              "x": 46,
+              "y": 81
+            },
+            {
+              "x": 46,
+              "y": 81
+            },
+            {
+              "x": 52,
+              "y": 67
+            },
+            {
+              "x": 63,
+              "y": 12
+            },
+            {
+              "x": 77,
+              "y": 38
+            },
+            {
+              "x": 78,
+              "y": 87
+            },
+            {
+              "x": 89,
+              "y": 62
+            },
+            {
+              "x": 46,
+              "y": 92
+            },
+            {
+              "x": 48,
+              "y": 89
+            },
+            {
+              "x": 61,
+              "y": 96
+            },
+            {
+              "x": 65,
+              "y": 86
+            },
+            {
+              "x": 72,
+              "y": 74
+            },
+            {
+              "x": 77,
+              "y": 62
+            },
+            {
+              "x": 82,
+              "y": 47
+            },
+            {
+              "x": 88,
+              "y": 59
+            },
+            {
+              "x": 58,
+              "y": 71
+            },
+            {
+              "x": 91,
+              "y": 53
+            },
+            {
+              "x": 88,
+              "y": 61
+            },
+            {
+              "x": 64,
+              "y": 8
+            },
+            {
+              "x": 64,
+              "y": 49
+            },
+            {
+              "x": 69,
+              "y": 85
+            },
+            {
+              "x": 76,
+              "y": 84
+            },
+            {
+              "x": 79,
+              "y": 64
+            },
+            {
+              "x": 93,
+              "y": 96
+            }
+          ]
+        },
+        {
+          "name": "Gabriel Barbosa",
+          "shortName": "G. Barbosa",
+          "id": 358554,
+          "number": "9",
+          "position": "F",
+          "substitute": false,
+          "height": 178,
+          "nationality": "BRA",
+          "marketValue": 4200000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1996-08-30",
+          "rating": 7.5,
+          "stats": {
+            "totalPass": 14,
+            "accuratePass": 9,
+            "aerialLost": 1,
+            "duelLost": 8,
+            "duelWon": 1,
+            "goals": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 26,
+            "rating": 7.5,
+            "totalShots": 4
+          },
+          "heatmap": [
+            {
+              "x": 66,
+              "y": 11
+            },
+            {
+              "x": 66,
+              "y": 11
+            },
+            {
+              "x": 75,
+              "y": 71
+            },
+            {
+              "x": 49,
+              "y": 49
+            },
+            {
+              "x": 63,
+              "y": 71
+            },
+            {
+              "x": 63,
+              "y": 71
+            },
+            {
+              "x": 72,
+              "y": 80
+            },
+            {
+              "x": 78,
+              "y": 85
+            },
+            {
+              "x": 56,
+              "y": 92
+            },
+            {
+              "x": 87,
+              "y": 13
+            },
+            {
+              "x": 93,
+              "y": 4
+            },
+            {
+              "x": 52,
+              "y": 12
+            },
+            {
+              "x": 65,
+              "y": 3
+            },
+            {
+              "x": 83,
+              "y": 3
+            },
+            {
+              "x": 98,
+              "y": 11
+            },
+            {
+              "x": 64,
+              "y": 60
+            },
+            {
+              "x": 80,
+              "y": 31
+            },
+            {
+              "x": 55,
+              "y": 38
+            },
+            {
+              "x": 80,
+              "y": 73
+            },
+            {
+              "x": 95,
+              "y": 48
+            },
+            {
+              "x": 59,
+              "y": 42
+            },
+            {
+              "x": 67,
+              "y": 31
+            },
+            {
+              "x": 86,
+              "y": 38
+            },
+            {
+              "x": 85,
+              "y": 48
+            },
+            {
+              "x": 52,
+              "y": 75
+            },
+            {
+              "x": 93,
+              "y": 67
+            },
+            {
+              "x": 91,
+              "y": 18
+            },
+            {
+              "x": 91,
+              "y": 18
+            },
+            {
+              "x": 63,
+              "y": 21
+            },
+            {
+              "x": 97,
+              "y": 25
+            },
+            {
+              "x": 31,
+              "y": 4
+            },
+            {
+              "x": 97,
+              "y": 47
+            },
+            {
+              "x": 86,
+              "y": 49
+            }
+          ]
+        },
+        {
+          "name": "Diego",
+          "shortName": "Diego",
+          "id": 6256,
+          "number": "10",
+          "position": "M",
+          "substitute": true,
+          "height": 173,
+          "nationality": "BRA",
+          "marketValue": null,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1985-02-28",
+          "rating": 7.4,
+          "stats": {
+            "totalPass": 12,
+            "accuratePass": 10,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 6,
+            "totalClearance": 1,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "wonTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 24,
+            "touches": 25,
+            "rating": 7.4,
+            "keyPass": 1,
+            "totalShots": 1
+          },
+          "heatmap": [
+            {
+              "x": 55,
+              "y": 17
+            },
+            {
+              "x": 58,
+              "y": 23
+            },
+            {
+              "x": 62,
+              "y": 25
+            },
+            {
+              "x": 78,
+              "y": 86
+            },
+            {
+              "x": 72,
+              "y": 45
+            },
+            {
+              "x": 62,
+              "y": 48
+            },
+            {
+              "x": 45,
+              "y": 69
+            },
+            {
+              "x": 54,
+              "y": 100
+            },
+            {
+              "x": 59,
+              "y": 82
+            },
+            {
+              "x": 79,
+              "y": 57
+            },
+            {
+              "x": 81,
+              "y": 51
+            },
+            {
+              "x": 78,
+              "y": 50
+            },
+            {
+              "x": 35,
+              "y": 93
+            },
+            {
+              "x": 63,
+              "y": 52
+            },
+            {
+              "x": 41,
+              "y": 34
+            },
+            {
+              "x": 55,
+              "y": 75
+            },
+            {
+              "x": 47,
+              "y": 75
+            },
+            {
+              "x": 57,
+              "y": 90
+            },
+            {
+              "x": 39,
+              "y": 70
+            },
+            {
+              "x": 67,
+              "y": 37
+            },
+            {
+              "x": 42,
+              "y": 19
+            },
+            {
+              "x": 42,
+              "y": 12
+            },
+            {
+              "x": 47,
+              "y": 67
+            },
+            {
+              "x": 58,
+              "y": 67
+            },
+            {
+              "x": 29,
+              "y": 56
+            },
+            {
+              "x": 22,
+              "y": 74
+            },
+            {
+              "x": 8,
+              "y": 83
+            },
+            {
+              "x": 41,
+              "y": 32
+            }
+          ]
+        },
+        {
+          "name": "Vitinho",
+          "shortName": "Vitinho",
+          "id": 242054,
+          "number": "11",
+          "position": "M",
+          "substitute": true,
+          "height": 178,
+          "nationality": "BRA",
+          "marketValue": 915000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1993-10-09",
+          "rating": 6.3,
+          "stats": {
+            "aerialLost": 1,
+            "duelLost": 2,
+            "minutesPlayed": 11,
+            "touches": 1,
+            "rating": 6.3,
+            "totalShots": 0
+          },
+          "heatmap": [
+            {
+              "x": 14,
+              "y": 41
+            },
+            {
+              "x": 97,
+              "y": 96
+            }
+          ]
+        },
+        {
+          "name": "Piris da Motta",
+          "shortName": "P. da Motta",
+          "id": 805216,
+          "number": "25",
+          "position": "M",
+          "substitute": true,
+          "height": 178,
+          "nationality": "PRY",
+          "marketValue": 765000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1994-07-26",
+          "rating": null,
+          "stats": {
+            "minutesPlayed": 1,
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "César Dutra",
+          "shortName": "C. Dutra",
+          "id": 158269,
+          "number": "12",
+          "position": "G",
+          "substitute": true,
+          "height": 194,
+          "nationality": "BRA",
+          "marketValue": 320000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1992-01-27",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Rhodolfo",
+          "shortName": "Rhodolfo",
+          "id": 39355,
+          "number": "4",
+          "position": "D",
+          "substitute": true,
+          "height": 193,
+          "nationality": "BRA",
+          "marketValue": null,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1986-08-11",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Thuler",
+          "shortName": "Thuler",
+          "id": 910637,
+          "number": "26",
+          "position": "D",
+          "substitute": true,
+          "height": 185,
+          "nationality": "BRA",
+          "marketValue": 2100000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1999-03-10",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Renê",
+          "shortName": "Renê",
+          "id": 243113,
+          "number": "6",
+          "position": "D",
+          "substitute": true,
+          "height": 174,
+          "nationality": "BRA",
+          "marketValue": 515000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1992-09-14",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Rodinei",
+          "shortName": "Rodinei",
+          "id": 244039,
+          "number": "2",
+          "position": "D",
+          "substitute": true,
+          "height": 175,
+          "nationality": "BRA",
+          "marketValue": 985000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1992-01-29",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Vinícius Souza",
+          "shortName": "Vinicius",
+          "id": 979290,
+          "number": "13",
+          "position": "M",
+          "substitute": true,
+          "height": 187,
+          "nationality": "BRA",
+          "marketValue": 7600000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1999-06-17",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Reinier",
+          "shortName": "Reinier",
+          "id": 978562,
+          "number": "19",
+          "position": "M",
+          "substitute": true,
+          "height": 185,
+          "nationality": "BRA",
+          "marketValue": 1800000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "2002-01-19",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Orlando Berrío",
+          "shortName": "O. Berrío",
+          "id": 285849,
+          "number": "28",
+          "position": "M",
+          "substitute": true,
+          "height": 182,
+          "nationality": "COL",
+          "marketValue": 24000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "1991-02-14",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        },
+        {
+          "name": "Lincoln",
+          "shortName": "Lincoln",
+          "id": 905454,
+          "number": "20",
+          "position": "F",
+          "substitute": true,
+          "height": 180,
+          "nationality": "BRA",
+          "marketValue": 330000,
+          "marketValueCurrency": "EUR",
+          "dateOfBirth": "2000-12-16",
+          "rating": null,
+          "stats": {
+            "totalShots": 0
+          },
+          "heatmap": null
+        }
+      ]
+    }
+  },
+  "sources": [
+    "sofascore"
+  ],
+  "sofascoreId": 8465669,
+  "photos": []
+}

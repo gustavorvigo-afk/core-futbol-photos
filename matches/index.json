@@ -1126,6 +1126,19 @@
       "file": "matches/2014-11-01_fc_barcelona_vs_getafe.json"
     },
     {
+      "id": "2015-01-18_manchester_city_vs_arsenal",
+      "date": "2015-01-18",
+      "home": "Manchester City",
+      "away": "Arsenal",
+      "competition": "English Premier League",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "thumb": null,
+      "file": "matches/2015-01-18_manchester_city_vs_arsenal.json"
+    },
+    {
       "id": "2015-01-28_atl_tico_de_madrid_vs_fc_barcelona",
       "date": "2015-01-28",
       "home": "Atlético de Madrid",
@@ -1134,6 +1147,21 @@
       "score": null,
       "thumb": null,
       "file": "matches/2015-01-28_atl_tico_de_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2015-01-31_chelsea_vs_manchester_city",
+      "date": "2015-01-31",
+      "home": "Chelsea",
+      "away": "Manchester City",
+      "competition": "Premier League",
+      "score": {
+        "home": 1,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-01-31_chelsea_vs_manchester_city.json"
     },
     {
       "id": "2015-02-08_athletic_club_vs_fc_barcelona",
@@ -1247,6 +1275,19 @@
       },
       "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/twrwvv1430251003.jpg",
       "file": "matches/2015-03-22_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "2015-04-04_arsenal_vs_liverpool",
+      "date": "2015-04-04",
+      "home": "Arsenal",
+      "away": "Liverpool",
+      "competition": "English Premier League",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-04-04_arsenal_vs_liverpool.json"
     },
     {
       "id": "2015-04-05_fc_barcelona_vs_atl_tico_de_madrid",
@@ -1402,6 +1443,21 @@
       "file": "matches/2015-09-29_fc_barcelona_vs_bayer_leverkusen.json"
     },
     {
+      "id": "2015-10-04_arsenal_vs_manchester_united",
+      "date": "2015-10-04",
+      "home": "Arsenal",
+      "away": "Manchester United",
+      "competition": "Premier League",
+      "score": {
+        "home": 3,
+        "away": 0,
+        "htHome": 3,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2015-10-04_arsenal_vs_manchester_united.json"
+    },
+    {
       "id": "2015-10-08_colombia_vs_per",
       "date": "2015-10-08",
       "home": "Colombia",
@@ -1420,6 +1476,32 @@
       "score": null,
       "thumb": null,
       "file": "matches/2015-10-13_per_vs_chile.json"
+    },
+    {
+      "id": "2015-10-24_arsenal_vs_everton",
+      "date": "2015-10-24",
+      "home": "Arsenal",
+      "away": "Everton",
+      "competition": "English Premier League",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-10-24_arsenal_vs_everton.json"
+    },
+    {
+      "id": "2015-10-31_chelsea_vs_liverpool",
+      "date": "2015-10-31",
+      "home": "Chelsea",
+      "away": "Liverpool",
+      "competition": "English Premier League",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "thumb": null,
+      "file": "matches/2015-10-31_chelsea_vs_liverpool.json"
     },
     {
       "id": "2015-11-03_manchester_city_vs_juventus",
@@ -1442,6 +1524,29 @@
       "file": "matches/2015-11-03_real_madrid_vs_paris_saint_germain.json"
     },
     {
+      "id": "2015-11-08_arsenal_vs_newcastle",
+      "date": "2015-11-08",
+      "home": "Arsenal",
+      "away": "Newcastle",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-11-08_arsenal_vs_newcastle.json"
+    },
+    {
+      "id": "2015-11-08_arsenal_vs_tottenham",
+      "date": "2015-11-08",
+      "home": "Arsenal",
+      "away": "Tottenham",
+      "competition": "English Premier League",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-11-08_arsenal_vs_tottenham.json"
+    },
+    {
       "id": "2015-11-12_per_vs_paraguay",
       "date": "2015-11-12",
       "home": "Perú",
@@ -1462,6 +1567,21 @@
       "file": "matches/2015-11-17_brasil_vs_per.json"
     },
     {
+      "id": "2015-11-21_manchester_city_vs_liverpool",
+      "date": "2015-11-21",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "competition": "Premier League",
+      "score": {
+        "home": 1,
+        "away": 4,
+        "htHome": 1,
+        "htAway": 3
+      },
+      "thumb": null,
+      "file": "matches/2015-11-21_manchester_city_vs_liverpool.json"
+    },
+    {
       "id": "2015-11-21_real_madrid_vs_fc_barcelona",
       "date": "2015-11-21",
       "home": "Real Madrid",
@@ -1473,6 +1593,21 @@
       },
       "thumb": null,
       "file": "matches/2015-11-21_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2015-11-28_leicester_vs_manchester_united",
+      "date": "2015-11-28",
+      "home": "Leicester",
+      "away": "Manchester United",
+      "competition": "Premier League",
+      "score": {
+        "home": 1,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-11-28_leicester_vs_manchester_united.json"
     },
     {
       "id": "2015-12-05_valencia_vs_fc_barcelona",
@@ -1488,6 +1623,19 @@
       "file": "matches/2015-12-05_valencia_vs_fc_barcelona.json"
     },
     {
+      "id": "2015-12-14_leicester_vs_chelsea",
+      "date": "2015-12-14",
+      "home": "Leicester",
+      "away": "Chelsea",
+      "competition": "English Premier League",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-12-14_leicester_vs_chelsea.json"
+    },
+    {
       "id": "2015-12-20_real_madrid_vs_rayo_vallecano",
       "date": "2015-12-20",
       "home": "Real Madrid",
@@ -1501,6 +1649,19 @@
       },
       "thumb": null,
       "file": "matches/2015-12-20_real_madrid_vs_rayo_vallecano.json"
+    },
+    {
+      "id": "2015-12-21_arsenal_vs_manchester_city",
+      "date": "2015-12-21",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "competition": "English Premier League",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-12-21_arsenal_vs_manchester_city.json"
     },
     {
       "id": "2015-12-30_fc_barcelona_vs_real_betis",
@@ -1528,6 +1689,32 @@
       "file": "matches/2016-01-06_fc_barcelona_vs_espanyol.json"
     },
     {
+      "id": "2016-01-13_liverpool_vs_arsenal",
+      "date": "2016-01-13",
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "competition": "English Premier League",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "thumb": null,
+      "file": "matches/2016-01-13_liverpool_vs_arsenal.json"
+    },
+    {
+      "id": "2016-01-16_chelsea_vs_everton",
+      "date": "2016-01-16",
+      "home": "Chelsea",
+      "away": "Everton",
+      "competition": "English Premier League",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "thumb": null,
+      "file": "matches/2016-01-16_chelsea_vs_everton.json"
+    },
+    {
       "id": "2016-01-17_fc_barcelona_vs_athletic_club",
       "date": "2016-01-17",
       "home": "FC Barcelona",
@@ -1541,6 +1728,21 @@
       },
       "thumb": null,
       "file": "matches/2016-01-17_fc_barcelona_vs_athletic_club.json"
+    },
+    {
+      "id": "2016-01-17_liverpool_vs_manchester_united",
+      "date": "2016-01-17",
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "competition": "Premier League",
+      "score": {
+        "home": 0,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2016-01-17_liverpool_vs_manchester_united.json"
     },
     {
       "id": "2016-01-23_m_laga_vs_fc_barcelona",
@@ -1566,6 +1768,19 @@
       "file": "matches/2016-01-30_fc_barcelona_vs_atl_tico_de_madrid.json"
     },
     {
+      "id": "2016-02-02_leicester_vs_liverpool",
+      "date": "2016-02-02",
+      "home": "Leicester",
+      "away": "Liverpool",
+      "competition": "English Premier League",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "thumb": null,
+      "file": "matches/2016-02-02_leicester_vs_liverpool.json"
+    },
+    {
       "id": "2016-02-03_fc_barcelona_vs_valencia_cf",
       "date": "2016-02-03",
       "home": "FC Barcelona",
@@ -1574,6 +1789,34 @@
       "score": null,
       "thumb": null,
       "file": "matches/2016-02-03_fc_barcelona_vs_valencia_cf.json"
+    },
+    {
+      "id": "2016-02-06_manchester_city_vs_leicester",
+      "date": "2016-02-06",
+      "home": "Manchester City",
+      "away": "Leicester",
+      "competition": "Premier League",
+      "score": {
+        "home": 1,
+        "away": 3,
+        "htHome": 0,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2016-02-06_manchester_city_vs_leicester.json"
+    },
+    {
+      "id": "2016-02-14_arsenal_vs_leicester",
+      "date": "2016-02-14",
+      "home": "Arsenal",
+      "away": "Leicester",
+      "competition": "English Premier League",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2016-02-14_arsenal_vs_leicester.json"
     },
     {
       "id": "2016-02-14_fc_barcelona_vs_celta_de_vigo",
@@ -1659,6 +1902,21 @@
       },
       "thumb": null,
       "file": "matches/2016-02-28_fc_barcelona_vs_sevilla.json"
+    },
+    {
+      "id": "2016-02-28_manchester_united_vs_arsenal",
+      "date": "2016-02-28",
+      "home": "Manchester United",
+      "away": "Arsenal",
+      "competition": "Premier League",
+      "score": {
+        "home": 3,
+        "away": 2,
+        "htHome": 2,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2016-02-28_manchester_united_vs_arsenal.json"
     },
     {
       "id": "2016-03-12_fc_barcelona_vs_getafe",
@@ -2377,6 +2635,21 @@
       "file": "matches/2019-07-07_brasil_vs_per.json"
     },
     {
+      "id": "2019-11-23_flamengo_vs_river_plate",
+      "date": "2019-11-23",
+      "home": "Flamengo",
+      "away": "River Plate",
+      "competition": "CONMEBOL Libertadores, Knockout stage",
+      "score": {
+        "home": 1,
+        "away": 2,
+        "htHome": 1,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2019-11-23_flamengo_vs_river_plate.json"
+    },
+    {
       "id": "2020-03-11_liverpool_vs_atl_tico_de_madrid",
       "date": "2020-03-11",
       "home": "Liverpool",
@@ -2578,6 +2851,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 210,
+  "count": 230,
   "updated": "2026-05-19"
 }
