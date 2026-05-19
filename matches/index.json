@@ -135,6 +135,16 @@
       "file": "matches/1992-05-20_fc_barcelona_vs_sampdoria.json"
     },
     {
+      "id": "1992-12-13_s_o_paulo_vs_fc_barcelona",
+      "date": "1992-12-13",
+      "home": "São Paulo",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1992-12-13_s_o_paulo_vs_fc_barcelona.json"
+    },
+    {
       "id": "1994-01-08_fc_barcelona_vs_real_madrid",
       "date": "1994-01-08",
       "home": "FC Barcelona",
@@ -375,6 +385,19 @@
       "file": "matches/2007-10-03_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "2007-12-16_boca_juniors_vs_ac_milan",
+      "date": "2007-12-16",
+      "home": "Boca Juniors",
+      "away": "AC Milan",
+      "competition": "FIFA Club World Cup",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "thumb": null,
+      "file": "matches/2007-12-16_boca_juniors_vs_ac_milan.json"
+    },
+    {
       "id": "2008-05-07_real_madrid_vs_fc_barcelona",
       "date": "2008-05-07",
       "home": "Real Madrid",
@@ -517,6 +540,16 @@
       },
       "thumb": null,
       "file": "matches/2009-11-29_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "2009-12-19_fc_barcelona_vs_estudiantes_lp",
+      "date": "2009-12-19",
+      "home": "FC Barcelona",
+      "away": "Estudiantes LP",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2009-12-19_fc_barcelona_vs_estudiantes_lp.json"
     },
     {
       "id": "2010-03-31_arsenal_vs_fc_barcelona",
@@ -707,6 +740,19 @@
       "file": "matches/2011-10-12_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2011-12-18_fc_barcelona_vs_santos",
+      "date": "2011-12-18",
+      "home": "FC Barcelona",
+      "away": "Santos",
+      "competition": "FIFA Club World Cup",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "thumb": null,
+      "file": "matches/2011-12-18_fc_barcelona_vs_santos.json"
+    },
+    {
       "id": "2012-01-18_fc_barcelona_vs_real_madrid",
       "date": "2012-01-18",
       "home": "FC Barcelona",
@@ -811,6 +857,16 @@
       },
       "thumb": null,
       "file": "matches/2012-07-01_spain_vs_italy.json"
+    },
+    {
+      "id": "2012-08-23_fc_barcelona_vs_real_madrid",
+      "date": "2012-08-23",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2012-08-23_fc_barcelona_vs_real_madrid.json"
     },
     {
       "id": "2012-10-07_fc_barcelona_vs_real_madrid",
@@ -952,6 +1008,16 @@
       },
       "thumb": null,
       "file": "matches/2013-05-25_borussia_dortmund_vs_bayern_m_nchen.json"
+    },
+    {
+      "id": "2013-08-30_bayern_m_nchen_vs_chelsea",
+      "date": "2013-08-30",
+      "home": "Bayern München",
+      "away": "Chelsea",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2013-08-30_bayern_m_nchen_vs_chelsea.json"
     },
     {
       "id": "2013-10-26_fc_barcelona_vs_real_madrid",
@@ -1525,6 +1591,16 @@
       "file": "matches/2015-06-06_juventus_vs_real_madrid.json"
     },
     {
+      "id": "2015-08-11_fc_barcelona_vs_sevilla",
+      "date": "2015-08-11",
+      "home": "FC Barcelona",
+      "away": "Sevilla",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-08-11_fc_barcelona_vs_sevilla.json"
+    },
+    {
       "id": "2015-08-14_bayern_m_nchen_vs_hamburger_sv",
       "date": "2015-08-14",
       "home": "Bayern München",
@@ -1806,6 +1882,16 @@
       },
       "thumb": null,
       "file": "matches/2015-12-14_leicester_vs_chelsea.json"
+    },
+    {
+      "id": "2015-12-20_fc_barcelona_vs_river_plate",
+      "date": "2015-12-20",
+      "home": "FC Barcelona",
+      "away": "River Plate",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-12-20_fc_barcelona_vs_river_plate.json"
     },
     {
       "id": "2015-12-20_real_madrid_vs_rayo_vallecano",
@@ -2262,6 +2348,16 @@
       "file": "matches/2016-03-24_per_vs_venezuela.json"
     },
     {
+      "id": "2016-03-26_deutschland_vs_england",
+      "date": "2016-03-26",
+      "home": "Deutschland",
+      "away": "England",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-03-26_deutschland_vs_england.json"
+    },
+    {
       "id": "2016-03-29_uruguay_vs_per",
       "date": "2016-03-29",
       "home": "Uruguay",
@@ -2283,6 +2379,16 @@
       "score": null,
       "thumb": null,
       "file": "matches/2016-04-02_bayern_m_nchen_vs_wolfsburg.json"
+    },
+    {
+      "id": "2016-04-14_liverpool_vs_borussia_dortmund",
+      "date": "2016-04-14",
+      "home": "Liverpool",
+      "away": "Borussia Dortmund",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-04-14_liverpool_vs_borussia_dortmund.json"
     },
     {
       "id": "2016-05-03_bayern_m_nchen_vs_atl_tico_de_madrid",
@@ -2684,6 +2790,16 @@
       "file": "matches/2018-05-26_real_madrid_vs_liverpool.json"
     },
     {
+      "id": "2018-06-03_per_vs_saudi_arabia",
+      "date": "2018-06-03",
+      "home": "Perú",
+      "away": "Saudi Arabia",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-06-03_per_vs_saudi_arabia.json"
+    },
+    {
       "id": "2018-06-14_russia_vs_saudi_arabia",
       "date": "2018-06-14",
       "home": "Russia",
@@ -2890,6 +3006,46 @@
       "file": "matches/2018-07-15_france_vs_croatia.json"
     },
     {
+      "id": "2018-09-06_netherlands_vs_per",
+      "date": "2018-09-06",
+      "home": "Netherlands",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-09-06_netherlands_vs_per.json"
+    },
+    {
+      "id": "2018-09-09_deutschland_vs_per",
+      "date": "2018-09-09",
+      "home": "Deutschland",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-09-09_deutschland_vs_per.json"
+    },
+    {
+      "id": "2018-10-12_per_vs_chile",
+      "date": "2018-10-12",
+      "home": "Perú",
+      "away": "Chile",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-10-12_per_vs_chile.json"
+    },
+    {
+      "id": "2018-10-16_usa_vs_per",
+      "date": "2018-10-16",
+      "home": "USA",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-10-16_usa_vs_per.json"
+    },
+    {
       "id": "2018-10-28_fc_barcelona_vs_real_madrid",
       "date": "2018-10-28",
       "home": "FC Barcelona",
@@ -2933,6 +3089,26 @@
       "file": "matches/2019-03-05_real_madrid_vs_ajax.json"
     },
     {
+      "id": "2019-03-23_per_vs_croatia",
+      "date": "2019-03-23",
+      "home": "Perú",
+      "away": "Croatia",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-03-23_per_vs_croatia.json"
+    },
+    {
+      "id": "2019-03-27_per_vs_iceland",
+      "date": "2019-03-27",
+      "home": "Perú",
+      "away": "Iceland",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-03-27_per_vs_iceland.json"
+    },
+    {
       "id": "2019-04-17_manchester_city_vs_tottenham_hotspur",
       "date": "2019-04-17",
       "home": "Manchester City",
@@ -2972,6 +3148,16 @@
       "file": "matches/2019-05-07_liverpool_vs_fc_barcelona.json"
     },
     {
+      "id": "2019-05-29_per_vs_scotland",
+      "date": "2019-05-29",
+      "home": "Perú",
+      "away": "Scotland",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-05-29_per_vs_scotland.json"
+    },
+    {
       "id": "2019-06-01_tottenham_vs_liverpool",
       "date": "2019-06-01",
       "home": "Tottenham",
@@ -2983,6 +3169,16 @@
       },
       "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/djtke91558471252.jpg",
       "file": "matches/2019-06-01_tottenham_vs_liverpool.json"
+    },
+    {
+      "id": "2019-06-09_sweden_vs_per",
+      "date": "2019-06-09",
+      "home": "Sweden",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-06-09_sweden_vs_per.json"
     },
     {
       "id": "2019-07-07_brasil_vs_per",
@@ -3068,6 +3264,16 @@
       "score": null,
       "thumb": null,
       "file": "matches/2020-09-19_leeds_united_vs_fulham.json"
+    },
+    {
+      "id": "2020-09-24_bayern_m_nchen_vs_sevilla",
+      "date": "2020-09-24",
+      "home": "Bayern München",
+      "away": "Sevilla",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2020-09-24_bayern_m_nchen_vs_sevilla.json"
     },
     {
       "id": "2020-12-08_juventus_vs_fc_barcelona",
@@ -3266,6 +3472,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 270,
+  "count": 290,
   "updated": "2026-05-19"
 }
