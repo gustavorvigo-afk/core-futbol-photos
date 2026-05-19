@@ -403,6 +403,19 @@
       "file": "matches/2008-05-21_manchester_united_vs_chelsea.json"
     },
     {
+      "id": "2008-06-29_germany_vs_spain",
+      "date": "2008-06-29",
+      "home": "Germany",
+      "away": "Spain",
+      "competition": "European Championships",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2008-06-29_germany_vs_spain.json"
+    },
+    {
       "id": "2009-04-08_fc_barcelona_vs_bayern_m_nchen",
       "date": "2009-04-08",
       "home": "FC Barcelona",
@@ -704,6 +717,16 @@
       "file": "matches/2012-01-18_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "2012-03-01_universidad_de_chile_vs_deportivo_quito",
+      "date": "2012-03-01",
+      "home": "Universidad de Chile",
+      "away": "Deportivo Quito",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2012-03-01_universidad_de_chile_vs_deportivo_quito.json"
+    },
+    {
       "id": "2012-03-02_real_madrid_vs_fc_barcelona",
       "date": "2012-03-02",
       "home": "Real Madrid",
@@ -775,6 +798,19 @@
       "score": null,
       "thumb": null,
       "file": "matches/2012-05-25_athletic_bilbao_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2012-07-01_spain_vs_italy",
+      "date": "2012-07-01",
+      "home": "Spain",
+      "away": "Italy",
+      "competition": "European Championships",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "thumb": null,
+      "file": "matches/2012-07-01_spain_vs_italy.json"
     },
     {
       "id": "2012-10-07_fc_barcelona_vs_real_madrid",
@@ -1714,6 +1750,111 @@
       "file": "matches/2016-05-22_fc_barcelona_vs_sevilla.json"
     },
     {
+      "id": "2016-06-06_m_xico_vs_uruguay",
+      "date": "2016-06-06",
+      "home": "México",
+      "away": "Uruguay",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-06-06_m_xico_vs_uruguay.json"
+    },
+    {
+      "id": "2016-06-07_argentina_vs_chile",
+      "date": "2016-06-07",
+      "home": "Argentina",
+      "away": "Chile",
+      "competition": "CONMEBOL Copa América, Group D",
+      "score": {
+        "home": 2,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2016-06-07_argentina_vs_chile.json"
+    },
+    {
+      "id": "2016-06-09_ecuador_vs_per",
+      "date": "2016-06-09",
+      "home": "Ecuador",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-06-09_ecuador_vs_per.json"
+    },
+    {
+      "id": "2016-06-13_brasil_vs_per",
+      "date": "2016-06-13",
+      "home": "Brasil",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-06-13_brasil_vs_per.json"
+    },
+    {
+      "id": "2016-06-17_per_vs_colombia",
+      "date": "2016-06-17",
+      "home": "Perú",
+      "away": "Colombia",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-06-17_per_vs_colombia.json"
+    },
+    {
+      "id": "2016-06-17_spain_vs_turkey",
+      "date": "2016-06-17",
+      "home": "Spain",
+      "away": "Turkey",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-06-17_spain_vs_turkey.json"
+    },
+    {
+      "id": "2016-06-18_m_xico_vs_chile",
+      "date": "2016-06-18",
+      "home": "México",
+      "away": "Chile",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-06-18_m_xico_vs_chile.json"
+    },
+    {
+      "id": "2016-07-02_germany_vs_italy",
+      "date": "2016-07-02",
+      "home": "Germany",
+      "away": "Italy",
+      "competition": "Euro, Knockout stage",
+      "score": {
+        "home": 7,
+        "away": 6,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2016-07-02_germany_vs_italy.json"
+    },
+    {
+      "id": "2016-07-10_france_vs_portugal",
+      "date": "2016-07-10",
+      "home": "France",
+      "away": "Portugal",
+      "competition": "Euro, Knockout stage",
+      "score": {
+        "home": 1,
+        "away": 0,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2016-07-10_france_vs_portugal.json"
+    },
+    {
       "id": "2016-09-01_per_vs_ecuador",
       "date": "2016-09-01",
       "home": "Perú",
@@ -2020,6 +2161,21 @@
       "file": "matches/2018-06-30_france_vs_argentina.json"
     },
     {
+      "id": "2018-06-30_uruguay_vs_portugal",
+      "date": "2018-06-30",
+      "home": "Uruguay",
+      "away": "Portugal",
+      "competition": "FIFA World Cup, Knockout",
+      "score": {
+        "home": 2,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2018-06-30_uruguay_vs_portugal.json"
+    },
+    {
       "id": "2018-07-01_espa_a_vs_rusia",
       "date": "2018-07-01",
       "home": "España",
@@ -2028,6 +2184,21 @@
       "score": null,
       "thumb": null,
       "file": "matches/2018-07-01_espa_a_vs_rusia.json"
+    },
+    {
+      "id": "2018-07-01_spain_vs_russia",
+      "date": "2018-07-01",
+      "home": "Spain",
+      "away": "Russia",
+      "competition": "FIFA World Cup, Knockout",
+      "score": {
+        "home": 4,
+        "away": 5,
+        "htHome": 1,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2018-07-01_spain_vs_russia.json"
     },
     {
       "id": "2018-07-02_belgium_vs_japan",
@@ -2073,6 +2244,19 @@
       "file": "matches/2018-07-07_russia_vs_croatia.json"
     },
     {
+      "id": "2018-07-10_france_vs_belgium",
+      "date": "2018-07-10",
+      "home": "France",
+      "away": "Belgium",
+      "competition": "FIFA World Cup",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/fjme381530961523.jpg",
+      "file": "matches/2018-07-10_france_vs_belgium.json"
+    },
+    {
       "id": "2018-07-15_france_vs_croatia",
       "date": "2018-07-15",
       "home": "France",
@@ -2101,6 +2285,21 @@
       },
       "thumb": null,
       "file": "matches/2018-10-28_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "2018-12-09_boca_juniors_vs_river_plate",
+      "date": "2018-12-09",
+      "home": "Boca Juniors",
+      "away": "River Plate",
+      "competition": "CONMEBOL Libertadores, Knockout stage",
+      "score": {
+        "home": 3,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2018-12-09_boca_juniors_vs_river_plate.json"
     },
     {
       "id": "2019-03-05_real_madrid_vs_ajax",
@@ -2168,6 +2367,16 @@
       "file": "matches/2019-06-01_tottenham_vs_liverpool.json"
     },
     {
+      "id": "2019-07-07_brasil_vs_per",
+      "date": "2019-07-07",
+      "home": "Brasil",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-07-07_brasil_vs_per.json"
+    },
+    {
       "id": "2020-03-11_liverpool_vs_atl_tico_de_madrid",
       "date": "2020-03-11",
       "home": "Liverpool",
@@ -2225,6 +2434,36 @@
       },
       "thumb": null,
       "file": "matches/2021-03-03_fc_barcelona_vs_sevilla.json"
+    },
+    {
+      "id": "2021-09-09_per_vs_brasil",
+      "date": "2021-09-09",
+      "home": "Perú",
+      "away": "Brasil",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2021-09-09_per_vs_brasil.json"
+    },
+    {
+      "id": "2021-10-07_paraguay_vs_per",
+      "date": "2021-10-07",
+      "home": "Paraguay",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2021-10-07_paraguay_vs_per.json"
+    },
+    {
+      "id": "2022-03-29_per_vs_argentina",
+      "date": "2022-03-29",
+      "home": "Perú",
+      "away": "Argentina",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2022-03-29_per_vs_argentina.json"
     },
     {
       "id": "2023-03-19_fc_barcelona_vs_real_madrid",
@@ -2339,6 +2578,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 190,
+  "count": 210,
   "updated": "2026-05-19"
 }
