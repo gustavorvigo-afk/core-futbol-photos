@@ -1,0 +1,22 @@
+{
+  "id": "2016-02-12_benfica_vs_porto",
+  "date": "2016-02-12",
+  "home": {
+    "name": "Benfica"
+  },
+  "away": {
+    "name": "Porto"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}

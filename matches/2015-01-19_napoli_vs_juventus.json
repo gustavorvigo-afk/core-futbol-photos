@@ -1,0 +1,40 @@
+{
+  "id": "2015-01-19_napoli_vs_juventus",
+  "date": "2015-01-19",
+  "home": {
+    "name": "Napoli"
+  },
+  "away": {
+    "name": "Juventus"
+  },
+  "score": {
+    "home": 1,
+    "away": 3
+  },
+  "competition": {
+    "name": "Italian Serie A",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png",
+    "season": "2014-2015",
+    "round": "18"
+  },
+  "venue": {
+    "name": null,
+    "city": null,
+    "country": null
+  },
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": []
+}
