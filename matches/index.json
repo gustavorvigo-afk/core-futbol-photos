@@ -3365,6 +3365,16 @@
       "file": "matches/2022-03-29_per_vs_argentina.json"
     },
     {
+      "id": "2022-06-01_argentina_vs_italia",
+      "date": "2022-06-01",
+      "home": "Argentina",
+      "away": "Italia",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2022-06-01_argentina_vs_italia.json"
+    },
+    {
       "id": "2023-03-19_fc_barcelona_vs_real_madrid",
       "date": "2023-03-19",
       "home": "FC Barcelona",
@@ -3386,6 +3396,26 @@
       "score": null,
       "thumb": null,
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2024-06-15_espa_a_vs_croacia",
+      "date": "2024-06-15",
+      "home": "España",
+      "away": "Croacia",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2024-06-15_espa_a_vs_croacia.json"
+    },
+    {
+      "id": "2024-07-09_espa_a_vs_francia",
+      "date": "2024-07-09",
+      "home": "España",
+      "away": "Francia",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2024-07-09_espa_a_vs_francia.json"
     },
     {
       "id": "2024-10-23_fc_barcelona_vs_bayern_m_nchen",
@@ -3472,6 +3502,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 290,
+  "count": 293,
   "updated": "2026-05-19"
 }
