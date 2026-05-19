@@ -1,6 +1,16 @@
 {
   "matches": [
     {
+      "id": "1970-06-14_brazil_vs_peru",
+      "date": "1970-06-14",
+      "home": "Brazil",
+      "away": "Peru",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1970-06-14_brazil_vs_peru.json"
+    },
+    {
       "id": "1974-02-17_fc_barcelona_vs_real_madrid",
       "date": "1974-02-17",
       "home": "FC Barcelona",
@@ -14,6 +24,56 @@
       },
       "thumb": null,
       "file": "matches/1974-02-17_fc_barcelona_vs_real_madrid.json"
+    },
+    {
+      "id": "1978-06-25_argentina_vs_netherlands",
+      "date": "1978-06-25",
+      "home": "Argentina",
+      "away": "Netherlands",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1978-06-25_argentina_vs_netherlands.json"
+    },
+    {
+      "id": "1982-07-05_brazil_vs_italy",
+      "date": "1982-07-05",
+      "home": "Brazil",
+      "away": "Italy",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1982-07-05_brazil_vs_italy.json"
+    },
+    {
+      "id": "1986-06-21_brazil_vs_france",
+      "date": "1986-06-21",
+      "home": "Brazil",
+      "away": "France",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1986-06-21_brazil_vs_france.json"
+    },
+    {
+      "id": "1986-06-22_argentina_vs_england",
+      "date": "1986-06-22",
+      "home": "Argentina",
+      "away": "England",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1986-06-22_argentina_vs_england.json"
+    },
+    {
+      "id": "1986-06-29_argentina_vs_west_germany",
+      "date": "1986-06-29",
+      "home": "Argentina",
+      "away": "West Germany",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/1986-06-29_argentina_vs_west_germany.json"
     },
     {
       "id": "1988-11-02_ac_milan_vs_real_madrid",
@@ -443,6 +503,19 @@
       "file": "matches/2011-03-08_fc_barcelona_vs_arsenal.json"
     },
     {
+      "id": "2011-04-20_fc_barcelona_vs_real_madrid",
+      "date": "2011-04-20",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2011-04-20_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2011-04-27_real_madrid_vs_fc_barcelona",
       "date": "2011-04-27",
       "home": "Real Madrid",
@@ -469,6 +542,31 @@
       "file": "matches/2011-05-28_fc_barcelona_vs_manchester_united.json"
     },
     {
+      "id": "2011-08-14_real_madrid_vs_fc_barcelona",
+      "date": "2011-08-14",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2011-08-14_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2011-08-17_fc_barcelona_vs_real_madrid",
+      "date": "2011-08-17",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "Supercopa de España",
+      "score": {
+        "home": 3,
+        "away": 2,
+        "htHome": 2,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2011-08-17_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2011-10-12_real_madrid_vs_fc_barcelona",
       "date": "2011-10-12",
       "home": "Real Madrid",
@@ -477,6 +575,16 @@
       "score": null,
       "thumb": null,
       "file": "matches/2011-10-12_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2012-01-18_fc_barcelona_vs_real_madrid",
+      "date": "2012-01-18",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2012-01-18_fc_barcelona_vs_real_madrid.json"
     },
     {
       "id": "2012-03-02_real_madrid_vs_fc_barcelona",
@@ -540,6 +648,16 @@
       },
       "thumb": null,
       "file": "matches/2012-05-19_bayern_m_nchen_vs_chelsea.json"
+    },
+    {
+      "id": "2012-05-25_athletic_bilbao_vs_fc_barcelona",
+      "date": "2012-05-25",
+      "home": "Athletic Bilbao",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2012-05-25_athletic_bilbao_vs_fc_barcelona.json"
     },
     {
       "id": "2012-10-07_fc_barcelona_vs_real_madrid",
@@ -645,6 +763,19 @@
       "file": "matches/2013-05-01_fc_barcelona_vs_bayern_m_nchen.json"
     },
     {
+      "id": "2013-05-17_real_madrid_vs_atl_tico_de_madrid",
+      "date": "2013-05-17",
+      "home": "Real Madrid",
+      "away": "Atlético de Madrid",
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "thumb": null,
+      "file": "matches/2013-05-17_real_madrid_vs_atl_tico_de_madrid.json"
+    },
+    {
       "id": "2013-05-25_borussia_dortmund_vs_bayern_m_nchen",
       "date": "2013-05-25",
       "home": "Borussia Dortmund",
@@ -688,6 +819,19 @@
       },
       "thumb": null,
       "file": "matches/2014-03-23_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2014-04-16_fc_barcelona_vs_real_madrid",
+      "date": "2014-04-16",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "thumb": null,
+      "file": "matches/2014-04-16_fc_barcelona_vs_real_madrid.json"
     },
     {
       "id": "2014-05-24_real_madrid_vs_atl_tico_de_madrid",
@@ -761,6 +905,16 @@
       "score": null,
       "thumb": null,
       "file": "matches/2014-11-01_fc_barcelona_vs_getafe.json"
+    },
+    {
+      "id": "2015-01-28_atl_tico_de_madrid_vs_fc_barcelona",
+      "date": "2015-01-28",
+      "home": "Atlético de Madrid",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-01-28_atl_tico_de_madrid_vs_fc_barcelona.json"
     },
     {
       "id": "2015-02-08_athletic_club_vs_fc_barcelona",
@@ -956,6 +1110,16 @@
       "file": "matches/2015-05-17_atl_tico_de_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2015-05-30_athletic_club_vs_fc_barcelona",
+      "date": "2015-05-30",
+      "home": "Athletic Club",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-05-30_athletic_club_vs_fc_barcelona.json"
+    },
+    {
       "id": "2015-06-06_fc_barcelona_vs_juventus",
       "date": "2015-06-06",
       "home": "FC Barcelona",
@@ -1095,6 +1259,16 @@
       "file": "matches/2015-12-30_fc_barcelona_vs_real_betis.json"
     },
     {
+      "id": "2016-01-06_fc_barcelona_vs_espanyol",
+      "date": "2016-01-06",
+      "home": "FC Barcelona",
+      "away": "Espanyol",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-01-06_fc_barcelona_vs_espanyol.json"
+    },
+    {
       "id": "2016-01-17_fc_barcelona_vs_athletic_club",
       "date": "2016-01-17",
       "home": "FC Barcelona",
@@ -1131,6 +1305,16 @@
       "score": null,
       "thumb": null,
       "file": "matches/2016-01-30_fc_barcelona_vs_atl_tico_de_madrid.json"
+    },
+    {
+      "id": "2016-02-03_fc_barcelona_vs_valencia_cf",
+      "date": "2016-02-03",
+      "home": "FC Barcelona",
+      "away": "Valencia CF",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-03_fc_barcelona_vs_valencia_cf.json"
     },
     {
       "id": "2016-02-14_fc_barcelona_vs_celta_de_vigo",
@@ -1271,6 +1455,19 @@
       "file": "matches/2016-05-03_bayern_m_nchen_vs_atl_tico_de_madrid.json"
     },
     {
+      "id": "2016-05-22_fc_barcelona_vs_sevilla",
+      "date": "2016-05-22",
+      "home": "FC Barcelona",
+      "away": "Sevilla",
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "thumb": null,
+      "file": "matches/2016-05-22_fc_barcelona_vs_sevilla.json"
+    },
+    {
       "id": "2016-09-13_fc_barcelona_vs_celtic",
       "date": "2016-09-13",
       "home": "FC Barcelona",
@@ -1387,6 +1584,16 @@
       },
       "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/6lhkgj1634960085.jpg",
       "file": "matches/2018-05-26_real_madrid_vs_liverpool.json"
+    },
+    {
+      "id": "2018-07-01_espa_a_vs_rusia",
+      "date": "2018-07-01",
+      "home": "España",
+      "away": "Rusia",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-07-01_espa_a_vs_rusia.json"
     },
     {
       "id": "2018-10-28_fc_barcelona_vs_real_madrid",
@@ -1561,6 +1768,16 @@
       "file": "matches/2024-10-23_fc_barcelona_vs_bayern_m_nchen.json"
     },
     {
+      "id": "2025-01-12_fc_barcelona_vs_real_madrid",
+      "date": "2025-01-12",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2025-01-12_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2025-04-26_fc_barcelona_vs_real_madrid",
       "date": "2025-04-26",
       "home": "FC Barcelona",
@@ -1630,6 +1847,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 130,
+  "count": 150,
   "updated": "2026-05-19"
 }

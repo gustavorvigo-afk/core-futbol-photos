@@ -1,0 +1,40 @@
+{
+  "id": "2016-05-22_fc_barcelona_vs_sevilla",
+  "date": "2016-05-22",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "Sevilla"
+  },
+  "score": {
+    "home": 2,
+    "away": 0
+  },
+  "competition": {
+    "name": "Copa del Rey",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png",
+    "season": "2015-2016",
+    "round": "200"
+  },
+  "venue": {
+    "name": "Vicente Calderón",
+    "city": null,
+    "country": null
+  },
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": []
+}
