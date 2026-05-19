@@ -1,0 +1,22 @@
+{
+  "id": "2016-09-10_manchester_united_vs_manchester_city",
+  "date": "2016-09-10",
+  "home": {
+    "name": "Manchester United"
+  },
+  "away": {
+    "name": "Manchester City"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}

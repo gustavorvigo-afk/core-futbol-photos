@@ -1,0 +1,22 @@
+{
+  "id": "2019-11-10_liverpool_vs_manchester_city",
+  "date": "2019-11-10",
+  "home": {
+    "name": "Liverpool"
+  },
+  "away": {
+    "name": "Manchester City"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}

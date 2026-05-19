@@ -1116,6 +1116,16 @@
       "file": "matches/2014-10-25_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2014-11-01_bayern_m_nchen_vs_borussia_dortmund",
+      "date": "2014-11-01",
+      "home": "Bayern München",
+      "away": "Borussia Dortmund",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-11-01_bayern_m_nchen_vs_borussia_dortmund.json"
+    },
+    {
       "id": "2014-11-01_fc_barcelona_vs_getafe",
       "date": "2014-11-01",
       "home": "FC Barcelona",
@@ -1664,6 +1674,16 @@
       "file": "matches/2015-12-21_arsenal_vs_manchester_city.json"
     },
     {
+      "id": "2015-12-26_stoke_city_vs_manchester_united",
+      "date": "2015-12-26",
+      "home": "Stoke City",
+      "away": "Manchester United",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-12-26_stoke_city_vs_manchester_united.json"
+    },
+    {
       "id": "2015-12-30_fc_barcelona_vs_real_betis",
       "date": "2015-12-30",
       "home": "FC Barcelona",
@@ -1745,6 +1765,21 @@
       "file": "matches/2016-01-17_liverpool_vs_manchester_united.json"
     },
     {
+      "id": "2016-01-17_stoke_city_vs_arsenal",
+      "date": "2016-01-17",
+      "home": "Stoke City",
+      "away": "Arsenal",
+      "competition": "Premier League",
+      "score": {
+        "home": 0,
+        "away": 0,
+        "htHome": 0,
+        "htAway": 0
+      },
+      "thumb": null,
+      "file": "matches/2016-01-17_stoke_city_vs_arsenal.json"
+    },
+    {
       "id": "2016-01-23_m_laga_vs_fc_barcelona",
       "date": "2016-01-23",
       "home": "Málaga",
@@ -1756,6 +1791,19 @@
       },
       "thumb": null,
       "file": "matches/2016-01-23_m_laga_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2016-01-23_norwich_vs_liverpool",
+      "date": "2016-01-23",
+      "home": "Norwich",
+      "away": "Liverpool",
+      "competition": "English Premier League",
+      "score": {
+        "home": 4,
+        "away": 5
+      },
+      "thumb": null,
+      "file": "matches/2016-01-23_norwich_vs_liverpool.json"
     },
     {
       "id": "2016-01-30_fc_barcelona_vs_atl_tico_de_madrid",
@@ -1917,6 +1965,16 @@
       },
       "thumb": null,
       "file": "matches/2016-02-28_manchester_united_vs_arsenal.json"
+    },
+    {
+      "id": "2016-03-04_newcastle_vs_manchester_united",
+      "date": "2016-03-04",
+      "home": "Newcastle",
+      "away": "Manchester United",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-03-04_newcastle_vs_manchester_united.json"
     },
     {
       "id": "2016-03-12_fc_barcelona_vs_getafe",
@@ -2126,6 +2184,16 @@
       "file": "matches/2016-09-01_per_vs_ecuador.json"
     },
     {
+      "id": "2016-09-10_manchester_united_vs_manchester_city",
+      "date": "2016-09-10",
+      "home": "Manchester United",
+      "away": "Manchester City",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-09-10_manchester_united_vs_manchester_city.json"
+    },
+    {
       "id": "2016-09-13_fc_barcelona_vs_celtic",
       "date": "2016-09-13",
       "home": "FC Barcelona",
@@ -2266,6 +2334,16 @@
       },
       "thumb": null,
       "file": "matches/2017-06-03_juventus_vs_real_madrid.json"
+    },
+    {
+      "id": "2017-09-09_manchester_city_vs_liverpool",
+      "date": "2017-09-09",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2017-09-09_manchester_city_vs_liverpool.json"
     },
     {
       "id": "2017-10-05_argentina_vs_per",
@@ -2635,6 +2713,16 @@
       "file": "matches/2019-07-07_brasil_vs_per.json"
     },
     {
+      "id": "2019-11-10_liverpool_vs_manchester_city",
+      "date": "2019-11-10",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-11-10_liverpool_vs_manchester_city.json"
+    },
+    {
       "id": "2019-11-23_flamengo_vs_river_plate",
       "date": "2019-11-23",
       "home": "Flamengo",
@@ -2648,6 +2736,16 @@
       },
       "thumb": null,
       "file": "matches/2019-11-23_flamengo_vs_river_plate.json"
+    },
+    {
+      "id": "2020-01-06_arsenal_vs_leeds_united",
+      "date": "2020-01-06",
+      "home": "Arsenal",
+      "away": "Leeds United",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2020-01-06_arsenal_vs_leeds_united.json"
     },
     {
       "id": "2020-03-11_liverpool_vs_atl_tico_de_madrid",
@@ -2668,6 +2766,26 @@
       "score": null,
       "thumb": null,
       "file": "matches/2020-08-14_fc_barcelona_vs_bayern_m_nchen.json"
+    },
+    {
+      "id": "2020-09-12_liverpool_vs_leeds_united",
+      "date": "2020-09-12",
+      "home": "Liverpool",
+      "away": "Leeds United",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2020-09-12_liverpool_vs_leeds_united.json"
+    },
+    {
+      "id": "2020-09-19_leeds_united_vs_fulham",
+      "date": "2020-09-19",
+      "home": "Leeds United",
+      "away": "Fulham",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2020-09-19_leeds_united_vs_fulham.json"
     },
     {
       "id": "2020-12-08_juventus_vs_fc_barcelona",
@@ -2696,6 +2814,16 @@
       "file": "matches/2021-02-03_granada_vs_fc_barcelona.json"
     },
     {
+      "id": "2021-02-07_liverpool_vs_manchester_city",
+      "date": "2021-02-07",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2021-02-07_liverpool_vs_manchester_city.json"
+    },
+    {
       "id": "2021-03-03_fc_barcelona_vs_sevilla",
       "date": "2021-03-03",
       "home": "FC Barcelona",
@@ -2707,6 +2835,16 @@
       },
       "thumb": null,
       "file": "matches/2021-03-03_fc_barcelona_vs_sevilla.json"
+    },
+    {
+      "id": "2021-04-10_leeds_united_vs_manchester_city",
+      "date": "2021-04-10",
+      "home": "Leeds United",
+      "away": "Manchester City",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2021-04-10_leeds_united_vs_manchester_city.json"
     },
     {
       "id": "2021-09-09_per_vs_brasil",
@@ -2840,17 +2978,12 @@
       "date": "2025-05-11",
       "home": "FC Barcelona",
       "away": "Real Madrid",
-      "competition": "LaLiga",
-      "score": {
-        "home": 4,
-        "away": 3,
-        "htHome": 4,
-        "htAway": 2
-      },
+      "competition": null,
+      "score": null,
       "thumb": null,
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 230,
+  "count": 243,
   "updated": "2026-05-19"
 }
