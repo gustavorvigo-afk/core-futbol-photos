@@ -1,0 +1,22 @@
+{
+  "id": "2016-05-21_ac_milan_vs_juventus",
+  "date": "2016-05-21",
+  "home": {
+    "name": "AC Milan"
+  },
+  "away": {
+    "name": "Juventus"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
