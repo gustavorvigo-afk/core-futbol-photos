@@ -417,6 +417,16 @@
       "file": "matches/2018-07-01_espa_a_vs_rusia.json"
     },
     {
+      "id": "2018-12-09_boca_juniors_vs_river_plate",
+      "date": "2018-12-09",
+      "home": "Boca Juniors",
+      "away": "River Plate",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-12-09_boca_juniors_vs_river_plate.json"
+    },
+    {
       "id": "2019-07-07_brasil_vs_per",
       "date": "2019-07-07",
       "home": "Brasil",
@@ -467,6 +477,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 46,
+  "count": 47,
   "updated": "2026-05-21"
 }
