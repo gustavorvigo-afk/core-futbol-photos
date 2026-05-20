@@ -2064,6 +2064,16 @@
       "file": "matches/2018-07-02_belgium_vs_japan.json"
     },
     {
+      "id": "2018-07-07_russia_vs_croatia",
+      "date": "2018-07-07",
+      "home": "Russia",
+      "away": "Croatia",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-07-07_russia_vs_croatia.json"
+    },
+    {
       "id": "2018-10-28_fc_barcelona_vs_real_madrid",
       "date": "2018-10-28",
       "home": "FC Barcelona",
@@ -2363,6 +2373,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 229,
+  "count": 230,
   "updated": "2026-05-21"
 }
