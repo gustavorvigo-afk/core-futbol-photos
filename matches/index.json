@@ -1169,6 +1169,16 @@
       "file": "matches/2015-12-30_fc_barcelona_vs_real_betis.json"
     },
     {
+      "id": "2016-01-06_fc_barcelona_vs_espanyol",
+      "date": "2016-01-06",
+      "home": "FC Barcelona",
+      "away": "Espanyol",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-01-06_fc_barcelona_vs_espanyol.json"
+    },
+    {
       "id": "2016-01-13_liverpool_vs_arsenal",
       "date": "2016-01-13",
       "home": "Liverpool",
@@ -2123,6 +2133,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 205,
+  "count": 206,
   "updated": "2026-05-21"
 }
