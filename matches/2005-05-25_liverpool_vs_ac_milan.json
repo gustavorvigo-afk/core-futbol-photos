@@ -7,16 +7,51 @@
   "away": {
     "name": "AC Milan"
   },
-  "score": null,
-  "competition": null,
-  "venue": null,
-  "thumb": null,
-  "fanart": null,
-  "description": null,
+  "score": {
+    "home": 3,
+    "away": 3
+  },
+  "competition": {
+    "name": "UEFA Champions League",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
+    "season": "2004-2005",
+    "round": "200"
+  },
+  "venue": {
+    "name": "Atatürk Olimpiyat Stadı",
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/cfaa011665741490.jpg",
+  "fanart": "https://r2.thesportsdb.com/images/media/event/fanart/ksny9u1648643438.jpg",
+  "description": "The 2005 UEFA Champions League Final was the final match of the 2004–05 UEFA Champions League, Europe's primary club football competition. The showpiece event was contested between Liverpool of England and Milan of Italy at the Atatürk Olympic Stadium in Istanbul, Turkey on 25 May 2005. Liverpool, who had won the competition four times, were appearing in their sixth final, and their first since 1985. Milan, who had won the competition six times, were appearing in their second final in three years and tenth overall.\r\n\r\nEach club needed to progress through the group stage and knockout rounds to reach the final, playing 12 matches in total. Liverpool finished second in their group behind 2004 runners-up AS Monaco and subsequently beat Bayer Leverkusen, Juventus and Chelsea to progress to the final. Milan won their group ahead of Barcelona and faced Manchester United, Inter Milan and PSV before reaching the final.\r\n\r\nMilan were regarded as favourites before the match and took the lead within the first minute through captain Paolo Maldini. Milan striker Hernán Crespo added two more goals before half-time to make it 3–0. In the second half Liverpool launched a comeback and scored three goals in a dramatic six-minute spell to level the scores at 3–3, with goals from Steven Gerrard, Vladimír Šmicer and Xabi Alonso. The scores remained the same during extra time, and a penalty shoot-out was required to decide the champions. The score was 3–2 to Liverpool when Andriy Shevchenko's penalty was saved by Liverpool goalkeeper Jerzy Dudek. It was Liverpool's fifth European Cup, which meant they were awarded the trophy permanently and the right to wear a multiple-winner badge. Liverpool's comeback gave rise to the final being known as the Miracle of Istanbul, and is regarded as one of the greatest finals in the history of the tournament.",
   "tags": [],
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [],
-  "photos": []
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": [
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/fanart/ksny9u1648643438.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/cfaa011665741490.jpg",
+      "width": 1280,
+      "height": 720,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    },
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/thumb/cfaa011665741490.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/cfaa011665741490.jpg",
+      "width": 640,
+      "height": 360,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    }
+  ]
 }

@@ -15,9 +15,12 @@
       "date": "2005-05-25",
       "home": "Liverpool",
       "away": "AC Milan",
-      "competition": null,
-      "score": null,
-      "thumb": null,
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/cfaa011665741490.jpg",
       "file": "matches/2005-05-25_liverpool_vs_ac_milan.json"
     },
     {
