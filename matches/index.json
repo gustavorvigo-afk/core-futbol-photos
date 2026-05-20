@@ -3397,13 +3397,8 @@
       "date": "2018-07-01",
       "home": "España",
       "away": "Rusia",
-      "competition": "FIFA World Cup, Knockout",
-      "score": {
-        "home": 4,
-        "away": 5,
-        "htHome": 1,
-        "htAway": 1
-      },
+      "competition": null,
+      "score": null,
       "thumb": null,
       "file": "matches/2018-07-01_espa_a_vs_rusia.json"
     },
