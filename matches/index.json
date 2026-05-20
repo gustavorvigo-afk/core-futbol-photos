@@ -335,6 +335,16 @@
       "file": "matches/2006-04-25_villarreal_vs_arsenal.json"
     },
     {
+      "id": "2006-05-17_ac_milan_vs_liverpool",
+      "date": "2006-05-17",
+      "home": "AC Milan",
+      "away": "Liverpool",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2006-05-17_ac_milan_vs_liverpool.json"
+    },
+    {
       "id": "2006-05-17_fc_barcelona_vs_arsenal",
       "date": "2006-05-17",
       "home": "FC Barcelona",
@@ -3532,6 +3542,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 295,
+  "count": 296,
   "updated": "2026-05-20"
 }
