@@ -1,0 +1,22 @@
+{
+  "id": "2015-10-04_arsenal_vs_manchester_united",
+  "date": "2015-10-04",
+  "home": {
+    "name": "Arsenal"
+  },
+  "away": {
+    "name": "Manchester United"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
