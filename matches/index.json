@@ -181,6 +181,16 @@
       "file": "matches/2016-03-16_arsenal_vs_bayern_m_nchen.json"
     },
     {
+      "id": "2016-03-24_per_vs_venezuela",
+      "date": "2016-03-24",
+      "home": "Perú",
+      "away": "Venezuela",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-03-24_per_vs_venezuela.json"
+    },
+    {
       "id": "2016-11-15_per_vs_brasil",
       "date": "2016-11-15",
       "home": "Perú",
@@ -231,6 +241,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 23,
+  "count": 24,
   "updated": "2026-05-21"
 }
