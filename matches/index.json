@@ -364,6 +364,16 @@
       "file": "matches/2016-01-17_liverpool_vs_manchester_united.json"
     },
     {
+      "id": "2016-01-17_stoke_city_vs_arsenal",
+      "date": "2016-01-17",
+      "home": "Stoke City",
+      "away": "Arsenal",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-01-17_stoke_city_vs_arsenal.json"
+    },
+    {
       "id": "2016-01-23_norwich_vs_liverpool",
       "date": "2016-01-23",
       "home": "Norwich",
@@ -733,6 +743,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 69,
+  "count": 70,
   "updated": "2026-05-21"
 }
