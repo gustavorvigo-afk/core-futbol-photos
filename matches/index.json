@@ -1385,8 +1385,13 @@
       "date": "2014-05-24",
       "home": "Real Madrid",
       "away": "Atlético de Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 4,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 1
+      },
       "thumb": null,
       "file": "matches/2014-05-24_real_madrid_vs_atl_tico_de_madrid.json"
     },
