@@ -3009,8 +3009,13 @@
       "date": "2016-09-13",
       "home": "FC Barcelona",
       "away": "Celtic",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Group C",
+      "score": {
+        "home": 7,
+        "away": 0,
+        "htHome": 2,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2016-09-13_fc_barcelona_vs_celtic.json"
     },
