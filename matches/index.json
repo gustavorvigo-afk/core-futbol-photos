@@ -3693,8 +3693,13 @@
       "date": "2020-08-14",
       "home": "FC Barcelona",
       "away": "Bayern München",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 2,
+        "away": 8,
+        "htHome": 1,
+        "htAway": 4
+      },
       "thumb": null,
       "file": "matches/2020-08-14_fc_barcelona_vs_bayern_m_nchen.json"
     },
