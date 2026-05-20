@@ -1895,8 +1895,13 @@
       "date": "2015-05-30",
       "home": "Athletic Club",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 1,
+        "away": 3,
+        "htHome": 0,
+        "htAway": 2
+      },
       "thumb": null,
       "file": "matches/2015-05-30_athletic_club_vs_fc_barcelona.json"
     },
