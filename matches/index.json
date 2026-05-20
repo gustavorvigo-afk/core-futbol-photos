@@ -459,6 +459,16 @@
       "file": "matches/2012-07-01_spain_vs_italy.json"
     },
     {
+      "id": "2012-08-23_fc_barcelona_vs_real_madrid",
+      "date": "2012-08-23",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2012-08-23_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2012-10-07_fc_barcelona_vs_real_madrid",
       "date": "2012-10-07",
       "home": "FC Barcelona",
@@ -2463,6 +2473,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 239,
+  "count": 240,
   "updated": "2026-05-21"
 }
