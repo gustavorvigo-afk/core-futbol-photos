@@ -1482,6 +1482,16 @@
       "file": "matches/2016-02-07_paris_saint_germain_vs_olympique_marseille.json"
     },
     {
+      "id": "2016-02-12_benfica_vs_porto",
+      "date": "2016-02-12",
+      "home": "Benfica",
+      "away": "Porto",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-12_benfica_vs_porto.json"
+    },
+    {
       "id": "2016-02-14_arsenal_vs_leicester",
       "date": "2016-02-14",
       "home": "Arsenal",
@@ -2523,6 +2533,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 245,
+  "count": 246,
   "updated": "2026-05-21"
 }
