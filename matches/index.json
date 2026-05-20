@@ -352,6 +352,16 @@
       "file": "matches/2015-11-21_manchester_city_vs_liverpool.json"
     },
     {
+      "id": "2015-11-21_schalke_04_vs_bayern_m_nchen",
+      "date": "2015-11-21",
+      "home": "Schalke 04",
+      "away": "Bayern München",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-11-21_schalke_04_vs_bayern_m_nchen.json"
+    },
+    {
       "id": "2015-11-28_leicester_vs_manchester_united",
       "date": "2015-11-28",
       "home": "Leicester",
@@ -943,6 +953,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 90,
+  "count": 91,
   "updated": "2026-05-21"
 }
