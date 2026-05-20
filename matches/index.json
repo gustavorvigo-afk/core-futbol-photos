@@ -1892,8 +1892,11 @@
       "date": "2016-05-22",
       "home": "FC Barcelona",
       "away": "Sevilla",
-      "competition": null,
-      "score": null,
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
       "thumb": null,
       "file": "matches/2016-05-22_fc_barcelona_vs_sevilla.json"
     },
