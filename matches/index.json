@@ -1591,6 +1591,16 @@
       "file": "matches/2016-09-10_manchester_united_vs_manchester_city.json"
     },
     {
+      "id": "2016-09-13_fc_barcelona_vs_celtic",
+      "date": "2016-09-13",
+      "home": "FC Barcelona",
+      "away": "Celtic",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-09-13_fc_barcelona_vs_celtic.json"
+    },
+    {
       "id": "2016-10-06_per_vs_argentina",
       "date": "2016-10-06",
       "home": "Perú",
@@ -1911,6 +1921,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 185,
+  "count": 186,
   "updated": "2026-05-21"
 }
