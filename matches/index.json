@@ -213,6 +213,19 @@
       "file": "matches/2013-10-26_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "2014-03-23_real_madrid_vs_fc_barcelona",
+      "date": "2014-03-23",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "thumb": null,
+      "file": "matches/2014-03-23_real_madrid_vs_fc_barcelona.json"
+    },
+    {
       "id": "2014-09-16_manchester_city_vs_bayern_m_nchen",
       "date": "2014-09-16",
       "home": "Manchester City",
@@ -1169,6 +1182,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 112,
+  "count": 113,
   "updated": "2026-05-21"
 }
