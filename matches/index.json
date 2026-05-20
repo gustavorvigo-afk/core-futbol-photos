@@ -31,6 +31,16 @@
       "file": "matches/2012-03-02_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2014-09-17_bayern_m_nchen_vs_as_roma",
+      "date": "2014-09-17",
+      "home": "Bayern München",
+      "away": "AS Roma",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-09-17_bayern_m_nchen_vs_as_roma.json"
+    },
+    {
       "id": "2014-11-01_fc_barcelona_vs_getafe",
       "date": "2014-11-01",
       "home": "FC Barcelona",
@@ -71,6 +81,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 7,
+  "count": 8,
   "updated": "2026-05-21"
 }
