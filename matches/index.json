@@ -681,6 +681,19 @@
       "file": "matches/2010-03-31_arsenal_vs_fc_barcelona.json"
     },
     {
+      "id": "2010-04-10_fc_barcelona_vs_real_madrid",
+      "date": "2010-04-10",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "thumb": null,
+      "file": "matches/2010-04-10_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2010-04-10_real_madrid_vs_fc_barcelona",
       "date": "2010-04-10",
       "home": "Real Madrid",
@@ -3621,6 +3634,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 303,
+  "count": 304,
   "updated": "2026-05-20"
 }
