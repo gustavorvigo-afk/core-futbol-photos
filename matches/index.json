@@ -1111,11 +1111,8 @@
       "date": "2015-10-31",
       "home": "Chelsea",
       "away": "Liverpool",
-      "competition": "English Premier League",
-      "score": {
-        "home": 1,
-        "away": 3
-      },
+      "competition": null,
+      "score": null,
       "thumb": null,
       "file": "matches/2015-10-31_chelsea_vs_liverpool.json"
     },
