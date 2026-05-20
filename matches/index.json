@@ -282,6 +282,19 @@
       "file": "matches/2015-11-17_brasil_vs_per.json"
     },
     {
+      "id": "2015-12-14_leicester_vs_chelsea",
+      "date": "2015-12-14",
+      "home": "Leicester",
+      "away": "Chelsea",
+      "competition": "English Premier League",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-12-14_leicester_vs_chelsea.json"
+    },
+    {
       "id": "2015-12-21_arsenal_vs_manchester_city",
       "date": "2015-12-21",
       "home": "Arsenal",
@@ -621,6 +634,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 59,
+  "count": 60,
   "updated": "2026-05-21"
 }
