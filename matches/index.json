@@ -1339,8 +1339,11 @@
       "date": "2015-12-05",
       "home": "Valencia",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
       "thumb": null,
       "file": "matches/2015-12-05_valencia_vs_fc_barcelona.json"
     },
