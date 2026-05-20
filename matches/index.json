@@ -1986,8 +1986,11 @@
       "date": "2016-09-01",
       "home": "Perú",
       "away": "Ecuador",
-      "competition": null,
-      "score": null,
+      "competition": "World Cup Qualifying CONMEBOL",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
       "thumb": null,
       "file": "matches/2016-09-01_per_vs_ecuador.json"
     },

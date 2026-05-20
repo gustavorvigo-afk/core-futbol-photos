@@ -7,16 +7,34 @@
   "away": {
     "name": "Ecuador"
   },
-  "score": null,
-  "competition": null,
-  "venue": null,
+  "score": {
+    "home": 0,
+    "away": 3
+  },
+  "competition": {
+    "name": "World Cup Qualifying CONMEBOL",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/1h4i9q1730132677.png",
+    "season": "2018",
+    "round": "7"
+  },
+  "venue": {
+    "name": "",
+    "city": "",
+    "country": ""
+  },
   "thumb": null,
   "fanart": null,
-  "description": null,
+  "description": "2018 FIFA World Cup South America’s Preliminary Competition. Round 1",
   "tags": [],
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [],
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
   "photos": []
 }
