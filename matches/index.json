@@ -960,12 +960,9 @@
       "date": "2015-03-22",
       "home": "FC Barcelona",
       "away": "Real Madrid",
-      "competition": "Spanish La Liga",
-      "score": {
-        "home": 2,
-        "away": 1
-      },
-      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/twrwvv1430251003.jpg",
+      "competition": null,
+      "score": null,
+      "thumb": null,
       "file": "matches/2015-03-22_fc_barcelona_vs_real_madrid.json"
     },
     {
