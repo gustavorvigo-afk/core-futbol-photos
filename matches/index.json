@@ -141,6 +141,16 @@
       "file": "matches/2015-11-12_per_vs_paraguay.json"
     },
     {
+      "id": "2015-11-17_brasil_vs_per",
+      "date": "2015-11-17",
+      "home": "Brasil",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-11-17_brasil_vs_per.json"
+    },
+    {
       "id": "2016-02-14_fc_barcelona_vs_celta_de_vigo",
       "date": "2016-02-14",
       "home": "FC Barcelona",
@@ -221,6 +231,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 22,
+  "count": 23,
   "updated": "2026-05-21"
 }
