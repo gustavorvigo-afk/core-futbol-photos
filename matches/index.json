@@ -743,6 +743,16 @@
       "file": "matches/2019-11-23_flamengo_vs_river_plate.json"
     },
     {
+      "id": "2020-09-12_liverpool_vs_leeds_united",
+      "date": "2020-09-12",
+      "home": "Liverpool",
+      "away": "Leeds United",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2020-09-12_liverpool_vs_leeds_united.json"
+    },
+    {
       "id": "2020-09-19_leeds_united_vs_fulham",
       "date": "2020-09-19",
       "home": "Leeds United",
@@ -813,6 +823,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 77,
+  "count": 78,
   "updated": "2026-05-21"
 }

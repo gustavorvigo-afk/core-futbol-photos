@@ -1,0 +1,22 @@
+{
+  "id": "2020-09-12_liverpool_vs_leeds_united",
+  "date": "2020-09-12",
+  "home": {
+    "name": "Liverpool"
+  },
+  "away": {
+    "name": "Leeds United"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
