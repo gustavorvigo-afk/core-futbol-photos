@@ -1215,6 +1215,16 @@
       "file": "matches/2018-07-01_espa_a_vs_rusia.json"
     },
     {
+      "id": "2018-10-28_fc_barcelona_vs_real_madrid",
+      "date": "2018-10-28",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-10-28_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2018-12-09_boca_juniors_vs_river_plate",
       "date": "2018-12-09",
       "home": "Boca Juniors",
@@ -1345,6 +1355,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 129,
+  "count": 130,
   "updated": "2026-05-21"
 }
