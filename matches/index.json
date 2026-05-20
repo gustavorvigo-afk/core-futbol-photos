@@ -503,6 +503,16 @@
       "file": "matches/2016-02-15_bayern_m_nchen_vs_arsenal.json"
     },
     {
+      "id": "2016-02-20_bayern_m_nchen_vs_darmsdaat",
+      "date": "2016-02-20",
+      "home": "Bayern München",
+      "away": "Darmsdaat",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-20_bayern_m_nchen_vs_darmsdaat.json"
+    },
+    {
       "id": "2016-02-28_manchester_united_vs_arsenal",
       "date": "2016-02-28",
       "home": "Manchester United",
@@ -883,6 +893,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 84,
+  "count": 85,
   "updated": "2026-05-21"
 }
