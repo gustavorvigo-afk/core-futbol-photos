@@ -553,6 +553,16 @@
       "file": "matches/2016-03-04_newcastle_vs_manchester_united.json"
     },
     {
+      "id": "2016-03-05_borussia_dortmund_vs_bayern_m_nchen",
+      "date": "2016-03-05",
+      "home": "Borussia Dortmund",
+      "away": "Bayern München",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-03-05_borussia_dortmund_vs_bayern_m_nchen.json"
+    },
+    {
       "id": "2016-03-16_arsenal_vs_bayern_m_nchen",
       "date": "2016-03-16",
       "home": "Arsenal",
@@ -923,6 +933,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 88,
+  "count": 89,
   "updated": "2026-05-21"
 }
