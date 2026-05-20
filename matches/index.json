@@ -290,6 +290,21 @@
       "file": "matches/2005-05-25_villarreal_vs_arsenal.json"
     },
     {
+      "id": "2005-11-19_fc_barcelona_vs_real_madrid",
+      "date": "2005-11-19",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "LaLiga",
+      "score": {
+        "home": 0,
+        "away": 3,
+        "htHome": 0,
+        "htAway": 1
+      },
+      "thumb": null,
+      "file": "matches/2005-11-19_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2005-11-19_real_madrid_vs_fc_barcelona",
       "date": "2005-11-19",
       "home": "Real Madrid",
@@ -3517,6 +3532,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 294,
+  "count": 295,
   "updated": "2026-05-20"
 }
