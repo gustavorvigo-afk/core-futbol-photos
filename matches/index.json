@@ -1845,8 +1845,13 @@
       "date": "2015-05-17",
       "home": "Atlético de Madrid",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "LaLiga",
+      "score": {
+        "home": 0,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2015-05-17_atl_tico_de_madrid_vs_fc_barcelona.json"
     },
