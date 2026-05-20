@@ -2050,8 +2050,11 @@
       "date": "2016-11-06",
       "home": "Sevilla",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
       "thumb": null,
       "file": "matches/2016-11-06_sevilla_vs_fc_barcelona.json"
     },
