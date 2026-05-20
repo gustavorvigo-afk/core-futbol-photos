@@ -1,0 +1,22 @@
+{
+  "id": "2012-04-24_fc_barcelona_vs_chelsea",
+  "date": "2012-04-24",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "Chelsea"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
