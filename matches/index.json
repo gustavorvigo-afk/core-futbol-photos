@@ -204,8 +204,11 @@
       "date": "2009-05-27",
       "home": "FC Barcelona",
       "away": "Manchester United",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
       "thumb": null,
       "file": "matches/2009-05-27_fc_barcelona_vs_manchester_united.json"
     },
