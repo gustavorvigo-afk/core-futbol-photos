@@ -191,6 +191,16 @@
       "file": "matches/2016-03-24_per_vs_venezuela.json"
     },
     {
+      "id": "2016-10-06_per_vs_argentina",
+      "date": "2016-10-06",
+      "home": "Perú",
+      "away": "Argentina",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-10-06_per_vs_argentina.json"
+    },
+    {
       "id": "2016-11-15_per_vs_brasil",
       "date": "2016-11-15",
       "home": "Perú",
@@ -241,6 +251,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 24,
+  "count": 25,
   "updated": "2026-05-21"
 }
