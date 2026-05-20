@@ -389,6 +389,16 @@
       "file": "matches/2013-03-12_fc_barcelona_vs_ac_milan.json"
     },
     {
+      "id": "2013-04-03_m_laga_vs_borussia_dortmund",
+      "date": "2013-04-03",
+      "home": "Málaga",
+      "away": "Borussia Dortmund",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2013-04-03_m_laga_vs_borussia_dortmund.json"
+    },
+    {
       "id": "2013-04-09_borussia_dortmund_vs_m_laga",
       "date": "2013-04-09",
       "home": "Borussia Dortmund",
@@ -1671,6 +1681,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 161,
+  "count": 162,
   "updated": "2026-05-21"
 }
