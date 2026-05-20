@@ -502,6 +502,16 @@
       "file": "matches/2014-09-17_bayern_m_nchen_vs_as_roma.json"
     },
     {
+      "id": "2014-09-30_fc_barcelona_vs_paris_saint_germain",
+      "date": "2014-09-30",
+      "home": "FC Barcelona",
+      "away": "Paris Saint-Germain",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-09-30_fc_barcelona_vs_paris_saint_germain.json"
+    },
+    {
       "id": "2014-10-05_juventus_vs_roma",
       "date": "2014-10-05",
       "home": "Juventus",
@@ -1771,6 +1781,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 171,
+  "count": 172,
   "updated": "2026-05-21"
 }
