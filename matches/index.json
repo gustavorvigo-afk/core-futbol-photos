@@ -271,6 +271,16 @@
       "file": "matches/2017-11-11_australia_vs_per.json"
     },
     {
+      "id": "2017-11-15_per_vs_new_zealand",
+      "date": "2017-11-15",
+      "home": "Perú",
+      "away": "New Zealand",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2017-11-15_per_vs_new_zealand.json"
+    },
+    {
       "id": "2018-07-01_espa_a_vs_rusia",
       "date": "2018-07-01",
       "home": "España",
@@ -291,6 +301,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 29,
+  "count": 30,
   "updated": "2026-05-21"
 }
