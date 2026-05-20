@@ -397,6 +397,19 @@
       "file": "matches/2006-07-09_france_vs_italy.json"
     },
     {
+      "id": "2006-07-09_germany_vs_italy",
+      "date": "2006-07-09",
+      "home": "Germany",
+      "away": "Italy",
+      "competition": "FIFA World Cup",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/z57xlj1752168391.jpg",
+      "file": "matches/2006-07-09_germany_vs_italy.json"
+    },
+    {
       "id": "2007-05-23_ac_milan_vs_liverpool",
       "date": "2007-05-23",
       "home": "AC Milan",
@@ -3542,6 +3555,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 296,
+  "count": 297,
   "updated": "2026-05-20"
 }
