@@ -1803,8 +1803,11 @@
       "date": "2016-03-29",
       "home": "Uruguay",
       "away": "Perú",
-      "competition": null,
-      "score": null,
+      "competition": "World Cup Qualifying CONMEBOL",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
       "thumb": null,
       "file": "matches/2016-03-29_uruguay_vs_per.json"
     },
