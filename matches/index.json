@@ -236,6 +236,19 @@
       "file": "matches/2015-11-08_arsenal_vs_newcastle.json"
     },
     {
+      "id": "2015-11-08_arsenal_vs_tottenham",
+      "date": "2015-11-08",
+      "home": "Arsenal",
+      "away": "Tottenham",
+      "competition": "English Premier League",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-11-08_arsenal_vs_tottenham.json"
+    },
+    {
       "id": "2015-11-12_per_vs_paraguay",
       "date": "2015-11-12",
       "home": "Perú",
@@ -582,6 +595,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 56,
+  "count": 57,
   "updated": "2026-05-21"
 }
