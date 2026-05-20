@@ -1,0 +1,57 @@
+{
+  "id": "2018-07-06_uruguay_vs_france",
+  "date": "2018-07-06",
+  "home": {
+    "name": "Uruguay"
+  },
+  "away": {
+    "name": "France"
+  },
+  "score": {
+    "home": 0,
+    "away": 2
+  },
+  "competition": {
+    "name": "FIFA World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png",
+    "season": "2018",
+    "round": "125"
+  },
+  "venue": {
+    "name": "",
+    "city": "",
+    "country": ""
+  },
+  "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/bg2h4y1530432934.jpg",
+  "fanart": "https://r2.thesportsdb.com/images/media/event/fanart/4jsow21530961834.jpg",
+  "description": "",
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": [
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/fanart/4jsow21530961834.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/bg2h4y1530432934.jpg",
+      "width": 1280,
+      "height": 720,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    },
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/thumb/bg2h4y1530432934.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/bg2h4y1530432934.jpg",
+      "width": 640,
+      "height": 360,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    }
+  ]
+}

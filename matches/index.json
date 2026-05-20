@@ -2064,6 +2064,19 @@
       "file": "matches/2018-07-02_belgium_vs_japan.json"
     },
     {
+      "id": "2018-07-06_uruguay_vs_france",
+      "date": "2018-07-06",
+      "home": "Uruguay",
+      "away": "France",
+      "competition": "FIFA World Cup",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/bg2h4y1530432934.jpg",
+      "file": "matches/2018-07-06_uruguay_vs_france.json"
+    },
+    {
       "id": "2018-07-07_russia_vs_croatia",
       "date": "2018-07-07",
       "home": "Russia",
@@ -2373,6 +2386,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 230,
+  "count": 231,
   "updated": "2026-05-21"
 }
