@@ -2344,6 +2344,16 @@
       "file": "matches/2018-09-09_deutschland_vs_per.json"
     },
     {
+      "id": "2018-10-12_per_vs_chile",
+      "date": "2018-10-12",
+      "home": "Perú",
+      "away": "Chile",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-10-12_per_vs_chile.json"
+    },
+    {
       "id": "2018-10-28_fc_barcelona_vs_real_madrid",
       "date": "2018-10-28",
       "home": "FC Barcelona",
@@ -2653,6 +2663,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 258,
+  "count": 259,
   "updated": "2026-05-21"
 }
