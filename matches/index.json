@@ -861,6 +861,16 @@
       "file": "matches/2015-09-16_fc_barcelona_vs_as_roma.json"
     },
     {
+      "id": "2015-09-29_fc_barcelona_vs_bayer_leverkusen",
+      "date": "2015-09-29",
+      "home": "FC Barcelona",
+      "away": "Bayer Leverkusen",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-09-29_fc_barcelona_vs_bayer_leverkusen.json"
+    },
+    {
       "id": "2015-10-04_arsenal_vs_manchester_united",
       "date": "2015-10-04",
       "home": "Arsenal",
@@ -1871,6 +1881,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 181,
+  "count": 182,
   "updated": "2026-05-21"
 }
