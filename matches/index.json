@@ -1071,6 +1071,16 @@
       "file": "matches/2012-05-25_athletic_bilbao_vs_fc_barcelona.json"
     },
     {
+      "id": "2012-07-01_germany_vs_italy",
+      "date": "2012-07-01",
+      "home": "Germany",
+      "away": "Italy",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2012-07-01_germany_vs_italy.json"
+    },
+    {
       "id": "2012-07-01_spain_vs_italy",
       "date": "2012-07-01",
       "home": "Spain",
@@ -3732,6 +3742,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 313,
+  "count": 314,
   "updated": "2026-05-20"
 }
