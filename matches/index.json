@@ -31,6 +31,16 @@
       "file": "matches/2005-11-19_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2006-04-25_villarreal_vs_arsenal",
+      "date": "2006-04-25",
+      "home": "Villarreal",
+      "away": "Arsenal",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2006-04-25_villarreal_vs_arsenal.json"
+    },
+    {
       "id": "2007-10-03_fc_barcelona_vs_real_madrid",
       "date": "2007-10-03",
       "home": "FC Barcelona",
@@ -1465,6 +1475,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 141,
+  "count": 142,
   "updated": "2026-05-21"
 }
