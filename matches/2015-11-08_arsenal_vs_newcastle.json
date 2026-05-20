@@ -1,0 +1,22 @@
+{
+  "id": "2015-11-08_arsenal_vs_newcastle",
+  "date": "2015-11-08",
+  "home": {
+    "name": "Arsenal"
+  },
+  "away": {
+    "name": "Newcastle"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
