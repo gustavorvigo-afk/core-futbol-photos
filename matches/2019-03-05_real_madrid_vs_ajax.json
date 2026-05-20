@@ -1,0 +1,22 @@
+{
+  "id": "2019-03-05_real_madrid_vs_ajax",
+  "date": "2019-03-05",
+  "home": {
+    "name": "Real Madrid"
+  },
+  "away": {
+    "name": "Ajax"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
