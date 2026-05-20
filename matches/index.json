@@ -572,6 +572,19 @@
       "file": "matches/2009-05-13_athletic_bilbao_vs_fc_barcelona.json"
     },
     {
+      "id": "2009-05-13_fc_barcelona_vs_real_madrid",
+      "date": "2009-05-13",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 2,
+        "away": 6
+      },
+      "thumb": null,
+      "file": "matches/2009-05-13_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2009-05-27_fc_barcelona_vs_manchester_united",
       "date": "2009-05-27",
       "home": "FC Barcelona",
@@ -3575,6 +3588,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 299,
+  "count": 300,
   "updated": "2026-05-20"
 }
