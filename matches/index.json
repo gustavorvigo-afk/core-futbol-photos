@@ -615,8 +615,13 @@
       "date": "2009-09-19",
       "home": "FC Barcelona",
       "away": "Atlético de Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "LaLiga",
+      "score": {
+        "home": 5,
+        "away": 2,
+        "htHome": 4,
+        "htAway": 1
+      },
       "thumb": null,
       "file": "matches/2009-09-19_fc_barcelona_vs_atl_tico_de_madrid.json"
     },
