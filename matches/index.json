@@ -621,6 +621,16 @@
       "file": "matches/2009-09-19_fc_barcelona_vs_atl_tico_de_madrid.json"
     },
     {
+      "id": "2009-09-19_fc_barcelona_vs_real_madrid",
+      "date": "2009-09-19",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2009-09-19_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2009-11-29_fc_barcelona_vs_real_madrid",
       "date": "2009-11-29",
       "home": "FC Barcelona",
@@ -3601,6 +3611,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 301,
+  "count": 302,
   "updated": "2026-05-20"
 }
