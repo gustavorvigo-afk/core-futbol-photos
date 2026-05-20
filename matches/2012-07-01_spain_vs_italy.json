@@ -1,0 +1,40 @@
+{
+  "id": "2012-07-01_spain_vs_italy",
+  "date": "2012-07-01",
+  "home": {
+    "name": "Spain"
+  },
+  "away": {
+    "name": "Italy"
+  },
+  "score": {
+    "home": 4,
+    "away": 0
+  },
+  "competition": {
+    "name": "European Championships",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/bivzlu1635869135.png",
+    "season": "2012",
+    "round": "200"
+  },
+  "venue": {
+    "name": null,
+    "city": null,
+    "country": null
+  },
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": []
+}
