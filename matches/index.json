@@ -257,6 +257,16 @@
       "file": "matches/2016-06-13_brasil_vs_per.json"
     },
     {
+      "id": "2016-06-17_per_vs_colombia",
+      "date": "2016-06-17",
+      "home": "Perú",
+      "away": "Colombia",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-06-17_per_vs_colombia.json"
+    },
+    {
       "id": "2016-06-17_spain_vs_turkey",
       "date": "2016-06-17",
       "home": "Spain",
@@ -437,6 +447,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 43,
+  "count": 44,
   "updated": "2026-05-21"
 }
