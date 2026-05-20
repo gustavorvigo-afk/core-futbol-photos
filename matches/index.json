@@ -655,6 +655,16 @@
       "file": "matches/2015-03-18_borussia_dortmund_vs_juventus.json"
     },
     {
+      "id": "2015-03-18_fc_barcelona_vs_manchester_city",
+      "date": "2015-03-18",
+      "home": "FC Barcelona",
+      "away": "Manchester City",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-03-18_fc_barcelona_vs_manchester_city.json"
+    },
+    {
       "id": "2015-03-22_fc_barcelona_vs_real_madrid",
       "date": "2015-03-22",
       "home": "FC Barcelona",
@@ -1761,6 +1771,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 170,
+  "count": 171,
   "updated": "2026-05-21"
 }
