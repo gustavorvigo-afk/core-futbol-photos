@@ -204,6 +204,16 @@
       "file": "matches/2010-04-10_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2010-04-20_inter_de_mil_n_vs_fc_barcelona",
+      "date": "2010-04-20",
+      "home": "Inter de Milán",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2010-04-20_inter_de_mil_n_vs_fc_barcelona.json"
+    },
+    {
       "id": "2010-11-29_fc_barcelona_vs_real_madrid",
       "date": "2010-11-29",
       "home": "FC Barcelona",
@@ -1558,6 +1568,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 150,
+  "count": 151,
   "updated": "2026-05-21"
 }
