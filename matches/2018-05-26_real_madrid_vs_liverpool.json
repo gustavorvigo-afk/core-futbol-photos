@@ -1,0 +1,22 @@
+{
+  "id": "2018-05-26_real_madrid_vs_liverpool",
+  "date": "2018-05-26",
+  "home": {
+    "name": "Real Madrid"
+  },
+  "away": {
+    "name": "Liverpool"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
