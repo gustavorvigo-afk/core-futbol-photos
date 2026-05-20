@@ -677,6 +677,16 @@
       "file": "matches/2015-12-14_leicester_vs_chelsea.json"
     },
     {
+      "id": "2015-12-20_real_madrid_vs_rayo_vallecano",
+      "date": "2015-12-20",
+      "home": "Real Madrid",
+      "away": "Rayo Vallecano",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-12-20_real_madrid_vs_rayo_vallecano.json"
+    },
+    {
       "id": "2015-12-21_arsenal_vs_manchester_city",
       "date": "2015-12-21",
       "home": "Arsenal",
@@ -1385,6 +1395,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 133,
+  "count": 134,
   "updated": "2026-05-21"
 }

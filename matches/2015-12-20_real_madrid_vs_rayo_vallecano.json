@@ -1,0 +1,22 @@
+{
+  "id": "2015-12-20_real_madrid_vs_rayo_vallecano",
+  "date": "2015-12-20",
+  "home": {
+    "name": "Real Madrid"
+  },
+  "away": {
+    "name": "Rayo Vallecano"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
