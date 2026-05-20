@@ -1403,8 +1403,18 @@
       "score": null,
       "thumb": null,
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
+    },
+    {
+      "id": "2025-05-11_fc_barcelona_vs_real_madrid",
+      "date": "2025-05-11",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 135,
+  "count": 136,
   "updated": "2026-05-21"
 }
