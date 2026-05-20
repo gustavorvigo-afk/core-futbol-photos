@@ -1,0 +1,22 @@
+{
+  "id": "2007-05-23_ac_milan_vs_liverpool",
+  "date": "2007-05-23",
+  "home": {
+    "name": "AC Milan"
+  },
+  "away": {
+    "name": "Liverpool"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
