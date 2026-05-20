@@ -291,6 +291,16 @@
       "file": "matches/2018-07-01_espa_a_vs_rusia.json"
     },
     {
+      "id": "2021-09-09_per_vs_brasil",
+      "date": "2021-09-09",
+      "home": "Perú",
+      "away": "Brasil",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2021-09-09_per_vs_brasil.json"
+    },
+    {
       "id": "2021-10-07_paraguay_vs_per",
       "date": "2021-10-07",
       "home": "Paraguay",
@@ -321,6 +331,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 32,
+  "count": 33,
   "updated": "2026-05-21"
 }
