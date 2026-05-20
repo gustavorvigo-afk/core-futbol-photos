@@ -131,6 +131,16 @@
       "file": "matches/2015-11-03_manchester_city_vs_juventus.json"
     },
     {
+      "id": "2015-11-12_per_vs_paraguay",
+      "date": "2015-11-12",
+      "home": "Perú",
+      "away": "Paraguay",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-11-12_per_vs_paraguay.json"
+    },
+    {
       "id": "2016-02-14_fc_barcelona_vs_celta_de_vigo",
       "date": "2016-02-14",
       "home": "FC Barcelona",
@@ -211,6 +221,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 21,
+  "count": 22,
   "updated": "2026-05-21"
 }
