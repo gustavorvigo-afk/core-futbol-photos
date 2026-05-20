@@ -1821,6 +1821,16 @@
       "file": "matches/2019-05-01_fc_barcelona_vs_liverpool.json"
     },
     {
+      "id": "2019-05-07_liverpool_vs_fc_barcelona",
+      "date": "2019-05-07",
+      "home": "Liverpool",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-05-07_liverpool_vs_fc_barcelona.json"
+    },
+    {
       "id": "2019-07-07_brasil_vs_per",
       "date": "2019-07-07",
       "home": "Brasil",
@@ -1971,6 +1981,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 191,
+  "count": 192,
   "updated": "2026-05-21"
 }
