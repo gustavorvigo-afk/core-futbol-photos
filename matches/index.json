@@ -117,6 +117,16 @@
       "file": "matches/2014-11-01_fc_barcelona_vs_getafe.json"
     },
     {
+      "id": "2015-01-31_chelsea_vs_manchester_city",
+      "date": "2015-01-31",
+      "home": "Chelsea",
+      "away": "Manchester City",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-01-31_chelsea_vs_manchester_city.json"
+    },
+    {
       "id": "2015-04-04_arsenal_vs_liverpool",
       "date": "2015-04-04",
       "home": "Arsenal",
@@ -500,6 +510,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 49,
+  "count": 50,
   "updated": "2026-05-21"
 }

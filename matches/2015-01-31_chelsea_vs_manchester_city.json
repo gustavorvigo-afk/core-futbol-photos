@@ -1,0 +1,22 @@
+{
+  "id": "2015-01-31_chelsea_vs_manchester_city",
+  "date": "2015-01-31",
+  "home": {
+    "name": "Chelsea"
+  },
+  "away": {
+    "name": "Manchester City"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
