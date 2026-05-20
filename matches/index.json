@@ -828,6 +828,16 @@
       "file": "matches/2015-03-02_roma_vs_juventus.json"
     },
     {
+      "id": "2015-03-06_toulouse_vs_olympique_marseille",
+      "date": "2015-03-06",
+      "home": "Toulouse",
+      "away": "Olympique Marseille",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-03-06_toulouse_vs_olympique_marseille.json"
+    },
+    {
       "id": "2015-03-08_fc_barcelona_vs_rayo_vallecano",
       "date": "2015-03-08",
       "home": "FC Barcelona",
@@ -2493,6 +2503,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 242,
+  "count": 243,
   "updated": "2026-05-21"
 }
