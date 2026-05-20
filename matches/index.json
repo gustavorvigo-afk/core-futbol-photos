@@ -3122,8 +3122,13 @@
       "date": "2016-11-15",
       "home": "Perú",
       "away": "Brasil",
-      "competition": null,
-      "score": null,
+      "competition": "World Cup Qualification, CONMEBOL",
+      "score": {
+        "home": 0,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2016-11-15_per_vs_brasil.json"
     },
