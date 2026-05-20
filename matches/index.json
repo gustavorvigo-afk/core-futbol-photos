@@ -2104,8 +2104,13 @@
       "date": "2015-11-03",
       "home": "Real Madrid",
       "away": "Paris Saint-Germain",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Group A",
+      "score": {
+        "home": 1,
+        "away": 0,
+        "htHome": 1,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2015-11-03_real_madrid_vs_paris_saint_germain.json"
     },
