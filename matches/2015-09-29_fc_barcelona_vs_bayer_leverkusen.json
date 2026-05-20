@@ -7,16 +7,114 @@
   "away": {
     "name": "Bayer Leverkusen"
   },
-  "score": null,
-  "competition": null,
+  "score": {
+    "home": 1,
+    "away": 1,
+    "htHome": 0,
+    "htAway": 0
+  },
+  "competition": {
+    "name": "UEFA Youth League, Group E",
+    "logo": null,
+    "season": null,
+    "round": null
+  },
   "venue": null,
   "thumb": null,
   "fanart": null,
   "description": null,
   "tags": [],
   "teamStats": null,
-  "timeline": [],
+  "timeline": [
+    {
+      "minute": 90,
+      "addedTime": 5,
+      "type": "card",
+      "team": "home",
+      "player": "Oriol Busquets",
+      "cardType": "yellowRed"
+    },
+    {
+      "minute": 90,
+      "addedTime": 3,
+      "type": "card",
+      "team": "away",
+      "player": null,
+      "cardType": "yellow"
+    },
+    {
+      "minute": 89,
+      "addedTime": null,
+      "type": "goal",
+      "team": "away",
+      "player": "Paul Gemein",
+      "assist": null,
+      "ownGoal": false,
+      "penalty": false
+    },
+    {
+      "minute": 84,
+      "addedTime": null,
+      "type": "card",
+      "team": "away",
+      "player": null,
+      "cardType": "yellow"
+    },
+    {
+      "minute": 82,
+      "addedTime": null,
+      "type": "card",
+      "team": "away",
+      "player": null,
+      "cardType": "yellow"
+    },
+    {
+      "minute": 73,
+      "addedTime": null,
+      "type": "card",
+      "team": "away",
+      "player": null,
+      "cardType": "yellow"
+    },
+    {
+      "minute": 71,
+      "addedTime": null,
+      "type": "goal",
+      "team": "home",
+      "player": "Eric Montes",
+      "assist": null,
+      "ownGoal": false,
+      "penalty": false
+    },
+    {
+      "minute": 60,
+      "addedTime": null,
+      "type": "card",
+      "team": "away",
+      "player": null,
+      "cardType": "yellow"
+    },
+    {
+      "minute": 57,
+      "addedTime": null,
+      "type": "card",
+      "team": "home",
+      "player": null,
+      "cardType": "yellow"
+    },
+    {
+      "minute": 27,
+      "addedTime": null,
+      "type": "card",
+      "team": "home",
+      "player": null,
+      "cardType": "yellow"
+    }
+  ],
   "lineups": null,
-  "sources": [],
+  "sources": [
+    "sofascore"
+  ],
+  "sofascoreId": 6895154,
   "photos": []
 }

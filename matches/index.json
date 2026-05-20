@@ -2003,8 +2003,13 @@
       "date": "2015-09-29",
       "home": "FC Barcelona",
       "away": "Bayer Leverkusen",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Youth League, Group E",
+      "score": {
+        "home": 1,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2015-09-29_fc_barcelona_vs_bayer_leverkusen.json"
     },
