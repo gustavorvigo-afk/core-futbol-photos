@@ -7,9 +7,21 @@
   "away": {
     "name": "FC Barcelona"
   },
-  "score": null,
-  "competition": null,
-  "venue": null,
+  "score": {
+    "home": 4,
+    "away": 1
+  },
+  "competition": {
+    "name": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
+    "season": "2007-2008",
+    "round": null
+  },
+  "venue": {
+    "name": null,
+    "city": null,
+    "country": null
+  },
   "thumb": null,
   "fanart": null,
   "description": null,
@@ -17,7 +29,13 @@
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [],
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
   "photos": [
     {
       "url": "https://www.fcbarcelona.com/photo-resources/2026/05/10/1aced646-754b-4925-bc68-8d1ec5c729c2/JC026511.jpg?width=1920&height=1280",

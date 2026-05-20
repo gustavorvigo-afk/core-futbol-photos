@@ -115,8 +115,11 @@
       "date": "2008-05-07",
       "home": "Real Madrid",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
       "thumb": null,
       "file": "matches/2008-05-07_real_madrid_vs_fc_barcelona.json"
     },
