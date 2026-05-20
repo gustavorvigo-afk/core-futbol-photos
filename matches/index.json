@@ -1007,8 +1007,13 @@
       "date": "2012-04-11",
       "home": "Atlético de Madrid",
       "away": "Real Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "LaLiga",
+      "score": {
+        "home": 1,
+        "away": 4,
+        "htHome": 0,
+        "htAway": 1
+      },
       "thumb": null,
       "file": "matches/2012-04-11_atl_tico_de_madrid_vs_real_madrid.json"
     },
