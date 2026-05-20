@@ -91,6 +91,16 @@
       "file": "matches/2016-02-14_fc_barcelona_vs_celta_de_vigo.json"
     },
     {
+      "id": "2016-03-16_arsenal_vs_bayern_m_nchen",
+      "date": "2016-03-16",
+      "home": "Arsenal",
+      "away": "Bayern München",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-03-16_arsenal_vs_bayern_m_nchen.json"
+    },
+    {
       "id": "2024-04-26_real_madrid_vs_fc_barcelona",
       "date": "2024-04-26",
       "home": "Real Madrid",
@@ -101,6 +111,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 10,
+  "count": 11,
   "updated": "2026-05-21"
 }
