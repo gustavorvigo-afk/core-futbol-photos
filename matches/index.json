@@ -1350,6 +1350,16 @@
       "file": "matches/2015-12-14_leicester_vs_chelsea.json"
     },
     {
+      "id": "2015-12-20_fc_barcelona_vs_river_plate",
+      "date": "2015-12-20",
+      "home": "FC Barcelona",
+      "away": "River Plate",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-12-20_fc_barcelona_vs_river_plate.json"
+    },
+    {
       "id": "2015-12-20_real_madrid_vs_rayo_vallecano",
       "date": "2015-12-20",
       "home": "Real Madrid",
@@ -2613,6 +2623,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 254,
+  "count": 255,
   "updated": "2026-05-21"
 }
