@@ -1,0 +1,22 @@
+{
+  "id": "2015-03-02_roma_vs_juventus",
+  "date": "2015-03-02",
+  "home": {
+    "name": "Roma"
+  },
+  "away": {
+    "name": "Juventus"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}

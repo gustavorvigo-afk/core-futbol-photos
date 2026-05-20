@@ -260,6 +260,16 @@
       "file": "matches/2015-01-31_chelsea_vs_manchester_city.json"
     },
     {
+      "id": "2015-03-02_roma_vs_juventus",
+      "date": "2015-03-02",
+      "home": "Roma",
+      "away": "Juventus",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-03-02_roma_vs_juventus.json"
+    },
+    {
       "id": "2015-04-04_arsenal_vs_liverpool",
       "date": "2015-04-04",
       "home": "Arsenal",
@@ -1083,6 +1093,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 104,
+  "count": 105,
   "updated": "2026-05-21"
 }
