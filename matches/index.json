@@ -723,6 +723,16 @@
       "file": "matches/2019-07-07_brasil_vs_per.json"
     },
     {
+      "id": "2019-11-10_liverpool_vs_manchester_city",
+      "date": "2019-11-10",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-11-10_liverpool_vs_manchester_city.json"
+    },
+    {
       "id": "2019-11-23_flamengo_vs_river_plate",
       "date": "2019-11-23",
       "home": "Flamengo",
@@ -773,6 +783,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 73,
+  "count": 74,
   "updated": "2026-05-21"
 }
