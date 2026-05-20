@@ -1,0 +1,40 @@
+{
+  "id": "2016-01-13_liverpool_vs_arsenal",
+  "date": "2016-01-13",
+  "home": {
+    "name": "Liverpool"
+  },
+  "away": {
+    "name": "Arsenal"
+  },
+  "score": {
+    "home": 3,
+    "away": 3
+  },
+  "competition": {
+    "name": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/dsnjpz1679951317.png",
+    "season": "2015-2016",
+    "round": "21"
+  },
+  "venue": {
+    "name": null,
+    "city": null,
+    "country": null
+  },
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": []
+}
