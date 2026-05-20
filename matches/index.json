@@ -1251,6 +1251,16 @@
       "file": "matches/2016-02-15_bayern_m_nchen_vs_arsenal.json"
     },
     {
+      "id": "2016-02-17_as_roma_vs_real_madrid",
+      "date": "2016-02-17",
+      "home": "AS Roma",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-17_as_roma_vs_real_madrid.json"
+    },
+    {
       "id": "2016-02-17_sporting_gijon_vs_fc_barcelona",
       "date": "2016-02-17",
       "home": "Sporting Gijon",
@@ -1811,6 +1821,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 175,
+  "count": 176,
   "updated": "2026-05-21"
 }
