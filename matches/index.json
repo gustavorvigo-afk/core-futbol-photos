@@ -2489,8 +2489,13 @@
       "date": "2016-02-03",
       "home": "FC Barcelona",
       "away": "Valencia CF",
-      "competition": null,
-      "score": null,
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 7,
+        "away": 0,
+        "htHome": 3,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2016-02-03_fc_barcelona_vs_valencia_cf.json"
     },
