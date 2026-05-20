@@ -1933,8 +1933,13 @@
       "date": "2015-09-12",
       "home": "Atlético de Madrid",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "LaLiga",
+      "score": {
+        "home": 1,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2015-09-12_atl_tico_de_madrid_vs_fc_barcelona.json"
     },
