@@ -1476,8 +1476,13 @@
       "date": "2014-09-30",
       "home": "FC Barcelona",
       "away": "Paris Saint-Germain",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Group F",
+      "score": {
+        "home": 3,
+        "away": 2,
+        "htHome": 2,
+        "htAway": 1
+      },
       "thumb": null,
       "file": "matches/2014-09-30_fc_barcelona_vs_paris_saint_germain.json"
     },
