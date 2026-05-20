@@ -372,6 +372,16 @@
       "file": "matches/2015-11-28_leicester_vs_manchester_united.json"
     },
     {
+      "id": "2015-12-05_wolfsburg_vs_borussia_dortmund",
+      "date": "2015-12-05",
+      "home": "Wolfsburg",
+      "away": "Borussia Dortmund",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-12-05_wolfsburg_vs_borussia_dortmund.json"
+    },
+    {
       "id": "2015-12-14_leicester_vs_chelsea",
       "date": "2015-12-14",
       "home": "Leicester",
@@ -953,6 +963,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 91,
+  "count": 92,
   "updated": "2026-05-21"
 }
