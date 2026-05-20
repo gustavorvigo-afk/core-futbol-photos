@@ -121,6 +121,16 @@
       "file": "matches/2016-03-16_arsenal_vs_bayern_m_nchen.json"
     },
     {
+      "id": "2017-03-07_fc_barcelona_vs_paris_saint_germain",
+      "date": "2017-03-07",
+      "home": "FC Barcelona",
+      "away": "Paris Saint-Germain",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2017-03-07_fc_barcelona_vs_paris_saint_germain.json"
+    },
+    {
       "id": "2024-04-26_real_madrid_vs_fc_barcelona",
       "date": "2024-04-26",
       "home": "Real Madrid",
@@ -131,6 +141,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 13,
+  "count": 14,
   "updated": "2026-05-21"
 }
