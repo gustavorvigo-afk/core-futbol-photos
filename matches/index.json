@@ -2522,8 +2522,13 @@
       "date": "2016-02-17",
       "home": "Sporting Gijon",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "LaLiga",
+      "score": {
+        "home": 1,
+        "away": 3,
+        "htHome": 1,
+        "htAway": 2
+      },
       "thumb": null,
       "file": "matches/2016-02-17_sporting_gijon_vs_fc_barcelona.json"
     },
