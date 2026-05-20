@@ -173,6 +173,16 @@
       "file": "matches/2015-04-04_arsenal_vs_liverpool.json"
     },
     {
+      "id": "2015-04-04_borussia_dortmund_vs_bayern_m_nchen",
+      "date": "2015-04-04",
+      "home": "Borussia Dortmund",
+      "away": "Bayern München",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-04-04_borussia_dortmund_vs_bayern_m_nchen.json"
+    },
+    {
       "id": "2015-04-05_fc_barcelona_vs_atl_tico_de_madrid",
       "date": "2015-04-05",
       "home": "FC Barcelona",
@@ -853,6 +863,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 81,
+  "count": 82,
   "updated": "2026-05-21"
 }
