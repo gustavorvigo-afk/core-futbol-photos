@@ -2690,8 +2690,13 @@
       "date": "2016-03-16",
       "home": "Bayern München",
       "away": "Juventus",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 4,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 2
+      },
       "thumb": null,
       "file": "matches/2016-03-16_bayern_m_nchen_vs_juventus.json"
     },
