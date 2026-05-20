@@ -2572,8 +2572,13 @@
       "date": "2016-02-23",
       "home": "Arsenal",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 0,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2016-02-23_arsenal_vs_fc_barcelona.json"
     },
