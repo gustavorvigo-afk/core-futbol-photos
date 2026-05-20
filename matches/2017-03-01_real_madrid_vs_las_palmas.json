@@ -1,0 +1,22 @@
+{
+  "id": "2017-03-01_real_madrid_vs_las_palmas",
+  "date": "2017-03-01",
+  "home": {
+    "name": "Real Madrid"
+  },
+  "away": {
+    "name": "Las Palmas"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
