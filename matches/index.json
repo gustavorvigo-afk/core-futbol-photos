@@ -11,6 +11,16 @@
       "file": "matches/2009-04-30_chelsea_vs_liverpool.json"
     },
     {
+      "id": "2009-05-13_athletic_bilbao_vs_fc_barcelona",
+      "date": "2009-05-13",
+      "home": "Athletic Bilbao",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2009-05-13_athletic_bilbao_vs_fc_barcelona.json"
+    },
+    {
       "id": "2011-10-12_real_madrid_vs_fc_barcelona",
       "date": "2011-10-12",
       "home": "Real Madrid",
@@ -141,6 +151,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 14,
+  "count": 15,
   "updated": "2026-05-21"
 }
