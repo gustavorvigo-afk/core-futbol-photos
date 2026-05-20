@@ -1333,6 +1333,16 @@
       "file": "matches/2013-10-26_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "2014-03-23_athletic_club_vs_fc_barcelona",
+      "date": "2014-03-23",
+      "home": "Athletic Club",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-03-23_athletic_club_vs_fc_barcelona.json"
+    },
+    {
       "id": "2014-03-23_real_madrid_vs_fc_barcelona",
       "date": "2014-03-23",
       "home": "Real Madrid",
@@ -3805,6 +3815,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 320,
+  "count": 321,
   "updated": "2026-05-20"
 }
