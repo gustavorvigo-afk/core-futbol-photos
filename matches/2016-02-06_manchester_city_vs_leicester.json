@@ -1,0 +1,22 @@
+{
+  "id": "2016-02-06_manchester_city_vs_leicester",
+  "date": "2016-02-06",
+  "home": {
+    "name": "Manchester City"
+  },
+  "away": {
+    "name": "Leicester"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}

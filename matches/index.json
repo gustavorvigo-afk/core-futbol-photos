@@ -367,6 +367,16 @@
       "file": "matches/2016-02-02_leicester_vs_liverpool.json"
     },
     {
+      "id": "2016-02-06_manchester_city_vs_leicester",
+      "date": "2016-02-06",
+      "home": "Manchester City",
+      "away": "Leicester",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-02-06_manchester_city_vs_leicester.json"
+    },
+    {
       "id": "2016-02-14_arsenal_vs_leicester",
       "date": "2016-02-14",
       "home": "Arsenal",
@@ -690,6 +700,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 65,
+  "count": 66,
   "updated": "2026-05-21"
 }
