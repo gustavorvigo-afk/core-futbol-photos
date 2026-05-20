@@ -461,6 +461,16 @@
       "file": "matches/2008-05-07_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2008-05-21_chelsea_vs_fc_barcelona",
+      "date": "2008-05-21",
+      "home": "Chelsea",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2008-05-21_chelsea_vs_fc_barcelona.json"
+    },
+    {
       "id": "2008-05-21_manchester_united_vs_chelsea",
       "date": "2008-05-21",
       "home": "Manchester United",
@@ -3555,6 +3565,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 297,
+  "count": 298,
   "updated": "2026-05-20"
 }
