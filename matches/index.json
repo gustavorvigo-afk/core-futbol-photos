@@ -171,8 +171,11 @@
       "date": "2009-05-02",
       "home": "Real Madrid",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 2,
+        "away": 6
+      },
       "thumb": null,
       "file": "matches/2009-05-02_real_madrid_vs_fc_barcelona.json"
     },
