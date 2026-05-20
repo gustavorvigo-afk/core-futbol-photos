@@ -101,6 +101,16 @@
       "file": "matches/2007-10-03_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "2007-12-16_boca_juniors_vs_ac_milan",
+      "date": "2007-12-16",
+      "home": "Boca Juniors",
+      "away": "AC Milan",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2007-12-16_boca_juniors_vs_ac_milan.json"
+    },
+    {
       "id": "2008-05-07_real_madrid_vs_fc_barcelona",
       "date": "2008-05-07",
       "home": "Real Madrid",
@@ -2583,6 +2593,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 251,
+  "count": 252,
   "updated": "2026-05-21"
 }
