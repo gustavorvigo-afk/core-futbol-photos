@@ -1633,8 +1633,13 @@
       "date": "2015-02-24",
       "home": "Manchester City",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 1,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 2
+      },
       "thumb": null,
       "file": "matches/2015-02-24_manchester_city_vs_fc_barcelona.json"
     },
