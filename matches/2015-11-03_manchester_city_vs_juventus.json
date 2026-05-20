@@ -1,0 +1,22 @@
+{
+  "id": "2015-11-03_manchester_city_vs_juventus",
+  "date": "2015-11-03",
+  "home": {
+    "name": "Manchester City"
+  },
+  "away": {
+    "name": "Juventus"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
