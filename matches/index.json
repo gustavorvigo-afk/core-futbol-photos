@@ -11,6 +11,16 @@
       "file": "matches/2005-04-10_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2005-11-19_real_madrid_vs_fc_barcelona",
+      "date": "2005-11-19",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2005-11-19_real_madrid_vs_fc_barcelona.json"
+    },
+    {
       "id": "2008-06-29_germany_vs_spain",
       "date": "2008-06-29",
       "home": "Germany",
@@ -983,6 +993,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 94,
+  "count": 95,
   "updated": "2026-05-21"
 }
