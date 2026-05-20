@@ -224,8 +224,11 @@
       "date": "2009-11-29",
       "home": "FC Barcelona",
       "away": "Real Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
       "thumb": null,
       "file": "matches/2009-11-29_fc_barcelona_vs_real_madrid.json"
     },
