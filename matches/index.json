@@ -585,6 +585,19 @@
       "file": "matches/2009-05-13_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "2009-05-27_arsenal_vs_fc_barcelona",
+      "date": "2009-05-27",
+      "home": "Arsenal",
+      "away": "FC Barcelona",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "thumb": null,
+      "file": "matches/2009-05-27_arsenal_vs_fc_barcelona.json"
+    },
+    {
       "id": "2009-05-27_fc_barcelona_vs_manchester_united",
       "date": "2009-05-27",
       "home": "FC Barcelona",
@@ -3588,6 +3601,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 300,
+  "count": 301,
   "updated": "2026-05-20"
 }
