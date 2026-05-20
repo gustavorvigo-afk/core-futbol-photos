@@ -1365,6 +1365,16 @@
       "file": "matches/2022-03-29_per_vs_argentina.json"
     },
     {
+      "id": "2023-03-19_fc_barcelona_vs_real_madrid",
+      "date": "2023-03-19",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2023-03-19_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2024-04-26_real_madrid_vs_fc_barcelona",
       "date": "2024-04-26",
       "home": "Real Madrid",
@@ -1375,6 +1385,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 132,
+  "count": 133,
   "updated": "2026-05-21"
 }
