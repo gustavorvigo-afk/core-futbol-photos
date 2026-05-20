@@ -236,6 +236,19 @@
       "file": "matches/2015-11-17_brasil_vs_per.json"
     },
     {
+      "id": "2015-12-21_arsenal_vs_manchester_city",
+      "date": "2015-12-21",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "competition": "English Premier League",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-12-21_arsenal_vs_manchester_city.json"
+    },
+    {
       "id": "2016-02-14_arsenal_vs_leicester",
       "date": "2016-02-14",
       "home": "Arsenal",
@@ -549,6 +562,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 53,
+  "count": 54,
   "updated": "2026-05-21"
 }
