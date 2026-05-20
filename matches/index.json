@@ -663,6 +663,16 @@
       "file": "matches/2016-04-02_bayern_m_nchen_vs_wolfsburg.json"
     },
     {
+      "id": "2016-05-21_bayern_m_nchen_vs_borussia_dortmund",
+      "date": "2016-05-21",
+      "home": "Bayern München",
+      "away": "Borussia Dortmund",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-05-21_bayern_m_nchen_vs_borussia_dortmund.json"
+    },
+    {
       "id": "2016-06-06_m_xico_vs_uruguay",
       "date": "2016-06-06",
       "home": "México",
@@ -1003,6 +1013,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 96,
+  "count": 97,
   "updated": "2026-05-21"
 }
