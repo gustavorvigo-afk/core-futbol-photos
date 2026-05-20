@@ -1333,11 +1333,8 @@
       "date": "2016-01-16",
       "home": "Chelsea",
       "away": "Everton",
-      "competition": "English Premier League",
-      "score": {
-        "home": 3,
-        "away": 3
-      },
+      "competition": null,
+      "score": null,
       "thumb": null,
       "file": "matches/2016-01-16_chelsea_vs_everton.json"
     },
