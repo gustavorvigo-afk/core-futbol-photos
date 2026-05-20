@@ -452,6 +452,16 @@
       "file": "matches/2015-08-14_bayern_m_nchen_vs_hamburger_sv.json"
     },
     {
+      "id": "2015-09-12_atl_tico_de_madrid_vs_fc_barcelona",
+      "date": "2015-09-12",
+      "home": "Atlético de Madrid",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-09-12_atl_tico_de_madrid_vs_fc_barcelona.json"
+    },
+    {
       "id": "2015-10-04_arsenal_vs_manchester_united",
       "date": "2015-10-04",
       "home": "Arsenal",
@@ -1222,6 +1232,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 117,
+  "count": 118,
   "updated": "2026-05-21"
 }
