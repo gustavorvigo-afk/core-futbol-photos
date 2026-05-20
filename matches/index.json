@@ -2014,6 +2014,16 @@
       "file": "matches/2018-05-26_real_madrid_vs_liverpool.json"
     },
     {
+      "id": "2018-06-15_portugal_vs_spain",
+      "date": "2018-06-15",
+      "home": "Portugal",
+      "away": "Spain",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-06-15_portugal_vs_spain.json"
+    },
+    {
       "id": "2018-06-17_germany_vs_mexico",
       "date": "2018-06-17",
       "home": "Germany",
@@ -2343,6 +2353,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 227,
+  "count": 228,
   "updated": "2026-05-21"
 }
