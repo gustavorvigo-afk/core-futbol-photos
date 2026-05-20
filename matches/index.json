@@ -2627,8 +2627,11 @@
       "date": "2021-02-03",
       "home": "Granada",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 3,
+        "away": 5
+      },
       "thumb": null,
       "file": "matches/2021-02-03_granada_vs_fc_barcelona.json"
     },
