@@ -1,0 +1,22 @@
+{
+  "id": "2005-05-25_liverpool_vs_ac_milan",
+  "date": "2005-05-25",
+  "home": {
+    "name": "Liverpool"
+  },
+  "away": {
+    "name": "AC Milan"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}

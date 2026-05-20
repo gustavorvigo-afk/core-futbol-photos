@@ -11,6 +11,16 @@
       "file": "matches/2005-04-10_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2005-05-25_liverpool_vs_ac_milan",
+      "date": "2005-05-25",
+      "home": "Liverpool",
+      "away": "AC Milan",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2005-05-25_liverpool_vs_ac_milan.json"
+    },
+    {
       "id": "2005-11-19_real_madrid_vs_fc_barcelona",
       "date": "2005-11-19",
       "home": "Real Madrid",
@@ -1455,6 +1465,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 140,
+  "count": 141,
   "updated": "2026-05-21"
 }
