@@ -2329,8 +2329,13 @@
       "date": "2016-01-06",
       "home": "FC Barcelona",
       "away": "Espanyol",
-      "competition": null,
-      "score": null,
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 4,
+        "away": 1,
+        "htHome": 2,
+        "htAway": 1
+      },
       "thumb": null,
       "file": "matches/2016-01-06_fc_barcelona_vs_espanyol.json"
     },
