@@ -7,17 +7,35 @@
   "away": {
     "name": "Real Madrid"
   },
-  "score": null,
-  "competition": null,
-  "venue": null,
+  "score": {
+    "home": 1,
+    "away": 2
+  },
+  "competition": {
+    "name": "Copa del Rey",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png",
+    "season": "2013-2014",
+    "round": "200"
+  },
+  "venue": {
+    "name": "Estadio de Mestalla",
+    "city": "",
+    "country": ""
+  },
   "thumb": null,
   "fanart": null,
-  "description": null,
+  "description": "",
   "tags": [],
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [],
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
   "photos": [
     {
       "url": "https://www.fcbarcelona.com/photo-resources/2026/05/10/1aced646-754b-4925-bc68-8d1ec5c729c2/JC026511.jpg?width=1920&height=1280",

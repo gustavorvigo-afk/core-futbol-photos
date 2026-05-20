@@ -657,8 +657,11 @@
       "date": "2014-04-16",
       "home": "FC Barcelona",
       "away": "Real Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
       "thumb": null,
       "file": "matches/2014-04-16_fc_barcelona_vs_real_madrid.json"
     },
