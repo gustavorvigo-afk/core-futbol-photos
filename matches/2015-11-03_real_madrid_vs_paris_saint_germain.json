@@ -1,0 +1,22 @@
+{
+  "id": "2015-11-03_real_madrid_vs_paris_saint_germain",
+  "date": "2015-11-03",
+  "home": {
+    "name": "Real Madrid"
+  },
+  "away": {
+    "name": "Paris Saint-Germain"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
