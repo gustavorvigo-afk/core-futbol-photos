@@ -1306,8 +1306,11 @@
       "date": "2015-11-21",
       "home": "Real Madrid",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
       "thumb": null,
       "file": "matches/2015-11-21_real_madrid_vs_fc_barcelona.json"
     },
