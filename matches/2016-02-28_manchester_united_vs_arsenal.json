@@ -1,0 +1,22 @@
+{
+  "id": "2016-02-28_manchester_united_vs_arsenal",
+  "date": "2016-02-28",
+  "home": {
+    "name": "Manchester United"
+  },
+  "away": {
+    "name": "Arsenal"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
