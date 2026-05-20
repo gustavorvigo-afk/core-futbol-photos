@@ -328,6 +328,16 @@
       "file": "matches/2015-12-21_arsenal_vs_manchester_city.json"
     },
     {
+      "id": "2015-12-26_stoke_city_vs_manchester_united",
+      "date": "2015-12-26",
+      "home": "Stoke City",
+      "away": "Manchester United",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-12-26_stoke_city_vs_manchester_united.json"
+    },
+    {
       "id": "2016-01-13_liverpool_vs_arsenal",
       "date": "2016-01-13",
       "home": "Liverpool",
@@ -743,6 +753,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 70,
+  "count": 71,
   "updated": "2026-05-21"
 }
