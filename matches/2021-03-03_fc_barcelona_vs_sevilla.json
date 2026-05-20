@@ -1,0 +1,40 @@
+{
+  "id": "2021-03-03_fc_barcelona_vs_sevilla",
+  "date": "2021-03-03",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "Sevilla"
+  },
+  "score": {
+    "home": 3,
+    "away": 0
+  },
+  "competition": {
+    "name": "Copa del Rey",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png",
+    "season": "2020-2021",
+    "round": "150"
+  },
+  "venue": {
+    "name": "Spotify Camp Nou",
+    "city": "",
+    "country": "Spain"
+  },
+  "thumb": null,
+  "fanart": null,
+  "description": "",
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": []
+}
