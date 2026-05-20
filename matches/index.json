@@ -2034,6 +2034,19 @@
       "file": "matches/2018-06-17_germany_vs_mexico.json"
     },
     {
+      "id": "2018-06-21_france_vs_peru",
+      "date": "2018-06-21",
+      "home": "France",
+      "away": "Peru",
+      "competition": "FIFA World Cup",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/6mdu4q1530639800.jpg",
+      "file": "matches/2018-06-21_france_vs_peru.json"
+    },
+    {
       "id": "2018-06-26_nigeria_vs_argentina",
       "date": "2018-06-26",
       "home": "Nigeria",
@@ -2386,6 +2399,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 231,
+  "count": 232,
   "updated": "2026-05-21"
 }

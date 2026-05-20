@@ -1,0 +1,57 @@
+{
+  "id": "2018-06-21_france_vs_peru",
+  "date": "2018-06-21",
+  "home": {
+    "name": "France"
+  },
+  "away": {
+    "name": "Peru"
+  },
+  "score": {
+    "home": 1,
+    "away": 0
+  },
+  "competition": {
+    "name": "FIFA World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png",
+    "season": "2018",
+    "round": "2"
+  },
+  "venue": {
+    "name": null,
+    "city": null,
+    "country": null
+  },
+  "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/6mdu4q1530639800.jpg",
+  "fanart": "https://r2.thesportsdb.com/images/media/event/fanart/gv2een1530639851.jpg",
+  "description": "",
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": [
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/fanart/gv2een1530639851.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/6mdu4q1530639800.jpg",
+      "width": 1280,
+      "height": 720,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    },
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/thumb/6mdu4q1530639800.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/6mdu4q1530639800.jpg",
+      "width": 640,
+      "height": 360,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    }
+  ]
+}
