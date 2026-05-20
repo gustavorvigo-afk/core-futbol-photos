@@ -1,0 +1,40 @@
+{
+  "id": "2011-05-28_fc_barcelona_vs_manchester_united",
+  "date": "2011-05-28",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "Manchester United"
+  },
+  "score": {
+    "home": 3,
+    "away": 1
+  },
+  "competition": {
+    "name": "UEFA Champions League",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/5y7gsj1678720262.png",
+    "season": "2010-2011",
+    "round": "200"
+  },
+  "venue": {
+    "name": "Wembley",
+    "city": null,
+    "country": null
+  },
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": []
+}
