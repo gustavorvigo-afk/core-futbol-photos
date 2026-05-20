@@ -1874,6 +1874,19 @@
       "file": "matches/2019-05-07_liverpool_vs_fc_barcelona.json"
     },
     {
+      "id": "2019-06-01_tottenham_vs_liverpool",
+      "date": "2019-06-01",
+      "home": "Tottenham",
+      "away": "Liverpool",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/djtke91558471252.jpg",
+      "file": "matches/2019-06-01_tottenham_vs_liverpool.json"
+    },
+    {
       "id": "2019-07-07_brasil_vs_per",
       "date": "2019-07-07",
       "home": "Brasil",
@@ -2024,6 +2037,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 196,
+  "count": 197,
   "updated": "2026-05-21"
 }
