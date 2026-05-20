@@ -1978,8 +1978,13 @@
       "date": "2015-09-15",
       "home": "Juventus",
       "away": "Manchester City",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Group D",
+      "score": {
+        "home": 1,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2015-09-15_juventus_vs_manchester_city.json"
     },
