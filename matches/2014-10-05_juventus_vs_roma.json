@@ -1,0 +1,22 @@
+{
+  "id": "2014-10-05_juventus_vs_roma",
+  "date": "2014-10-05",
+  "home": {
+    "name": "Juventus"
+  },
+  "away": {
+    "name": "Roma"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}

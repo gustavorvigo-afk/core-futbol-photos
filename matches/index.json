@@ -157,6 +157,16 @@
       "file": "matches/2014-09-17_bayern_m_nchen_vs_as_roma.json"
     },
     {
+      "id": "2014-10-05_juventus_vs_roma",
+      "date": "2014-10-05",
+      "home": "Juventus",
+      "away": "Roma",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-10-05_juventus_vs_roma.json"
+    },
+    {
       "id": "2014-11-01_bayern_m_nchen_vs_borussia_dortmund",
       "date": "2014-11-01",
       "home": "Bayern München",
@@ -1043,6 +1053,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 100,
+  "count": 101,
   "updated": "2026-05-21"
 }
