@@ -1257,6 +1257,19 @@
       "file": "matches/2013-05-01_fc_barcelona_vs_bayern_m_nchen.json"
     },
     {
+      "id": "2013-05-17_fc_barcelona_vs_real_madrid",
+      "date": "2013-05-17",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "thumb": null,
+      "file": "matches/2013-05-17_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2013-05-17_real_madrid_vs_atl_tico_de_madrid",
       "date": "2013-05-17",
       "home": "Real Madrid",
@@ -3782,6 +3795,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 318,
+  "count": 319,
   "updated": "2026-05-20"
 }
