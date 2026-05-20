@@ -3678,8 +3678,13 @@
       "date": "2020-03-11",
       "home": "Liverpool",
       "away": "Atlético de Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 2,
+        "away": 3,
+        "htHome": 1,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2020-03-11_liverpool_vs_atl_tico_de_madrid.json"
     },
@@ -3880,8 +3885,13 @@
       "date": "2025-01-12",
       "home": "FC Barcelona",
       "away": "Real Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "Supercopa de España",
+      "score": {
+        "home": 2,
+        "away": 5,
+        "htHome": 1,
+        "htAway": 4
+      },
       "thumb": null,
       "file": "matches/2025-01-12_fc_barcelona_vs_real_madrid.json"
     },
