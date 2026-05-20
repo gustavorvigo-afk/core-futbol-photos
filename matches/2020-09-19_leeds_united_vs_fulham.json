@@ -1,0 +1,22 @@
+{
+  "id": "2020-09-19_leeds_united_vs_fulham",
+  "date": "2020-09-19",
+  "home": {
+    "name": "Leeds United"
+  },
+  "away": {
+    "name": "Fulham"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
