@@ -2063,8 +2063,13 @@
       "date": "2015-10-08",
       "home": "Colombia",
       "away": "Perú",
-      "competition": null,
-      "score": null,
+      "competition": "World Cup Qualification, CONMEBOL",
+      "score": {
+        "home": 2,
+        "away": 0,
+        "htHome": 1,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2015-10-08_colombia_vs_per.json"
     },
