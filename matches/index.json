@@ -716,6 +716,16 @@
       "file": "matches/2016-01-23_norwich_vs_liverpool.json"
     },
     {
+      "id": "2016-01-30_fc_barcelona_vs_atl_tico_de_madrid",
+      "date": "2016-01-30",
+      "home": "FC Barcelona",
+      "away": "Atlético de Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-01-30_fc_barcelona_vs_atl_tico_de_madrid.json"
+    },
+    {
       "id": "2016-01-31_ac_milan_vs_inter_de_mil_n",
       "date": "2016-01-31",
       "home": "AC Milan",
@@ -1232,6 +1242,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 118,
+  "count": 119,
   "updated": "2026-05-21"
 }
