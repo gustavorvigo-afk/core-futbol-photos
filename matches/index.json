@@ -151,6 +151,16 @@
       "file": "matches/2017-03-07_fc_barcelona_vs_paris_saint_germain.json"
     },
     {
+      "id": "2018-07-01_espa_a_vs_rusia",
+      "date": "2018-07-01",
+      "home": "España",
+      "away": "Rusia",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-07-01_espa_a_vs_rusia.json"
+    },
+    {
       "id": "2024-04-26_real_madrid_vs_fc_barcelona",
       "date": "2024-04-26",
       "home": "Real Madrid",
@@ -161,6 +171,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 16,
+  "count": 17,
   "updated": "2026-05-21"
 }
