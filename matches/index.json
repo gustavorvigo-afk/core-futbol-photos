@@ -852,6 +852,16 @@
       "file": "matches/2016-03-05_borussia_dortmund_vs_bayern_m_nchen.json"
     },
     {
+      "id": "2016-03-12_fc_barcelona_vs_getafe",
+      "date": "2016-03-12",
+      "home": "FC Barcelona",
+      "away": "Getafe",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-03-12_fc_barcelona_vs_getafe.json"
+    },
+    {
       "id": "2016-03-16_arsenal_vs_bayern_m_nchen",
       "date": "2016-03-16",
       "home": "Arsenal",
@@ -1252,6 +1262,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 120,
+  "count": 121,
   "updated": "2026-05-21"
 }
