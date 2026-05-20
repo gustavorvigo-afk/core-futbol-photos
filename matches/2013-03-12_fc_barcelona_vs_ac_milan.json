@@ -1,0 +1,22 @@
+{
+  "id": "2013-03-12_fc_barcelona_vs_ac_milan",
+  "date": "2013-03-12",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "AC Milan"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
