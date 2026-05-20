@@ -2562,8 +2562,13 @@
       "date": "2016-02-27",
       "home": "Real Madrid",
       "away": "Atlético de Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "LaLiga",
+      "score": {
+        "home": 0,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2016-02-27_real_madrid_vs_atl_tico_de_madrid.json"
     },
