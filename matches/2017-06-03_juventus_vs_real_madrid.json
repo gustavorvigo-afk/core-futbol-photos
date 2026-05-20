@@ -1,0 +1,22 @@
+{
+  "id": "2017-06-03_juventus_vs_real_madrid",
+  "date": "2017-06-03",
+  "home": {
+    "name": "Juventus"
+  },
+  "away": {
+    "name": "Real Madrid"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}

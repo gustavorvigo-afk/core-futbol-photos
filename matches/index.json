@@ -1711,6 +1711,16 @@
       "file": "matches/2017-04-23_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2017-06-03_juventus_vs_real_madrid",
+      "date": "2017-06-03",
+      "home": "Juventus",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2017-06-03_juventus_vs_real_madrid.json"
+    },
+    {
       "id": "2017-09-09_manchester_city_vs_liverpool",
       "date": "2017-09-09",
       "home": "Manchester City",
@@ -1941,6 +1951,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 188,
+  "count": 189,
   "updated": "2026-05-21"
 }
