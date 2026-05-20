@@ -1,0 +1,103 @@
+{
+  "id": "2015-12-30_fc_barcelona_vs_real_betis",
+  "date": "2015-12-30",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "Real Betis"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": [
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/17/a0087c78-87bb-48c4-b341-a88c10ee59c6/_MGA5980.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/17/a0087c78-87bb-48c4-b341-a88c10ee59c6/_MGA5980.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/17/30efd7dd-3782-4915-9c09-3457dab97896/_MGA5901.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/17/30efd7dd-3782-4915-9c09-3457dab97896/_MGA5901.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/17/8bdd6fbe-6f10-481b-948f-1c75ffda81ac/_MGA5891.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/17/8bdd6fbe-6f10-481b-948f-1c75ffda81ac/_MGA5891.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/17/66a9396b-175c-4753-9d2a-d5656fc68955/_MGA5905.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/17/66a9396b-175c-4753-9d2a-d5656fc68955/_MGA5905.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/17/5edbe594-74e8-4ab8-8a0d-79bb1117a6db/_MGA5916.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/17/5edbe594-74e8-4ab8-8a0d-79bb1117a6db/_MGA5916.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/17/e2516b60-b462-4df0-8395-d2732ffda49c/_MGA5922.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/17/e2516b60-b462-4df0-8395-d2732ffda49c/_MGA5922.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/17/f511739e-fc63-4829-bc84-0e17ac72baa9/_MGA4048.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/17/f511739e-fc63-4829-bc84-0e17ac72baa9/_MGA4048.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/17/a0b6d50e-9434-4adc-b8bc-da6497bb05b5/_MGA4050.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/17/a0b6d50e-9434-4adc-b8bc-da6497bb05b5/_MGA4050.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/17/3ddaf04f-7b54-4d07-b89e-7ea915e20ac7/_MGA4066.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/17/3ddaf04f-7b54-4d07-b89e-7ea915e20ac7/_MGA4066.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://www.fcbarcelona.com/photo-resources/2026/05/17/ba0a04e7-2df8-46c5-8cb7-738763d3ae06/_MGA4069.jpg?width=1920&height=1280",
+      "thumbUrl": "https://www.fcbarcelona.com/photo-resources/2026/05/17/ba0a04e7-2df8-46c5-8cb7-738763d3ae06/_MGA4069.jpg?width=640&height=427",
+      "width": 1920,
+      "height": 1280,
+      "source": "fcbarcelona.com",
+      "credit": "FC Barcelona"
+    }
+  ]
+}

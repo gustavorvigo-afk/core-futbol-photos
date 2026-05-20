@@ -680,6 +680,16 @@
       "file": "matches/2015-12-26_stoke_city_vs_manchester_united.json"
     },
     {
+      "id": "2015-12-30_fc_barcelona_vs_real_betis",
+      "date": "2015-12-30",
+      "home": "FC Barcelona",
+      "away": "Real Betis",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-12-30_fc_barcelona_vs_real_betis.json"
+    },
+    {
       "id": "2016-01-13_liverpool_vs_arsenal",
       "date": "2016-01-13",
       "home": "Liverpool",
@@ -1275,6 +1285,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 122,
+  "count": 123,
   "updated": "2026-05-21"
 }
