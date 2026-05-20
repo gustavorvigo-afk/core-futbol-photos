@@ -2381,8 +2381,13 @@
       "date": "2016-01-30",
       "home": "FC Barcelona",
       "away": "Atlético de Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "LaLiga",
+      "score": {
+        "home": 2,
+        "away": 1,
+        "htHome": 2,
+        "htAway": 1
+      },
       "thumb": null,
       "file": "matches/2016-01-30_fc_barcelona_vs_atl_tico_de_madrid.json"
     },
