@@ -3880,8 +3880,13 @@
       "date": "2024-10-23",
       "home": "FC Barcelona",
       "away": "Bayern München",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 4,
+        "away": 1,
+        "htHome": 3,
+        "htAway": 1
+      },
       "thumb": null,
       "file": "matches/2024-10-23_fc_barcelona_vs_bayern_m_nchen.json"
     },
