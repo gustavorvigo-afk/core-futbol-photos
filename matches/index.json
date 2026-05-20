@@ -1,6 +1,19 @@
 {
   "matches": [
     {
+      "id": "2008-06-29_germany_vs_spain",
+      "date": "2008-06-29",
+      "home": "Germany",
+      "away": "Spain",
+      "competition": "European Championships",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2008-06-29_germany_vs_spain.json"
+    },
+    {
       "id": "2009-04-30_chelsea_vs_liverpool",
       "date": "2009-04-30",
       "home": "Chelsea",
@@ -331,6 +344,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 33,
+  "count": 34,
   "updated": "2026-05-21"
 }

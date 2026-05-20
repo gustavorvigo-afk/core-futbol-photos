@@ -1,0 +1,40 @@
+{
+  "id": "2008-06-29_germany_vs_spain",
+  "date": "2008-06-29",
+  "home": {
+    "name": "Germany"
+  },
+  "away": {
+    "name": "Spain"
+  },
+  "score": {
+    "home": 0,
+    "away": 1
+  },
+  "competition": {
+    "name": "European Championships",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/bivzlu1635869135.png",
+    "season": "2008",
+    "round": "200"
+  },
+  "venue": {
+    "name": null,
+    "city": null,
+    "country": null
+  },
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": []
+}
