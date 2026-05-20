@@ -495,6 +495,16 @@
       "file": "matches/2014-03-23_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2014-04-16_fc_barcelona_vs_real_madrid",
+      "date": "2014-04-16",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-04-16_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2014-05-24_real_madrid_vs_atl_tico_de_madrid",
       "date": "2014-05-24",
       "home": "Real Madrid",
@@ -2047,6 +2057,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 198,
+  "count": 199,
   "updated": "2026-05-21"
 }
