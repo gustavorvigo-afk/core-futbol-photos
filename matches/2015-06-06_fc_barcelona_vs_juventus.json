@@ -1,0 +1,22 @@
+{
+  "id": "2015-06-06_fc_barcelona_vs_juventus",
+  "date": "2015-06-06",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "Juventus"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}

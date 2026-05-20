@@ -811,6 +811,16 @@
       "file": "matches/2015-06-03_juventus_vs_lazio.json"
     },
     {
+      "id": "2015-06-06_fc_barcelona_vs_juventus",
+      "date": "2015-06-06",
+      "home": "FC Barcelona",
+      "away": "Juventus",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-06-06_fc_barcelona_vs_juventus.json"
+    },
+    {
       "id": "2015-06-06_juventus_vs_real_madrid",
       "date": "2015-06-06",
       "home": "Juventus",
@@ -1801,6 +1811,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 174,
+  "count": 175,
   "updated": "2026-05-21"
 }
