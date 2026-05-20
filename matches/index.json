@@ -967,8 +967,13 @@
       "date": "2012-01-18",
       "home": "FC Barcelona",
       "away": "Real Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 1,
+        "away": 2,
+        "htHome": 1,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2012-01-18_fc_barcelona_vs_real_madrid.json"
     },
