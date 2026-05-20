@@ -282,6 +282,16 @@
       "file": "matches/2015-11-17_brasil_vs_per.json"
     },
     {
+      "id": "2015-11-28_leicester_vs_manchester_united",
+      "date": "2015-11-28",
+      "home": "Leicester",
+      "away": "Manchester United",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-11-28_leicester_vs_manchester_united.json"
+    },
+    {
       "id": "2015-12-14_leicester_vs_chelsea",
       "date": "2015-12-14",
       "home": "Leicester",
@@ -647,6 +657,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 61,
+  "count": 62,
   "updated": "2026-05-21"
 }
