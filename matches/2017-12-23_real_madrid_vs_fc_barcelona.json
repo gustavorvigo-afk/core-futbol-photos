@@ -7,17 +7,35 @@
   "away": {
     "name": "FC Barcelona"
   },
-  "score": null,
-  "competition": null,
-  "venue": null,
-  "thumb": null,
-  "fanart": null,
+  "score": {
+    "home": 0,
+    "away": 3
+  },
+  "competition": {
+    "name": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
+    "season": "2017-2018",
+    "round": "17"
+  },
+  "venue": {
+    "name": null,
+    "city": null,
+    "country": null
+  },
+  "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/huot5e1513892898.jpg",
+  "fanart": "https://r2.thesportsdb.com/images/media/event/fanart/4dxqzj1513892836.jpg",
   "description": null,
   "tags": [],
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [],
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
   "photos": [
     {
       "url": "https://www.fcbarcelona.com/photo-resources/2026/05/10/1aced646-754b-4925-bc68-8d1ec5c729c2/JC026511.jpg?width=1920&height=1280",
@@ -98,6 +116,22 @@
       "height": 1280,
       "source": "fcbarcelona.com",
       "credit": "FC Barcelona"
+    },
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/fanart/4dxqzj1513892836.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/huot5e1513892898.jpg",
+      "width": 1280,
+      "height": 720,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    },
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/thumb/huot5e1513892898.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/huot5e1513892898.jpg",
+      "width": 640,
+      "height": 360,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
     }
   ]
 }

@@ -2170,9 +2170,12 @@
       "date": "2017-12-23",
       "home": "Real Madrid",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
-      "thumb": null,
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/huot5e1513892898.jpg",
       "file": "matches/2017-12-23_real_madrid_vs_fc_barcelona.json"
     },
     {
