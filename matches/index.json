@@ -216,6 +216,19 @@
       "file": "matches/2015-10-24_arsenal_vs_everton.json"
     },
     {
+      "id": "2015-10-31_chelsea_vs_liverpool",
+      "date": "2015-10-31",
+      "home": "Chelsea",
+      "away": "Liverpool",
+      "competition": "English Premier League",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "thumb": null,
+      "file": "matches/2015-10-31_chelsea_vs_liverpool.json"
+    },
+    {
       "id": "2015-11-03_manchester_city_vs_juventus",
       "date": "2015-11-03",
       "home": "Manchester City",
@@ -608,6 +621,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 58,
+  "count": 59,
   "updated": "2026-05-21"
 }
