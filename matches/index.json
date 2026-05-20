@@ -1987,6 +1987,19 @@
       "file": "matches/2020-09-19_leeds_united_vs_fulham.json"
     },
     {
+      "id": "2020-12-08_juventus_vs_fc_barcelona",
+      "date": "2020-12-08",
+      "home": "Juventus",
+      "away": "FC Barcelona",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/sa1deb1603140870.jpg",
+      "file": "matches/2020-12-08_juventus_vs_fc_barcelona.json"
+    },
+    {
       "id": "2021-02-03_granada_vs_fc_barcelona",
       "date": "2021-02-03",
       "home": "Granada",
@@ -2077,6 +2090,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 201,
+  "count": 202,
   "updated": "2026-05-21"
 }
