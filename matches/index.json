@@ -3049,8 +3049,13 @@
       "date": "2016-10-19",
       "home": "FC Barcelona",
       "away": "Manchester City",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Group C",
+      "score": {
+        "home": 4,
+        "away": 0,
+        "htHome": 1,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2016-10-19_fc_barcelona_vs_manchester_city.json"
     },
