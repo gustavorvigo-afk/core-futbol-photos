@@ -7,16 +7,34 @@
   "away": {
     "name": "Atlético de Madrid"
   },
-  "score": null,
-  "competition": null,
-  "venue": null,
+  "score": {
+    "home": 1,
+    "away": 2
+  },
+  "competition": {
+    "name": "Copa del Rey",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png",
+    "season": "2012-2013",
+    "round": "200"
+  },
+  "venue": {
+    "name": "Estadio Santiago Bernabéu",
+    "city": "",
+    "country": ""
+  },
   "thumb": null,
   "fanart": null,
-  "description": null,
+  "description": "",
   "tags": [],
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [],
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
   "photos": []
 }

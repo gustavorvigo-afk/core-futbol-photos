@@ -604,8 +604,11 @@
       "date": "2013-05-17",
       "home": "Real Madrid",
       "away": "Atlético de Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
       "thumb": null,
       "file": "matches/2013-05-17_real_madrid_vs_atl_tico_de_madrid.json"
     },
