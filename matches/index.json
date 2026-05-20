@@ -875,6 +875,21 @@
       "file": "matches/2011-05-28_fc_barcelona_vs_manchester_united.json"
     },
     {
+      "id": "2011-08-14_fc_barcelona_vs_real_madrid",
+      "date": "2011-08-14",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "Supercopa de España",
+      "score": {
+        "home": 2,
+        "away": 2,
+        "htHome": 1,
+        "htAway": 2
+      },
+      "thumb": null,
+      "file": "matches/2011-08-14_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2011-08-14_real_madrid_vs_fc_barcelona",
       "date": "2011-08-14",
       "home": "Real Madrid",
@@ -3677,6 +3692,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 308,
+  "count": 309,
   "updated": "2026-05-20"
 }
