@@ -1164,11 +1164,8 @@
       "date": "2015-11-08",
       "home": "Arsenal",
       "away": "Tottenham",
-      "competition": "English Premier League",
-      "score": {
-        "home": 1,
-        "away": 1
-      },
+      "competition": null,
+      "score": null,
       "thumb": null,
       "file": "matches/2015-11-08_arsenal_vs_tottenham.json"
     },

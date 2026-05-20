@@ -7,21 +7,9 @@
   "away": {
     "name": "Tottenham"
   },
-  "score": {
-    "home": 1,
-    "away": 1
-  },
-  "competition": {
-    "name": "English Premier League",
-    "logo": "https://r2.thesportsdb.com/images/media/league/badge/dsnjpz1679951317.png",
-    "season": "2015-2016",
-    "round": "12"
-  },
-  "venue": {
-    "name": null,
-    "city": null,
-    "country": null
-  },
+  "score": null,
+  "competition": null,
+  "venue": null,
   "thumb": null,
   "fanart": null,
   "description": null,
@@ -29,12 +17,6 @@
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [
-    "thesportsdb"
-  ],
-  "teamLogos": {
-    "home": null,
-    "away": null
-  },
+  "sources": [],
   "photos": []
 }
