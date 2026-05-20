@@ -254,6 +254,16 @@
       "file": "matches/2010-05-22_bayern_m_nchen_vs_inter_de_mil_n.json"
     },
     {
+      "id": "2010-07-07_germany_vs_spain",
+      "date": "2010-07-07",
+      "home": "Germany",
+      "away": "Spain",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2010-07-07_germany_vs_spain.json"
+    },
+    {
       "id": "2010-07-11_netherlands_vs_spain",
       "date": "2010-07-11",
       "home": "Netherlands",
@@ -2243,6 +2253,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 217,
+  "count": 218,
   "updated": "2026-05-21"
 }
