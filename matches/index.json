@@ -2701,9 +2701,12 @@
       "date": "2023-03-19",
       "home": "FC Barcelona",
       "away": "Real Madrid",
-      "competition": null,
-      "score": null,
-      "thumb": null,
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/kfar2s1677785812.jpg",
       "file": "matches/2023-03-19_fc_barcelona_vs_real_madrid.json"
     },
     {
