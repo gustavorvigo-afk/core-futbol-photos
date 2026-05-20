@@ -282,6 +282,19 @@
       "file": "matches/2015-12-21_arsenal_vs_manchester_city.json"
     },
     {
+      "id": "2016-01-16_chelsea_vs_everton",
+      "date": "2016-01-16",
+      "home": "Chelsea",
+      "away": "Everton",
+      "competition": "English Premier League",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "thumb": null,
+      "file": "matches/2016-01-16_chelsea_vs_everton.json"
+    },
+    {
       "id": "2016-02-14_arsenal_vs_leicester",
       "date": "2016-02-14",
       "home": "Arsenal",
@@ -595,6 +608,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 57,
+  "count": 58,
   "updated": "2026-05-21"
 }
