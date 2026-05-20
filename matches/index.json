@@ -140,6 +140,16 @@
       "file": "matches/2015-01-18_manchester_city_vs_arsenal.json"
     },
     {
+      "id": "2015-01-31_bayern_m_nchen_vs_hamburger_sv",
+      "date": "2015-01-31",
+      "home": "Bayern München",
+      "away": "Hamburger SV",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-01-31_bayern_m_nchen_vs_hamburger_sv.json"
+    },
+    {
       "id": "2015-01-31_chelsea_vs_manchester_city",
       "date": "2015-01-31",
       "home": "Chelsea",
@@ -843,6 +853,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 80,
+  "count": 81,
   "updated": "2026-05-21"
 }
