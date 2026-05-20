@@ -7,9 +7,21 @@
   "away": {
     "name": "Las Palmas"
   },
-  "score": null,
-  "competition": null,
-  "venue": null,
+  "score": {
+    "home": 3,
+    "away": 3
+  },
+  "competition": {
+    "name": "Spanish La Liga",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
+    "season": "2016-2017",
+    "round": "25"
+  },
+  "venue": {
+    "name": null,
+    "city": null,
+    "country": null
+  },
   "thumb": null,
   "fanart": null,
   "description": null,
@@ -17,6 +29,12 @@
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [],
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
   "photos": []
 }

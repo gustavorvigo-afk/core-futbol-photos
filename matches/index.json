@@ -2080,8 +2080,11 @@
       "date": "2017-03-01",
       "home": "Real Madrid",
       "away": "Las Palmas",
-      "competition": null,
-      "score": null,
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
       "thumb": null,
       "file": "matches/2017-03-01_real_madrid_vs_las_palmas.json"
     },
