@@ -161,6 +161,16 @@
       "file": "matches/2017-03-07_fc_barcelona_vs_paris_saint_germain.json"
     },
     {
+      "id": "2017-11-11_australia_vs_per",
+      "date": "2017-11-11",
+      "home": "Australia",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2017-11-11_australia_vs_per.json"
+    },
+    {
       "id": "2018-07-01_espa_a_vs_rusia",
       "date": "2018-07-01",
       "home": "España",
@@ -181,6 +191,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 18,
+  "count": 19,
   "updated": "2026-05-21"
 }
