@@ -412,6 +412,19 @@
       "file": "matches/2015-04-05_fc_barcelona_vs_atl_tico_de_madrid.json"
     },
     {
+      "id": "2015-05-02_c_rdoba_vs_fc_barcelona",
+      "date": "2015-05-02",
+      "home": "Córdoba",
+      "away": "FC Barcelona",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 0,
+        "away": 8
+      },
+      "thumb": null,
+      "file": "matches/2015-05-02_c_rdoba_vs_fc_barcelona.json"
+    },
+    {
       "id": "2015-05-17_atl_tico_de_madrid_vs_fc_barcelona",
       "date": "2015-05-17",
       "home": "Atlético de Madrid",
@@ -1262,6 +1275,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 121,
+  "count": 122,
   "updated": "2026-05-21"
 }
