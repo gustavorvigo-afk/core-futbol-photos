@@ -3834,8 +3834,13 @@
       "date": "2025-05-11",
       "home": "FC Barcelona",
       "away": "Real Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "LaLiga",
+      "score": {
+        "home": 4,
+        "away": 3,
+        "htHome": 4,
+        "htAway": 2
+      },
       "thumb": null,
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
