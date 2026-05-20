@@ -2715,8 +2715,13 @@
       "date": "2016-03-16",
       "home": "FC Barcelona",
       "away": "Arsenal",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 3,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2016-03-16_fc_barcelona_vs_arsenal.json"
     },
