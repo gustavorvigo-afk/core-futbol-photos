@@ -605,6 +605,16 @@
       "file": "matches/2014-05-24_real_madrid_vs_atl_tico_de_madrid.json"
     },
     {
+      "id": "2014-06-13_spain_vs_netherlands",
+      "date": "2014-06-13",
+      "home": "Spain",
+      "away": "Netherlands",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-06-13_spain_vs_netherlands.json"
+    },
+    {
       "id": "2014-09-16_manchester_city_vs_bayern_m_nchen",
       "date": "2014-09-16",
       "home": "Manchester City",
@@ -2263,6 +2273,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 219,
+  "count": 220,
   "updated": "2026-05-21"
 }
