@@ -257,6 +257,16 @@
       "file": "matches/2016-06-17_spain_vs_turkey.json"
     },
     {
+      "id": "2016-06-18_m_xico_vs_chile",
+      "date": "2016-06-18",
+      "home": "México",
+      "away": "Chile",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-06-18_m_xico_vs_chile.json"
+    },
+    {
       "id": "2016-07-02_germany_vs_italy",
       "date": "2016-07-02",
       "home": "Germany",
@@ -417,6 +427,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 41,
+  "count": 42,
   "updated": "2026-05-21"
 }
