@@ -1084,6 +1084,16 @@
       "file": "matches/2015-09-16_fc_barcelona_vs_as_roma.json"
     },
     {
+      "id": "2015-09-17_borussia_dortmund_vs_odds",
+      "date": "2015-09-17",
+      "home": "Borussia Dortmund",
+      "away": "Odds",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-09-17_borussia_dortmund_vs_odds.json"
+    },
+    {
       "id": "2015-09-29_fc_barcelona_vs_bayer_leverkusen",
       "date": "2015-09-29",
       "home": "FC Barcelona",
@@ -2533,6 +2543,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 246,
+  "count": 247,
   "updated": "2026-05-21"
 }
