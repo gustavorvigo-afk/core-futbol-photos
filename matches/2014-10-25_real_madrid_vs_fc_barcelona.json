@@ -7,21 +7,9 @@
   "away": {
     "name": "FC Barcelona"
   },
-  "score": {
-    "home": 3,
-    "away": 1
-  },
-  "competition": {
-    "name": "Spanish La Liga",
-    "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
-    "season": "2014-2015",
-    "round": "9"
-  },
-  "venue": {
-    "name": null,
-    "city": null,
-    "country": null
-  },
+  "score": null,
+  "competition": null,
+  "venue": null,
   "thumb": null,
   "fanart": null,
   "description": null,
@@ -29,13 +17,7 @@
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [
-    "thesportsdb"
-  ],
-  "teamLogos": {
-    "home": null,
-    "away": null
-  },
+  "sources": [],
   "photos": [
     {
       "url": "https://www.fcbarcelona.com/photo-resources/2026/05/10/1aced646-754b-4925-bc68-8d1ec5c729c2/JC026511.jpg?width=1920&height=1280",

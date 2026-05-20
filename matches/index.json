@@ -767,11 +767,8 @@
       "date": "2014-10-25",
       "home": "Real Madrid",
       "away": "FC Barcelona",
-      "competition": "Spanish La Liga",
-      "score": {
-        "home": 3,
-        "away": 1
-      },
+      "competition": null,
+      "score": null,
       "thumb": null,
       "file": "matches/2014-10-25_real_madrid_vs_fc_barcelona.json"
     },
