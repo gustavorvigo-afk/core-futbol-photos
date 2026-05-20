@@ -154,6 +154,16 @@
       "file": "matches/2012-03-02_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2012-04-11_atl_tico_de_madrid_vs_real_madrid",
+      "date": "2012-04-11",
+      "home": "Atlético de Madrid",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2012-04-11_atl_tico_de_madrid_vs_real_madrid.json"
+    },
+    {
       "id": "2012-04-21_fc_barcelona_vs_real_madrid",
       "date": "2012-04-21",
       "home": "FC Barcelona",
@@ -1192,6 +1202,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 114,
+  "count": 115,
   "updated": "2026-05-21"
 }
