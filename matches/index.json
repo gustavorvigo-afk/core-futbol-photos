@@ -1824,6 +1824,16 @@
       "file": "matches/2018-12-09_boca_juniors_vs_river_plate.json"
     },
     {
+      "id": "2019-04-17_manchester_city_vs_tottenham_hotspur",
+      "date": "2019-04-17",
+      "home": "Manchester City",
+      "away": "Tottenham Hotspur",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-04-17_manchester_city_vs_tottenham_hotspur.json"
+    },
+    {
       "id": "2019-05-01_fc_barcelona_vs_liverpool",
       "date": "2019-05-01",
       "home": "FC Barcelona",
@@ -1994,6 +2004,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 193,
+  "count": 194,
   "updated": "2026-05-21"
 }
