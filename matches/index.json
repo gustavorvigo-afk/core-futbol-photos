@@ -213,6 +213,16 @@
       "file": "matches/2015-04-05_fc_barcelona_vs_atl_tico_de_madrid.json"
     },
     {
+      "id": "2015-05-30_bayern_m_nchen_vs_borussia_dortmund",
+      "date": "2015-05-30",
+      "home": "Bayern München",
+      "away": "Borussia Dortmund",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-05-30_bayern_m_nchen_vs_borussia_dortmund.json"
+    },
+    {
       "id": "2015-06-06_juventus_vs_real_madrid",
       "date": "2015-06-06",
       "home": "Juventus",
@@ -973,6 +983,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 93,
+  "count": 94,
   "updated": "2026-05-21"
 }
