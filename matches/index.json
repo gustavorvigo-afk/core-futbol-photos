@@ -236,6 +236,19 @@
       "file": "matches/2015-11-17_brasil_vs_per.json"
     },
     {
+      "id": "2016-02-14_arsenal_vs_leicester",
+      "date": "2016-02-14",
+      "home": "Arsenal",
+      "away": "Leicester",
+      "competition": "English Premier League",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2016-02-14_arsenal_vs_leicester.json"
+    },
+    {
       "id": "2016-02-14_fc_barcelona_vs_celta_de_vigo",
       "date": "2016-02-14",
       "home": "FC Barcelona",
@@ -536,6 +549,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 52,
+  "count": 53,
   "updated": "2026-05-21"
 }
