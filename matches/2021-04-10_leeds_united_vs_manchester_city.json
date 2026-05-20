@@ -1,0 +1,22 @@
+{
+  "id": "2021-04-10_leeds_united_vs_manchester_city",
+  "date": "2021-04-10",
+  "home": {
+    "name": "Leeds United"
+  },
+  "away": {
+    "name": "Manchester City"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
