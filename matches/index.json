@@ -2073,13 +2073,8 @@
       "date": "2015-10-13",
       "home": "Perú",
       "away": "Chile",
-      "competition": "World Cup Qualification, CONMEBOL",
-      "score": {
-        "home": 3,
-        "away": 4,
-        "htHome": 2,
-        "htAway": 3
-      },
+      "competition": null,
+      "score": null,
       "thumb": null,
       "file": "matches/2015-10-13_per_vs_chile.json"
     },
