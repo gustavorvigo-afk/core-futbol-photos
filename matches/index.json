@@ -625,6 +625,16 @@
       "file": "matches/2014-06-28_brazil_vs_chile.json"
     },
     {
+      "id": "2014-07-08_brazil_vs_germany",
+      "date": "2014-07-08",
+      "home": "Brazil",
+      "away": "Germany",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2014-07-08_brazil_vs_germany.json"
+    },
+    {
       "id": "2014-07-13_germany_vs_argentina",
       "date": "2014-07-13",
       "home": "Germany",
@@ -2293,6 +2303,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 222,
+  "count": 223,
   "updated": "2026-05-21"
 }
