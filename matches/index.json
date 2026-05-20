@@ -203,6 +203,16 @@
       "file": "matches/2012-10-07_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "2013-10-26_fc_barcelona_vs_real_madrid",
+      "date": "2013-10-26",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2013-10-26_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2014-09-16_manchester_city_vs_bayern_m_nchen",
       "date": "2014-09-16",
       "home": "Manchester City",
@@ -1159,6 +1169,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 111,
+  "count": 112,
   "updated": "2026-05-21"
 }
