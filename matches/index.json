@@ -333,6 +333,16 @@
       "file": "matches/2015-05-30_bayern_m_nchen_vs_borussia_dortmund.json"
     },
     {
+      "id": "2015-06-03_juventus_vs_lazio",
+      "date": "2015-06-03",
+      "home": "Juventus",
+      "away": "Lazio",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-06-03_juventus_vs_lazio.json"
+    },
+    {
       "id": "2015-06-06_juventus_vs_real_madrid",
       "date": "2015-06-06",
       "home": "Juventus",
@@ -1123,6 +1133,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 108,
+  "count": 109,
   "updated": "2026-05-21"
 }

@@ -1,0 +1,22 @@
+{
+  "id": "2015-06-03_juventus_vs_lazio",
+  "date": "2015-06-03",
+  "home": {
+    "name": "Juventus"
+  },
+  "away": {
+    "name": "Lazio"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
