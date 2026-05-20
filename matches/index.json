@@ -1155,6 +1155,16 @@
       "file": "matches/2016-10-11_chile_vs_per.json"
     },
     {
+      "id": "2016-11-06_sevilla_vs_fc_barcelona",
+      "date": "2016-11-06",
+      "home": "Sevilla",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-11-06_sevilla_vs_fc_barcelona.json"
+    },
+    {
       "id": "2016-11-11_paraguay_vs_per",
       "date": "2016-11-11",
       "home": "Paraguay",
@@ -1435,6 +1445,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 138,
+  "count": 139,
   "updated": "2026-05-21"
 }
