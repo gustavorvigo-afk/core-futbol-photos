@@ -948,6 +948,16 @@
       "file": "matches/2011-12-18_fc_barcelona_vs_santos.json"
     },
     {
+      "id": "2012-01-18_athletic_bilbao_vs_fc_barcelona",
+      "date": "2012-01-18",
+      "home": "Athletic Bilbao",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2012-01-18_athletic_bilbao_vs_fc_barcelona.json"
+    },
+    {
       "id": "2012-01-18_fc_barcelona_vs_real_madrid",
       "date": "2012-01-18",
       "home": "FC Barcelona",
@@ -3702,6 +3712,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 310,
+  "count": 311,
   "updated": "2026-05-20"
 }
