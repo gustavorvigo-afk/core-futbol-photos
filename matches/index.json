@@ -1583,8 +1583,13 @@
       "date": "2015-01-28",
       "home": "Atlético de Madrid",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "Copa del Rey",
+      "score": {
+        "home": 2,
+        "away": 3,
+        "htHome": 2,
+        "htAway": 3
+      },
       "thumb": null,
       "file": "matches/2015-01-28_atl_tico_de_madrid_vs_fc_barcelona.json"
     },
