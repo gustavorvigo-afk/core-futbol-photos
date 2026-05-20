@@ -154,6 +154,19 @@
       "file": "matches/2012-03-02_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2012-04-21_fc_barcelona_vs_real_madrid",
+      "date": "2012-04-21",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "thumb": null,
+      "file": "matches/2012-04-21_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2012-05-25_athletic_bilbao_vs_fc_barcelona",
       "date": "2012-05-25",
       "home": "Athletic Bilbao",
@@ -1133,6 +1146,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 109,
+  "count": 110,
   "updated": "2026-05-21"
 }
