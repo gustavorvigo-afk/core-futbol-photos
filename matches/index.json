@@ -2024,6 +2024,16 @@
       "file": "matches/2018-06-17_germany_vs_mexico.json"
     },
     {
+      "id": "2018-06-26_nigeria_vs_argentina",
+      "date": "2018-06-26",
+      "home": "Nigeria",
+      "away": "Argentina",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-06-26_nigeria_vs_argentina.json"
+    },
+    {
       "id": "2018-07-01_espa_a_vs_rusia",
       "date": "2018-07-01",
       "home": "España",
@@ -2333,6 +2343,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 226,
+  "count": 227,
   "updated": "2026-05-21"
 }
