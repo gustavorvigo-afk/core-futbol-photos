@@ -2080,6 +2080,16 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2025-04-30_fc_barcelona_vs_inter_de_mil_n",
+      "date": "2025-04-30",
+      "home": "FC Barcelona",
+      "away": "Inter de Milán",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2025-04-30_fc_barcelona_vs_inter_de_mil_n.json"
+    },
+    {
       "id": "2025-05-11_fc_barcelona_vs_real_madrid",
       "date": "2025-05-11",
       "home": "FC Barcelona",
@@ -2090,6 +2100,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 202,
+  "count": 203,
   "updated": "2026-05-21"
 }
