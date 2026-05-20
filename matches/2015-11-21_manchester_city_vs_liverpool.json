@@ -1,0 +1,22 @@
+{
+  "id": "2015-11-21_manchester_city_vs_liverpool",
+  "date": "2015-11-21",
+  "home": {
+    "name": "Manchester City"
+  },
+  "away": {
+    "name": "Liverpool"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
