@@ -1161,8 +1161,13 @@
       "date": "2013-03-22",
       "home": "Perú",
       "away": "Chile",
-      "competition": null,
-      "score": null,
+      "competition": "World Cup Qualification, CONMEBOL",
+      "score": {
+        "home": 1,
+        "away": 0,
+        "htHome": 0,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2013-03-22_per_vs_chile.json"
     },
