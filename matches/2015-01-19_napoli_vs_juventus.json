@@ -1,0 +1,22 @@
+{
+  "id": "2015-01-19_napoli_vs_juventus",
+  "date": "2015-01-19",
+  "home": {
+    "name": "Napoli"
+  },
+  "away": {
+    "name": "Juventus"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
