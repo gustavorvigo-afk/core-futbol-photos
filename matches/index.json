@@ -41,6 +41,16 @@
       "file": "matches/2012-03-02_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2012-05-25_athletic_bilbao_vs_fc_barcelona",
+      "date": "2012-05-25",
+      "home": "Athletic Bilbao",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2012-05-25_athletic_bilbao_vs_fc_barcelona.json"
+    },
+    {
       "id": "2014-09-16_manchester_city_vs_bayern_m_nchen",
       "date": "2014-09-16",
       "home": "Manchester City",
@@ -151,6 +161,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 15,
+  "count": 16,
   "updated": "2026-05-21"
 }
