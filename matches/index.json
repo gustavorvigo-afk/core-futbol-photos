@@ -154,6 +154,19 @@
       "file": "matches/2010-11-29_fc_barcelona_vs_real_madrid.json"
     },
     {
+      "id": "2011-04-27_real_madrid_vs_fc_barcelona",
+      "date": "2011-04-27",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2011-04-27_real_madrid_vs_fc_barcelona.json"
+    },
+    {
       "id": "2011-10-12_real_madrid_vs_fc_barcelona",
       "date": "2011-10-12",
       "home": "Real Madrid",
@@ -1485,6 +1498,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 143,
+  "count": 144,
   "updated": "2026-05-21"
 }
