@@ -61,6 +61,16 @@
       "file": "matches/2006-07-01_brazil_vs_france.json"
     },
     {
+      "id": "2006-07-09_france_vs_italy",
+      "date": "2006-07-09",
+      "home": "France",
+      "away": "Italy",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2006-07-09_france_vs_italy.json"
+    },
+    {
       "id": "2007-05-23_ac_milan_vs_liverpool",
       "date": "2007-05-23",
       "home": "AC Milan",
@@ -2213,6 +2223,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 214,
+  "count": 215,
   "updated": "2026-05-21"
 }
