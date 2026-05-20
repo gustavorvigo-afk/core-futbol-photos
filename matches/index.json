@@ -813,6 +813,16 @@
       "file": "matches/2011-03-08_fc_barcelona_vs_arsenal.json"
     },
     {
+      "id": "2011-03-08_real_madrid_vs_fc_barcelona",
+      "date": "2011-03-08",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2011-03-08_real_madrid_vs_fc_barcelona.json"
+    },
+    {
       "id": "2011-04-20_fc_barcelona_vs_real_madrid",
       "date": "2011-04-20",
       "home": "FC Barcelona",
@@ -3654,6 +3664,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 306,
+  "count": 307,
   "updated": "2026-05-20"
 }
