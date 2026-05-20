@@ -2602,8 +2602,13 @@
       "date": "2016-02-23",
       "home": "Juventus",
       "away": "Bayern München",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 2,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 1
+      },
       "thumb": null,
       "file": "matches/2016-02-23_juventus_vs_bayern_m_nchen.json"
     },
