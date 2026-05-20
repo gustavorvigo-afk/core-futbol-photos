@@ -213,6 +213,16 @@
       "file": "matches/2015-06-06_juventus_vs_real_madrid.json"
     },
     {
+      "id": "2015-08-14_bayern_m_nchen_vs_hamburger_sv",
+      "date": "2015-08-14",
+      "home": "Bayern München",
+      "away": "Hamburger SV",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-08-14_bayern_m_nchen_vs_hamburger_sv.json"
+    },
+    {
       "id": "2015-10-04_arsenal_vs_manchester_united",
       "date": "2015-10-04",
       "home": "Arsenal",
@@ -893,6 +903,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 85,
+  "count": 86,
   "updated": "2026-05-21"
 }
