@@ -437,6 +437,16 @@
       "file": "matches/2019-07-07_brasil_vs_per.json"
     },
     {
+      "id": "2019-11-23_flamengo_vs_river_plate",
+      "date": "2019-11-23",
+      "home": "Flamengo",
+      "away": "River Plate",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-11-23_flamengo_vs_river_plate.json"
+    },
+    {
       "id": "2021-09-09_per_vs_brasil",
       "date": "2021-09-09",
       "home": "Perú",
@@ -477,6 +487,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 47,
+  "count": 48,
   "updated": "2026-05-21"
 }
