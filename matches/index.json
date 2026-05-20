@@ -2324,6 +2324,16 @@
       "file": "matches/2018-07-15_france_vs_croatia.json"
     },
     {
+      "id": "2018-09-06_netherlands_vs_per",
+      "date": "2018-09-06",
+      "home": "Netherlands",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-09-06_netherlands_vs_per.json"
+    },
+    {
       "id": "2018-09-09_deutschland_vs_per",
       "date": "2018-09-09",
       "home": "Deutschland",
@@ -2643,6 +2653,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 257,
+  "count": 258,
   "updated": "2026-05-21"
 }
