@@ -1,0 +1,40 @@
+{
+  "id": "2015-10-24_arsenal_vs_everton",
+  "date": "2015-10-24",
+  "home": {
+    "name": "Arsenal"
+  },
+  "away": {
+    "name": "Everton"
+  },
+  "score": {
+    "home": 2,
+    "away": 1
+  },
+  "competition": {
+    "name": "English Premier League",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/dsnjpz1679951317.png",
+    "season": "2015-2016",
+    "round": "10"
+  },
+  "venue": {
+    "name": null,
+    "city": null,
+    "country": null
+  },
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": []
+}

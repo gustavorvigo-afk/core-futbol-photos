@@ -193,6 +193,19 @@
       "file": "matches/2015-10-13_per_vs_chile.json"
     },
     {
+      "id": "2015-10-24_arsenal_vs_everton",
+      "date": "2015-10-24",
+      "home": "Arsenal",
+      "away": "Everton",
+      "competition": "English Premier League",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-10-24_arsenal_vs_everton.json"
+    },
+    {
       "id": "2015-11-03_manchester_city_vs_juventus",
       "date": "2015-11-03",
       "home": "Manchester City",
@@ -523,6 +536,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 51,
+  "count": 52,
   "updated": "2026-05-21"
 }
