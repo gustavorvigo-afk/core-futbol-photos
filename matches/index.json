@@ -2467,6 +2467,16 @@
       "file": "matches/2019-06-01_tottenham_vs_liverpool.json"
     },
     {
+      "id": "2019-06-09_sweden_vs_per",
+      "date": "2019-06-09",
+      "home": "Sweden",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-06-09_sweden_vs_per.json"
+    },
+    {
       "id": "2019-07-07_brasil_vs_per",
       "date": "2019-07-07",
       "home": "Brasil",
@@ -2703,6 +2713,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 263,
+  "count": 264,
   "updated": "2026-05-21"
 }
