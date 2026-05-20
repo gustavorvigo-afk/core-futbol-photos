@@ -2532,8 +2532,13 @@
       "date": "2016-02-17",
       "home": "AS Roma",
       "away": "Real Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Knockout stage",
+      "score": {
+        "home": 0,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 0
+      },
       "thumb": null,
       "file": "matches/2016-02-17_as_roma_vs_real_madrid.json"
     },
