@@ -2107,8 +2107,11 @@
       "date": "2017-04-23",
       "home": "Real Madrid",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
       "thumb": null,
       "file": "matches/2017-04-23_real_madrid_vs_fc_barcelona.json"
     },
