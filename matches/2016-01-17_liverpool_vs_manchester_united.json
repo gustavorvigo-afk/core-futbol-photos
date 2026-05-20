@@ -1,0 +1,22 @@
+{
+  "id": "2016-01-17_liverpool_vs_manchester_united",
+  "date": "2016-01-17",
+  "home": {
+    "name": "Liverpool"
+  },
+  "away": {
+    "name": "Manchester United"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
