@@ -615,6 +615,16 @@
       "file": "matches/2015-02-08_athletic_club_vs_fc_barcelona.json"
     },
     {
+      "id": "2015-02-24_manchester_city_vs_fc_barcelona",
+      "date": "2015-02-24",
+      "home": "Manchester City",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-02-24_manchester_city_vs_fc_barcelona.json"
+    },
+    {
       "id": "2015-03-02_roma_vs_juventus",
       "date": "2015-03-02",
       "home": "Roma",
@@ -1781,6 +1791,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 172,
+  "count": 173,
   "updated": "2026-05-21"
 }
