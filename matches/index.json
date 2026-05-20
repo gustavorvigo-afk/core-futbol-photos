@@ -2090,6 +2090,16 @@
       "file": "matches/2018-06-30_france_vs_argentina.json"
     },
     {
+      "id": "2018-06-30_uruguay_vs_portugal",
+      "date": "2018-06-30",
+      "home": "Uruguay",
+      "away": "Portugal",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2018-06-30_uruguay_vs_portugal.json"
+    },
+    {
       "id": "2018-07-01_espa_a_vs_rusia",
       "date": "2018-07-01",
       "home": "España",
@@ -2452,6 +2462,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 237,
+  "count": 238,
   "updated": "2026-05-21"
 }
