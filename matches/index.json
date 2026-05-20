@@ -293,6 +293,16 @@
       "file": "matches/2011-10-12_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2012-01-18_fc_barcelona_vs_real_madrid",
+      "date": "2012-01-18",
+      "home": "FC Barcelona",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2012-01-18_fc_barcelona_vs_real_madrid.json"
+    },
+    {
       "id": "2012-03-01_universidad_de_chile_vs_deportivo_quito",
       "date": "2012-03-01",
       "home": "Universidad de Chile",
@@ -2004,6 +2014,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 194,
+  "count": 195,
   "updated": "2026-05-21"
 }
