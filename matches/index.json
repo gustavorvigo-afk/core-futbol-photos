@@ -399,6 +399,16 @@
       "file": "matches/2013-04-23_bayern_m_nchen_vs_fc_barcelona.json"
     },
     {
+      "id": "2013-04-24_borussia_dortmund_vs_real_madrid",
+      "date": "2013-04-24",
+      "home": "Borussia Dortmund",
+      "away": "Real Madrid",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2013-04-24_borussia_dortmund_vs_real_madrid.json"
+    },
+    {
       "id": "2013-10-26_fc_barcelona_vs_real_madrid",
       "date": "2013-10-26",
       "home": "FC Barcelona",
@@ -1641,6 +1651,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 158,
+  "count": 159,
   "updated": "2026-05-21"
 }
