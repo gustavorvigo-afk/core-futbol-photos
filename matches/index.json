@@ -1654,6 +1654,16 @@
       "file": "matches/2016-03-24_per_vs_venezuela.json"
     },
     {
+      "id": "2016-03-29_uruguay_vs_per",
+      "date": "2016-03-29",
+      "home": "Uruguay",
+      "away": "Perú",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2016-03-29_uruguay_vs_per.json"
+    },
+    {
       "id": "2016-04-02_bayern_m_nchen_vs_wolfsburg",
       "date": "2016-04-02",
       "home": "Bayern München",
@@ -2303,6 +2313,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 223,
+  "count": 224,
   "updated": "2026-05-21"
 }
