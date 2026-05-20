@@ -849,6 +849,19 @@
       "file": "matches/2011-04-27_real_madrid_vs_fc_barcelona.json"
     },
     {
+      "id": "2011-05-28_fc_barcelona_vs_chelsea",
+      "date": "2011-05-28",
+      "home": "FC Barcelona",
+      "away": "Chelsea",
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2011-05-28_fc_barcelona_vs_chelsea.json"
+    },
+    {
       "id": "2011-05-28_fc_barcelona_vs_manchester_united",
       "date": "2011-05-28",
       "home": "FC Barcelona",
@@ -3664,6 +3677,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 307,
+  "count": 308,
   "updated": "2026-05-20"
 }
