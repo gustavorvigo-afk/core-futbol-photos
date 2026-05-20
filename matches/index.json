@@ -2384,6 +2384,16 @@
       "file": "matches/2019-03-05_real_madrid_vs_ajax.json"
     },
     {
+      "id": "2019-03-23_per_vs_croatia",
+      "date": "2019-03-23",
+      "home": "Perú",
+      "away": "Croatia",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2019-03-23_per_vs_croatia.json"
+    },
+    {
       "id": "2019-04-17_manchester_city_vs_tottenham_hotspur",
       "date": "2019-04-17",
       "home": "Manchester City",
@@ -2663,6 +2673,6 @@
       "file": "matches/2025-05-11_fc_barcelona_vs_real_madrid.json"
     }
   ],
-  "count": 259,
+  "count": 260,
   "updated": "2026-05-21"
 }
