@@ -117,6 +117,19 @@
       "file": "matches/2014-11-01_fc_barcelona_vs_getafe.json"
     },
     {
+      "id": "2015-04-04_arsenal_vs_liverpool",
+      "date": "2015-04-04",
+      "home": "Arsenal",
+      "away": "Liverpool",
+      "competition": "English Premier League",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "thumb": null,
+      "file": "matches/2015-04-04_arsenal_vs_liverpool.json"
+    },
+    {
       "id": "2015-04-05_fc_barcelona_vs_atl_tico_de_madrid",
       "date": "2015-04-05",
       "home": "FC Barcelona",
@@ -487,6 +500,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 48,
+  "count": 49,
   "updated": "2026-05-21"
 }
