@@ -1135,6 +1135,16 @@
       "file": "matches/2017-03-28_per_vs_uruguay.json"
     },
     {
+      "id": "2017-04-23_real_madrid_vs_fc_barcelona",
+      "date": "2017-04-23",
+      "home": "Real Madrid",
+      "away": "FC Barcelona",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2017-04-23_real_madrid_vs_fc_barcelona.json"
+    },
+    {
       "id": "2017-09-09_manchester_city_vs_liverpool",
       "date": "2017-09-09",
       "home": "Manchester City",
@@ -1315,6 +1325,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 126,
+  "count": 127,
   "updated": "2026-05-21"
 }
