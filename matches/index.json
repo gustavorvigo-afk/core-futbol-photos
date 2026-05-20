@@ -1988,8 +1988,13 @@
       "date": "2015-09-16",
       "home": "FC Barcelona",
       "away": "AS Roma",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League, Group E",
+      "score": {
+        "home": 1,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 1
+      },
       "thumb": null,
       "file": "matches/2015-09-16_fc_barcelona_vs_as_roma.json"
     },
