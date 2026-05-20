@@ -1,0 +1,22 @@
+{
+  "id": "2016-01-17_fc_barcelona_vs_athletic_club",
+  "date": "2016-01-17",
+  "home": {
+    "name": "FC Barcelona"
+  },
+  "away": {
+    "name": "Athletic Club"
+  },
+  "score": null,
+  "competition": null,
+  "venue": null,
+  "thumb": null,
+  "fanart": null,
+  "description": null,
+  "tags": [],
+  "teamStats": null,
+  "timeline": [],
+  "lineups": null,
+  "sources": [],
+  "photos": []
+}
