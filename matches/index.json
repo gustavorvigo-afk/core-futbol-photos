@@ -369,6 +369,16 @@
       "file": "matches/2015-03-02_roma_vs_juventus.json"
     },
     {
+      "id": "2015-03-08_fc_barcelona_vs_rayo_vallecano",
+      "date": "2015-03-08",
+      "home": "FC Barcelona",
+      "away": "Rayo Vallecano",
+      "competition": null,
+      "score": null,
+      "thumb": null,
+      "file": "matches/2015-03-08_fc_barcelona_vs_rayo_vallecano.json"
+    },
+    {
       "id": "2015-03-22_fc_barcelona_vs_real_madrid",
       "date": "2015-03-22",
       "home": "FC Barcelona",
@@ -1285,6 +1295,6 @@
       "file": "matches/2024-04-26_real_madrid_vs_fc_barcelona.json"
     }
   ],
-  "count": 123,
+  "count": 124,
   "updated": "2026-05-21"
 }
