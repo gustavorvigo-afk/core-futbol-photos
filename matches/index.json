@@ -91,11 +91,8 @@
       "date": "2007-05-23",
       "home": "AC Milan",
       "away": "Liverpool",
-      "competition": "UEFA Champions League",
-      "score": {
-        "home": 2,
-        "away": 1
-      },
+      "competition": null,
+      "score": null,
       "thumb": null,
       "file": "matches/2007-05-23_ac_milan_vs_liverpool.json"
     },
