@@ -2520,9 +2520,12 @@
       "date": "2019-05-07",
       "home": "Liverpool",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
-      "thumb": null,
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/xaj2ox1555786375.jpg",
       "file": "matches/2019-05-07_liverpool_vs_fc_barcelona.json"
     },
     {
