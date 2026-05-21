@@ -305,8 +305,11 @@
       "date": "2010-07-07",
       "home": "Germany",
       "away": "Spain",
-      "competition": null,
-      "score": null,
+      "competition": "FIFA World Cup",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
       "thumb": null,
       "file": "matches/2010-07-07_germany_vs_spain.json"
     },

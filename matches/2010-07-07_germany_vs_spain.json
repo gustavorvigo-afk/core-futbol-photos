@@ -7,16 +7,34 @@
   "away": {
     "name": "Spain"
   },
-  "score": null,
-  "competition": null,
-  "venue": null,
+  "score": {
+    "home": 0,
+    "away": 1
+  },
+  "competition": {
+    "name": "FIFA World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png",
+    "season": "2010",
+    "round": "150"
+  },
+  "venue": {
+    "name": "Moses Mabhida Stadium",
+    "city": "Durban",
+    "country": "South Africa"
+  },
   "thumb": null,
   "fanart": null,
-  "description": null,
+  "description": "2010 FIFA World Cup - Semi-finals",
   "tags": [],
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [],
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
   "photos": []
 }
