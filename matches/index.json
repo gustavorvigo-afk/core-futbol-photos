@@ -683,9 +683,12 @@
       "date": "2014-06-13",
       "home": "Spain",
       "away": "Netherlands",
-      "competition": null,
-      "score": null,
-      "thumb": null,
+      "competition": "FIFA World Cup",
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/qqspqx1455467195.jpg",
       "file": "matches/2014-06-13_spain_vs_netherlands.json"
     },
     {
