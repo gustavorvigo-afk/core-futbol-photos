@@ -7,16 +7,51 @@
   "away": {
     "name": "Germany"
   },
-  "score": null,
-  "competition": null,
-  "venue": null,
-  "thumb": null,
-  "fanart": null,
-  "description": null,
+  "score": {
+    "home": 1,
+    "away": 7
+  },
+  "competition": {
+    "name": "FIFA World Cup",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png",
+    "season": "2014",
+    "round": "150"
+  },
+  "venue": {
+    "name": "Estádio Mineirão",
+    "city": "Belo Horizonte",
+    "country": "Brazil"
+  },
+  "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/fbtqa41531679934.jpg",
+  "fanart": "https://r2.thesportsdb.com/images/media/event/fanart/xslbu21531680064.jpg",
+  "description": "The two teams had met in 21 previous matches, including in the final of the 2002 FIFA World Cup (their only previous encounter in the tournament's history), won by Brazil 2–0.\r\n\r\nWhile Germany kept the same starting line-up as their quarter-final against France, Brazil made two changes: defender and captain Thiago Silva was suspended for the match due to accumulation of yellow cards, and was replaced by Dante, while forward Neymar was sidelined after suffering a fractured vertebra in the quarter-final against Colombia, and was replaced by Bernard. Germany took the lead in the 11th minute, Thomas Müller volleying in Toni Kroos's corner. Miroslav Klose scored Germany's second goal, after a passing move saw him set up by Kroos, his first shot was saved by Brazil goalkeeper Júlio César, but he slotted in the rebound. Kroos then scored two quick goals, the first one after Philipp Lahm's cross was missed by Müller, the second one after stealing the ball from Fernandinho and playing a quick one-two with Sami Khedira. Khedira then scored Germany's fourth goal in six minutes, after exchanging passes with Mesut Özil, to give Germany a 5–0 halftime lead. Substitute André Schürrle added two more goals in the second half, first slotting in from Lahm's cross, then scoring via the crossbar after a cut-back from Müller. Brazil scored a consolation goal in the 90th minute, as Oscar received a pass from Marcelo, dribbled inside and scored. Germany reached their eighth World Cup final, a record by any nation, where they would face Argentina, while Brazil had to settle for the third-place play-off against the Netherlands.\r\n\r\nThe game equalled Brazil’s biggest margin of defeat, a 6–0 loss to Uruguay in 1920, and it broke a 62-match home unbeaten streak in competitive matches going back to 1975. The match also broke many World Cup records: It was Brazil's biggest World Cup defeat (eclipsing their 1998 final loss to France), the biggest defeat by a World Cup host nation (previous record was by three goals), and the biggest margin of victory in a World Cup semi-final (three previous semi-finals ended in 6–1 scorelines).\r\n\r\nKlose's goal was his 16th overall throughout his World Cup appearances, allowing him to beat Ronaldo for the record of all-time top scorer in World Cup finals tournaments. Germany's seven goals took their total tally in World Cup history to 223, surpassing Brazil's 221 goals to first place overall.",
   "tags": [],
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [],
-  "photos": []
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": [
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/fanart/xslbu21531680064.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/fbtqa41531679934.jpg",
+      "width": 1280,
+      "height": 720,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    },
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/thumb/fbtqa41531679934.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/fbtqa41531679934.jpg",
+      "width": 640,
+      "height": 360,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    }
+  ]
 }

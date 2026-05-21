@@ -706,9 +706,12 @@
       "date": "2014-07-08",
       "home": "Brazil",
       "away": "Germany",
-      "competition": null,
-      "score": null,
-      "thumb": null,
+      "competition": "FIFA World Cup",
+      "score": {
+        "home": 1,
+        "away": 7
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/fbtqa41531679934.jpg",
       "file": "matches/2014-07-08_brazil_vs_germany.json"
     },
     {
