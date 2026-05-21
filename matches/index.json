@@ -1745,8 +1745,11 @@
       "date": "2016-03-12",
       "home": "FC Barcelona",
       "away": "Getafe",
-      "competition": null,
-      "score": null,
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
       "thumb": null,
       "file": "matches/2016-03-12_fc_barcelona_vs_getafe.json"
     },
