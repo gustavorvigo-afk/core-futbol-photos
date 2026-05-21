@@ -2159,8 +2159,11 @@
       "date": "2017-06-03",
       "home": "Juventus",
       "away": "Real Madrid",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
       "thumb": null,
       "file": "matches/2017-06-03_juventus_vs_real_madrid.json"
     },

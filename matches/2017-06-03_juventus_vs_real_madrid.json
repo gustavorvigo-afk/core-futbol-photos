@@ -7,16 +7,43 @@
   "away": {
     "name": "Real Madrid"
   },
-  "score": null,
-  "competition": null,
-  "venue": null,
+  "score": {
+    "home": 1,
+    "away": 4
+  },
+  "competition": {
+    "name": "UEFA Champions League",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
+    "season": "2016-2017",
+    "round": "200"
+  },
+  "venue": {
+    "name": "Principality Stadium",
+    "city": "Cardiff",
+    "country": ""
+  },
   "thumb": null,
-  "fanart": null,
-  "description": null,
+  "fanart": "https://r2.thesportsdb.com/images/media/event/fanart/w26p9n1535271714.jpg",
+  "description": "The 2017 UEFA Champions League final was the final match of the 2016–17 UEFA Champions League, the 62nd season of Europe's premier club football tournament organised by UEFA, and the 25th season since it was renamed from the European Cup to the UEFA Champions League. It was played at the Millennium Stadium in Cardiff, Wales on 3 June 2017, between Italian side Juventus and Spanish side and title holders Real Madrid, in a repeat of the 1998 final. It would also be the first European Cup final held under a closed roof.",
   "tags": [],
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [],
-  "photos": []
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": [
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/fanart/w26p9n1535271714.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/fanart/w26p9n1535271714.jpg",
+      "width": 1280,
+      "height": 720,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    }
+  ]
 }
