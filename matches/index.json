@@ -48,8 +48,11 @@
       "date": "2006-05-17",
       "home": "FC Barcelona",
       "away": "Arsenal",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
       "thumb": null,
       "file": "matches/2006-05-17_fc_barcelona_vs_arsenal.json"
     },
