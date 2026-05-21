@@ -137,8 +137,11 @@
       "date": "2008-05-21",
       "home": "Manchester United",
       "away": "Chelsea",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
       "thumb": null,
       "file": "matches/2008-05-21_manchester_united_vs_chelsea.json"
     },
