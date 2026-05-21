@@ -2497,9 +2497,12 @@
       "date": "2019-04-17",
       "home": "Manchester City",
       "away": "Tottenham Hotspur",
-      "competition": null,
-      "score": null,
-      "thumb": null,
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/a1r93h1552670204.jpg",
       "file": "matches/2019-04-17_manchester_city_vs_tottenham_hotspur.json"
     },
     {
