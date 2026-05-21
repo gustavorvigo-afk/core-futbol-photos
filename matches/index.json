@@ -1113,8 +1113,11 @@
       "date": "2015-06-06",
       "home": "FC Barcelona",
       "away": "Juventus",
-      "competition": null,
-      "score": null,
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
       "thumb": null,
       "file": "matches/2015-06-06_fc_barcelona_vs_juventus.json"
     },
