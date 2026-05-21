@@ -2467,9 +2467,12 @@
       "date": "2019-03-05",
       "home": "Real Madrid",
       "away": "Ajax",
-      "competition": null,
-      "score": null,
-      "thumb": null,
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/zim4ks1551725844.jpg",
       "file": "matches/2019-03-05_real_madrid_vs_ajax.json"
     },
     {
