@@ -2225,9 +2225,12 @@
       "date": "2018-05-26",
       "home": "Real Madrid",
       "away": "Liverpool",
-      "competition": null,
-      "score": null,
-      "thumb": null,
+      "competition": "UEFA Champions League",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/6lhkgj1634960085.jpg",
       "file": "matches/2018-05-26_real_madrid_vs_liverpool.json"
     },
     {

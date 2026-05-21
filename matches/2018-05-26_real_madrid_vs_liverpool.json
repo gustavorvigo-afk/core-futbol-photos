@@ -7,16 +7,51 @@
   "away": {
     "name": "Liverpool"
   },
-  "score": null,
-  "competition": null,
-  "venue": null,
-  "thumb": null,
-  "fanart": null,
-  "description": null,
+  "score": {
+    "home": 3,
+    "away": 1
+  },
+  "competition": {
+    "name": "UEFA Champions League",
+    "logo": "https://r2.thesportsdb.com/images/media/league/badge/5y7gsj1678720262.png",
+    "season": "2017-2018",
+    "round": "200"
+  },
+  "venue": {
+    "name": "",
+    "city": "",
+    "country": ""
+  },
+  "thumb": "https://r2.thesportsdb.com/images/media/event/thumb/6lhkgj1634960085.jpg",
+  "fanart": "https://r2.thesportsdb.com/images/media/event/fanart/ae2ug21535270502.jpg",
+  "description": "UEFA Champions League Final",
   "tags": [],
   "teamStats": null,
   "timeline": [],
   "lineups": null,
-  "sources": [],
-  "photos": []
+  "sources": [
+    "thesportsdb"
+  ],
+  "teamLogos": {
+    "home": null,
+    "away": null
+  },
+  "photos": [
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/fanart/ae2ug21535270502.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/6lhkgj1634960085.jpg",
+      "width": 1280,
+      "height": 720,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    },
+    {
+      "url": "https://r2.thesportsdb.com/images/media/event/thumb/6lhkgj1634960085.jpg",
+      "thumbUrl": "https://r2.thesportsdb.com/images/media/event/thumb/6lhkgj1634960085.jpg",
+      "width": 640,
+      "height": 360,
+      "source": "thesportsdb.com",
+      "credit": "TheSportsDB"
+    }
+  ]
 }
