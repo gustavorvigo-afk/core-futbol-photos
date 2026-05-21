@@ -1506,8 +1506,11 @@
       "date": "2016-01-23",
       "home": "Málaga",
       "away": "FC Barcelona",
-      "competition": null,
-      "score": null,
+      "competition": "Spanish La Liga",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
       "thumb": null,
       "file": "matches/2016-01-23_m_laga_vs_fc_barcelona.json"
     },
